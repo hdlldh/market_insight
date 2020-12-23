@@ -29,8 +29,8 @@ class YahooStatisticsSpider(scrapy.Spider):
         new_data = json.dumps(data).replace('{}', 'null')
         new_data = re.sub(r'\{[\'|\"]raw[\'|\"]:(.*?),(.*?)\}', r'\1', new_data)
         data_dict = json.loads(new_data)
-        fields = ['summaryProfile', 'summaryDetail', 'quoteType',
-                 'defaultKeyStatistics', 'assetProfile', 'summaryDetail']
+        fields = ['summaryProfile', 'summaryDetail',
+                 'defaultKeyStatistics', 'financialData']
         item = dict()
         for field in fields:
             if isinstance(data_dict.get(field), dict):

@@ -1,2989 +1,1779 @@
-Symbol,Name,DowComposite,Nasdaq100,Russell1000,Russell2000,S&P100,S&P500,S&P400,S&P600,WatchList
-A,Agilent Technologies,0,0,1,0,0,1,0,0,0
-AA,Alcoa Corp,0,0,1,0,0,0,0,0,0
-AAC,Aac Holdings Inc,0,0,0,1,0,0,0,0,0
-AAL,American Airlines Gp,1,1,1,0,0,1,0,0,0
-AAN,Aaron's Inc,0,0,0,1,0,0,1,0,0
-AAOI,Applied Optoelect,0,0,0,1,0,0,0,1,0
-AAON,Aaon Inc,0,0,0,1,0,0,0,1,0
-AAP,Advance Auto Parts Inc,0,0,1,0,0,1,0,0,0
-AAPL,Apple Inc,1,1,1,0,1,1,0,0,0
-AAT,American Assets Trust,0,0,0,1,0,0,0,1,0
-AAWW,Atlas Air Ww,0,0,0,1,0,0,0,1,0
-AAXN,Axon Inc,0,0,0,1,0,0,0,1,0
-ABAX,Abaxis Inc,0,0,0,1,0,0,0,1,0
-ABBV,Abbvie Inc,0,0,1,0,1,1,0,0,0
-ABC,Amerisourcebergen Corp,0,0,1,0,0,1,0,0,0
-ABCB,Ameris Bancorp,0,0,0,1,0,0,0,1,0
-ABCD,Cambium Learning Grp,0,0,0,1,0,0,0,0,0
-ABCO,Advisory Board Co,0,0,0,1,0,0,0,0,0
-ABEO,Abeona Therapeutics,0,0,0,1,0,0,0,0,0
-ABG,Asbury Automotive Group Inc,0,0,0,1,0,0,0,1,0
-ABM,ABM Industries Incorporated,0,0,0,1,0,0,0,1,0
-ABMD,Abiomed Inc,0,0,1,0,0,0,1,0,0
-ABT,Abbott Laboratories,0,0,1,0,1,1,0,0,0
-ABTX,Allegiance Banc CS,0,0,0,1,0,0,0,0,0
-AC,Associated Capital Group Inc,0,0,0,1,0,0,0,0,0
-ACAD,Acadia Pharmaceutica,0,0,1,0,0,0,0,0,0
-ACBI,Atlantic Capital,0,0,0,1,0,0,0,0,0
-ACC,American Campus Communities Inc,0,0,1,0,0,0,1,0,0
-ACCO,Acco Brands Corp,0,0,0,1,0,0,0,0,0
-ACET,Aceto Cp,0,0,0,1,0,0,0,1,0
-ACGL,Arch Capital Grp Ltd,0,0,1,0,0,0,0,0,0
-ACHC,Acadia Healthcr Co,0,0,1,0,0,0,1,0,0
-ACHN,Achillion Pharmaceut,0,0,0,1,0,0,0,0,0
-ACIA,Acacia Communica,0,0,0,1,0,0,0,0,0
-ACIW,Aci Worldwide Inc,0,0,0,1,0,0,1,0,0
-ACLS,Axcelis Tech Inc,0,0,0,1,0,0,0,1,0
-ACM,Aecom Technology Corp,0,0,1,0,0,0,1,0,0
-ACN,Accenture Plc,0,0,1,0,1,1,0,0,0
-ACNB,Acnb Corp,0,0,0,1,0,0,0,0,0
-ACOR,Acorda Therapeutics,0,0,0,1,0,0,0,1,0
-ACRE,Ares Commercial Real Estate Cor,0,0,0,1,0,0,0,0,0
-ACRS,Aclaris Therapts,0,0,0,1,0,0,0,0,0
-ACTA,Actua Corp,0,0,0,1,0,0,0,0,0
-ACTG,Acacia Res-Acacia,0,0,0,1,0,0,0,0,0
-ACXM,Acxiom Cp,0,0,0,1,0,0,1,0,0
-ADBE,Adobe Systems Inc,0,1,1,0,0,1,0,0,0
-ADC,Agree Realty Corp,0,0,0,1,0,0,0,1,0
-ADES,Advanced Emissions Solutions Inc,0,0,0,1,0,0,0,0,0
-ADI,Analog Devices,0,1,1,0,0,1,0,0,0
-ADM,Archer Daniels Midland Company,0,0,1,0,0,1,0,0,0
-ADMS,Adamas Pharma,0,0,0,1,0,0,0,0,0
-ADNT,Adient Plc,0,0,1,0,0,0,0,0,0
-ADP,Automatic Data Procs,0,1,1,0,0,1,0,0,0
-ADRO,Aduro Biotech,0,0,0,1,0,0,0,0,0
-ADS,Alliance Data Systems Corp,0,0,1,0,0,1,0,0,0
-ADSK,Autodesk Inc,0,1,1,0,0,1,0,0,0
-ADSW,Advanced Disposal Services Inc,0,0,0,1,0,0,0,0,0
-ADTN,Adtran Inc,0,0,0,1,0,0,0,1,0
-ADUS,Addus Homecare Corpo,0,0,0,1,0,0,0,0,0
-ADXS,Advaxis Inc,0,0,0,1,0,0,0,0,0
-AE,Adams Resources & Energy,0,0,0,1,0,0,0,0,0
-AEE,Ameren Corp,0,0,1,0,0,1,0,0,0
-AEGN,Aegion Corp,0,0,0,1,0,0,0,1,0
-AEIS,Advanced Energy,0,0,0,1,0,0,0,1,0
-AEL,American Equity Investment Life,0,0,0,1,0,0,0,1,0
-AEO,American Eagle Outfitters,0,0,0,1,0,0,1,0,0
-AEP,American Electric Power Company,1,0,1,0,0,1,0,0,0
-AERI,Aerie Pharmaceutical,0,0,0,1,0,0,0,0,0
-AES,The Aes Corp,1,0,1,0,0,1,0,0,0
-AET,Aetna Inc,0,0,1,0,0,1,0,0,0
-AFAM,Almost Family Inc,0,0,0,1,0,0,0,1,0
-AFG,American Financial Group,0,0,1,0,0,0,1,0,0
-AFH,Atlas Fincl Hld Ord,0,0,0,1,0,0,0,0,0
-AFI,Armstrong Flooring Inc,0,0,0,1,0,0,0,0,0
-AFL,Aflac Incorporated,0,0,1,0,0,1,0,0,0
-AFSI,Amtrust Financial,0,0,0,1,0,0,0,0,0
-AGCO,Agco Corp,0,0,1,0,0,0,1,0,0
-AGEN,Agenus Inc,0,0,0,1,0,0,0,0,0
-AGFS,Agrofresh Solutions,0,0,0,1,0,0,0,0,0
-AGII,Argo Group Intl Hlds,0,0,0,1,0,0,0,0,0
-AGIO,Agios Pharmaceutical,0,0,1,0,0,0,0,0,0
-AGM,Federal Agricultural Mortgage Corp,0,0,0,1,0,0,0,0,0
-AGN,Allergan Plc,0,0,1,0,1,1,0,0,0
-AGNC,American Capital Age,0,0,1,0,0,0,0,0,0
-AGO,Assured Guaranty Ltd,0,0,1,0,0,0,0,0,0
-AGR,Avangrid Inc,0,0,1,0,0,0,0,0,0
-AGX,Argan Inc,0,0,0,1,0,0,0,0,0
-AGYS,Agilysys Inc,0,0,0,1,0,0,0,1,0
-AHH,Armada Hoffler Properties Inc,0,0,0,1,0,0,0,1,0
-AHL,Aspen Insurance Holdings,0,0,1,0,0,0,1,0,0
-AHP,Ashford Hospitality Prime Inc,0,0,0,1,0,0,0,0,0
-AHT,Ashford Hospitality Trust Inc,0,0,0,1,0,0,0,0,0
-AI,Arlington Asset Investment Corp,0,0,0,1,0,0,0,0,0
-AIG,American International Group,0,0,1,0,1,1,0,0,0
-AIMC,Altra Indtl Mtn,0,0,0,1,0,0,0,0,0
-AIMT,Aimmune Therap,0,0,0,1,0,0,0,0,0
-AIN,Albany International Corp,0,0,0,1,0,0,0,1,0
-AIR,AAR Corp,0,0,0,1,0,0,0,1,0
-AIT,Applied Industrial Technologies,0,0,0,1,0,0,0,1,0
-AIV,Apartment Investment and Management,0,0,1,0,0,1,0,0,0
-AIZ,Assurant Inc,0,0,1,0,0,1,0,0,0
-AJG,Arthur J. Gallagher & Co,0,0,1,0,0,1,0,0,0
-AJRD,Aerojet Rocketdyne Holdings,0,0,0,1,0,0,0,1,0
-AJX,Great Ajax Corp,0,0,0,1,0,0,0,0,0
-AKAM,Akamai Technologies,0,1,1,0,0,1,0,0,0
-AKAO,Achaogen Inc,0,0,0,1,0,0,0,0,0
-AKBA,Akebia Therapeutics,0,0,0,1,0,0,0,0,0
-AKCA,Akcea Therapeutics Inc,0,0,0,1,0,0,0,0,0
-AKR,Acadia Realty Trust,0,0,0,1,0,0,0,1,0
-AKRX,Akorn Inc,0,0,1,0,0,0,1,0,0
-AKS,AK Steel Holding Corp,0,0,0,1,0,0,0,1,0
-AKTS,Akoustis Technologies Inc,0,0,0,1,0,0,0,0,0
-AL,Air Lease Corporation Class A C,0,0,1,0,0,0,0,0,0
-ALB,Albemarle Corp,0,0,1,0,0,1,0,0,0
-ALCO,Alico Inc,0,0,0,1,0,0,0,0,0
-ALDR,Alder Biopharma,0,0,0,1,0,0,0,0,0
-ALE,Allete Inc,0,0,0,1,0,0,0,1,0
-ALEX,Alexander and Baldwin Inc,0,0,0,1,0,0,1,0,0
-ALG,Alamo Group,0,0,0,1,0,0,0,1,0
-ALGN,Align Technology I,0,1,1,0,0,1,0,0,0
-ALGT,Allegiant Travel Com,0,0,0,1,0,0,0,1,0
-ALK,Alaska Air Group,1,0,1,0,0,1,0,0,0
-ALKS,Alkermes Plc,0,0,1,0,0,0,0,0,0
-ALL,Allstate Corp,0,0,1,0,1,1,0,0,0
-ALLE,Allegion Plc Ordinary Shares Wh,0,0,1,0,0,1,0,0,0
-ALLY,Ally Financial,0,0,1,0,0,0,0,0,0
-ALNY,Alnylam Pharmaceut,0,0,1,0,0,0,0,0,0
-ALOG,Analogic Cp,0,0,0,1,0,0,0,1,0
-ALRM,Alarm.Com,0,0,0,1,0,0,0,0,0
-ALRN,Aileron Therapeutics Inc,0,0,0,1,0,0,0,0,0
-ALSN,Allison Transmission Holdings,0,0,1,0,0,0,0,0,0
-ALX,Alexander's Inc,0,0,0,1,0,0,0,0,0
-ALXN,Alexion Pharm Inc,0,1,1,0,0,1,0,0,0
-AMAG,Amag Pharmaceuticals,0,0,0,1,0,0,0,1,0
-AMAT,Applied Materials,0,1,1,0,0,1,0,0,0
-AMBA,Ambarella Inc,0,0,0,1,0,0,0,0,0
-AMBC,Ambac Financial Grp,0,0,0,1,0,0,0,0,0
-AMBR,Amber Road Inc,0,0,0,1,0,0,0,0,0
-AMC,Amc Entertainment Holdings Inc,0,0,0,1,0,0,0,0,0
-AMCX,Amc Networks Cl A,0,0,1,0,0,0,1,0,0
-AMD,Adv Micro Devices,0,0,1,0,0,1,0,0,0
-AME,Amtek Inc,0,0,1,0,0,1,0,0,0
-AMED,Amedisys Inc,0,0,0,1,0,0,0,1,0
-AMG,Affiliated Managers Group,0,0,1,0,0,1,0,0,0
-AMGN,Amgen,0,1,1,0,1,1,0,0,0
-AMH,American Homes 4 Rent,0,0,1,0,0,0,0,0,0
-AMKR,Amkor Technology,0,0,0,1,0,0,0,0,0
-AMN,Amn Healthcare Services Inc,0,0,0,1,0,0,0,1,0
-AMNB,American Natl Bksh,0,0,0,1,0,0,0,0,0
-AMOT,Allied Motion Tech,0,0,0,1,0,0,0,0,0
-AMP,Ameriprise Financial Services,0,0,1,0,0,1,0,0,0
-AMPH,Amphastar Pharma,0,0,0,1,0,0,0,1,0
-AMRC,Ameresco Inc,0,0,0,1,0,0,0,0,0
-AMRS,Amyris Inc,0,0,0,0,0,0,0,0,1
-AMSF,Amerisafe Inc,0,0,0,1,0,0,0,1,0
-AMSWA,Amer Software Inc,0,0,0,1,0,0,0,0,0
-AMT,American Tower Corp,0,0,1,0,0,1,0,0,0
-AMTD,TD Ameritrade HD,0,0,1,0,0,0,0,0,0
-AMWD,Amer Woodmark Cp,0,0,0,1,0,0,0,1,0
-AMZN,Amazon.Com Inc,0,1,1,0,1,1,0,0,0
-AN,Autonation Inc,0,0,1,0,0,0,1,0,0
-ANAB,Anaptysbio Inc,0,0,0,1,0,0,0,0,0
-ANAT,Amer Natl Insurance,0,0,1,0,0,0,0,0,0
-ANCX,Access National Corp,0,0,0,1,0,0,0,0,0
-ANDE,Andersons Inc,0,0,0,1,0,0,0,1,0
-ANDV,Andeavor,0,0,1,0,0,1,0,0,0
-ANET,Arista Networks Inc,0,0,1,0,0,0,0,0,0
-ANF,Abercrombie & Fitch Company,0,0,0,1,0,0,0,1,0
-ANGI,Homeservices Inc.,0,0,0,1,0,0,0,0,0
-ANGO,Angiodynamics Inc,0,0,0,1,0,0,0,1,0
-ANH,Anworth Mortgage Asset Corp,0,0,0,1,0,0,0,0,0
-ANIK,Anika Therapeutics,0,0,0,1,0,0,0,1,0
-ANIP,ANI Pharma Inc,0,0,0,1,0,0,0,1,0
-ANSS,Ansys Inc,0,0,1,0,0,1,0,0,0
-ANTM,Anthem Inc,0,0,1,0,0,1,0,0,0
-AOBC,American Outdoor Brands Corp,0,0,0,1,0,0,0,0,0
-AON,AON Plc,0,0,1,0,0,1,0,0,0
-AOS,Smith [A.O.] Corp,0,0,1,0,0,1,0,0,0
-AOSL,Alpha and Omega Semi,0,0,0,1,0,0,0,0,0
-AP,Ampco-Pittsburgh Corp,0,0,0,1,0,0,0,0,0
-APA,Apache Corp,0,0,1,0,0,1,0,0,0
-APAM,Artisan Partners Asset Manageme,0,0,0,1,0,0,0,0,0
-APC,Anadarko Petroleum Corp,0,0,1,0,0,1,0,0,0
-APD,Air Products and Chemicals,0,0,1,0,0,1,0,0,0
-APEI,American Pub. Edu.,0,0,0,1,0,0,0,1,0
-APH,Amphenol Corp,0,0,1,0,0,1,0,0,0
-APLE,Apple Hospitality REIT Inc,0,0,1,0,0,0,0,0,0
-APOG,Apogee Entrpr Inc,0,0,0,1,0,0,0,1,0
-APPF,Appfolio Cl A,0,0,0,1,0,0,0,0,0
-APTI,Apptio Inc,0,0,0,1,0,0,0,0,0
-APTS,Preferred Apartment Communities,0,0,0,1,0,0,0,0,0
-AQMS,Aqua Metals Inc,0,0,0,1,0,0,0,0,0
-AR,Antero Resources Corp,0,0,1,0,0,0,0,0,0
-ARA,American Renal Associates Holdi,0,0,0,1,0,0,0,0,0
-ARAY,Accuray Incorporated,0,0,0,1,0,0,0,0,0
-ARC,American Reprographics Company,0,0,0,1,0,0,0,0,0
-ARCB,Arcbest Corp,0,0,0,1,0,0,0,1,0
-ARCH,Arch Coal Inc,0,0,0,1,0,0,0,0,0
-ARD,Ardagh Group S.A. Common Shares,0,0,1,0,0,0,0,0,0
-ARDX,Ardelyx Inc,0,0,0,1,0,0,0,0,0
-ARE,Alexandria Real Estate Equities,0,0,1,0,0,1,0,0,0
-AREX,Approach Res. Inc,0,0,0,1,0,0,0,0,0
-ARI,Apollo Commercial Real Estate,0,0,0,1,0,0,0,1,0
-ARII,American Railcar Ind,0,0,0,1,0,0,0,0,0
-ARMK,Aramark Holdings Corp,0,0,1,0,0,0,0,0,0
-ARNA,Arena Pharmaceutical,0,0,0,1,0,0,0,0,0
-ARNC,Arconic Inc,0,0,1,0,0,1,0,0,0
-AROC,Archrock Inc,0,0,0,1,0,0,0,1,0
-AROW,Arrow Financial Corp,0,0,0,1,0,0,0,0,0
-ARR,Armour Residential R,0,0,0,1,0,0,0,1,0
-ARRS,Arris Group Inc,0,0,1,0,0,0,1,0,0
-ARRY,Array Biopharma Inc,0,0,0,1,0,0,0,0,0
-ARTNA,Artesian Res Cp A,0,0,0,1,0,0,0,0,0
-ARW,Arrow Electronics,0,0,1,0,0,0,1,0,0
-ASB,Associated Banc-Corp,0,0,1,0,0,0,1,0,0
-ASC,Ardmore Shipping Corp,0,0,0,1,0,0,0,0,0
-ASCMA,Ascent Capital Group,0,0,0,1,0,0,0,0,0
-ASGN,On Assignment,0,0,0,1,0,0,0,1,0
-ASH,Ashland Global Holdings Inc,0,0,1,0,0,0,1,0,0
-ASIX,Advansix Inc,0,0,0,1,0,0,0,1,0
-ASMB,Assembly Biosciences,0,0,0,1,0,0,0,0,0
-ASNA,Ascena Retail Grp,0,0,0,1,0,0,0,1,0
-ASPS,Altisource Portfolio,0,0,0,1,0,0,0,0,0
-AST,Asterias Biotherapeutics Inc,0,0,0,1,0,0,0,0,0
-ASTE,Astec Inds Inc,0,0,0,1,0,0,0,1,0
-AT,Atlantic Power Corp,0,0,0,1,0,0,0,0,0
-ATEN,A10 Networks Inc,0,0,0,1,0,0,0,0,0
-ATGE,Adtalem Global Education Inc,0,0,0,1,0,0,1,0,0
-ATH,Athene Holding Ltd,0,0,1,0,0,0,0,0,0
-ATHN,Athenahealth Inc,0,0,1,0,0,0,0,0,0
-ATHX,Athersys Inc,0,0,0,1,0,0,0,0,0
-ATI,Allegheny Technologies Inc,0,0,0,1,0,0,1,0,0
-ATKR,Atkore International Group,0,0,0,1,0,0,0,0,0
-ATLO,Ames Natl Corp,0,0,0,1,0,0,0,0,0
-ATNI,Atn International,0,0,0,1,0,0,0,1,0
-ATNX,Athenex Inc,0,0,0,1,0,0,0,0,0
-ATO,Atmos Energy Corp,0,0,1,0,0,0,1,0,0
-ATR,Aptargroup,0,0,1,0,0,0,1,0,0
-ATRA,Atara Biotherap,0,0,0,1,0,0,0,0,0
-ATRC,Atricure Inc,0,0,0,1,0,0,0,0,0
-ATRI,Atrion Corp,0,0,0,1,0,0,0,0,0
-ATRO,Astronics Cp,0,0,0,1,0,0,0,0,0
-ATRS,Antares Pharma,0,0,0,1,0,0,0,0,0
-ATSG,Air Transport,0,0,0,1,0,0,0,0,0
-ATU,Actuant Corp,0,0,0,1,0,0,0,1,0
-ATVI,Activision Blizzard,0,1,1,0,0,1,0,0,0
-AVA,Avista Corp,0,0,0,1,0,0,0,1,0
-AVAV,Aerovironment Inc,0,0,0,1,0,0,0,1,0
-AVB,Avalonbay Communities,0,0,1,0,0,1,0,0,0
-AVD,American Vanguard Corp,0,0,0,1,0,0,0,1,0
-AVGO,Broadcom Ltd,0,1,1,0,0,1,0,0,0
-AVHI,A V Homes Inc,0,0,0,1,0,0,0,0,0
-AVID,Avid Tech Inc,0,0,0,1,0,0,0,0,0
-AVP,Avon Products,0,0,0,0,0,0,1,0,0
-AVT,Avnet Inc,0,0,1,0,0,0,1,0,0
-AVX,Avx Corp,0,0,0,1,0,0,0,0,0
-AVXL,Anavex Lf SC,0,0,0,1,0,0,0,0,0
-AVXS,Avexis Inc,0,0,0,1,0,0,0,0,0
-AVY,Avery Dennison Corp,0,0,1,0,0,1,0,0,0
-AWI,Armstrong World Industries Inc,0,0,1,0,0,0,0,0,0
-AWK,American Water Works,1,0,1,0,0,1,0,0,0
-AWR,American States Water Company,0,0,0,1,0,0,0,1,0
-AXAS,Abraxas Petro Corp,0,0,0,1,0,0,0,0,0
-AXDX,Accelerate Diagnosti,0,0,0,1,0,0,0,0,0
-AXE,Anixter International Inc,0,0,0,1,0,0,0,1,0
-AXGN,Axogen Inc,0,0,0,1,0,0,0,0,0
-AXL,American Axle & Manufacturing,0,0,0,1,0,0,0,1,0
-AXON,Axovant Sciences Ltd,0,0,0,1,0,0,0,0,0
-AXP,American Express Company,1,0,1,0,1,1,0,0,0
-AXS,Axis Capital Holdings,0,0,1,0,0,0,0,0,0
-AXTA,Axalta Coating Systems Ltd,0,0,1,0,0,0,0,0,0
-AXTI,Axt Inc,0,0,0,1,0,0,0,0,0
-AYI,Acuity Brands Inc,0,0,1,0,0,1,0,0,0
-AYR,Aircastle Ltd,0,0,0,1,0,0,0,0,0
-AYX,Alteryx Inc,0,0,0,1,0,0,0,0,0
-AZO,Autozone,0,0,1,0,0,1,0,0,0
-AZPN,Aspen Technology,0,0,0,1,0,0,0,0,0
-AZZ,Azz Inc,0,0,0,1,0,0,0,1,0
-B,Barnes Group,0,0,0,1,0,0,0,1,0
-BA,Boeing Company,1,0,1,0,1,1,0,0,0
-BABA,Alibaba Group Holding Limited,0,0,0,0,0,0,0,0,1
-BABY,Natus Medical Inc,0,0,0,1,0,0,0,1,0
-BAC,Bank of America Corp,0,0,1,0,1,1,0,0,0
-BAH,Booz Allen Hamilton Holding Corp,0,0,1,0,0,0,0,0,0
-BANC,First Pactrust Bancorp,0,0,0,1,0,0,0,1,0
-BANF,Bancfirst Corp,0,0,0,1,0,0,0,0,0
-BANR,Banner Corp,0,0,0,1,0,0,0,1,0
-BAS,Basic Energy Services,0,0,0,1,0,0,0,0,0
-BATRA,Liberty Braves CS A,0,0,0,1,0,0,0,0,0
-BATRK,Liberty Braves CS C,0,0,0,1,0,0,0,0,0
-BAX,Baxter International Inc,0,0,1,0,0,1,0,0,0
-BBBY,Bed Bath & Beyond,0,0,1,0,0,0,1,0,0
-BBG,Bill Barrett Corp,0,0,0,1,0,0,0,1,0
-BBGI,Beasley Brdcst Gr,0,0,0,1,0,0,0,0,0
-BBOX,Black Box Cp,0,0,0,0,0,0,0,1,0
-BBSI,Barrett Business S,0,0,0,1,0,0,0,0,0
-BBT,BB&T Corp,0,0,1,0,0,1,0,0,0
-BBW,Build-A-Bear Workshop,0,0,0,1,0,0,0,0,0
-BBY,Best Buy Co,0,0,1,0,0,1,0,0,0
-BC,Brunswick Corp,0,0,1,0,0,0,1,0,0
-BCBP,Bcb Bancorp Inc,0,0,0,1,0,0,0,0,0
-BCC,Boise Cascade L.L.C.,0,0,0,1,0,0,0,1,0
-BCEI,Bonanza Creek Energy Inc,0,0,0,1,0,0,0,0,0
-BCO,Brink's Company,0,0,0,1,0,0,1,0,0
-BCOR,Blucora Inc,0,0,0,1,0,0,0,1,0
-BCOV,Brightcove Inc,0,0,0,1,0,0,0,0,0
-BCPC,Balchem Cp,0,0,0,1,0,0,0,1,0
-BCR,C.R. Bard,0,0,1,0,0,1,0,0,0
-BCRH,Blue Capital Reinsurance Holdi,0,0,0,1,0,0,0,0,0
-BCRX,Biocryst Pharma Inc,0,0,0,1,0,0,0,0,0
-BDC,Belden Inc,0,0,0,1,0,0,1,0,0
-BDGE,Bridge Bancorp Inc,0,0,0,1,0,0,0,0,0
-BDN,Brandywine Realty Trust,0,0,1,0,0,0,0,0,0
-BDX,Becton Dickinson and Company,0,0,1,0,0,1,0,0,0
-BEAT,Biotelemetry Inc,0,0,0,1,0,0,0,1,0
-BECN,Beacon Roofing Suppl,0,0,0,1,0,0,0,0,0
-BEL,Belmond Ltd,0,0,0,1,0,0,0,1,0
-BELFB,Bel Fuse Inc Cl B,0,0,0,1,0,0,0,1,0
-BEN,Franklin Resources,0,0,1,0,0,1,0,0,0
-BERY,Berry Global Group,0,0,1,0,0,0,0,0,0
-BETR,Amplify Snack Brands Inc,0,0,0,1,0,0,0,0,0
-BF.A,Brown Forman Inc A,0,0,1,0,0,0,0,0,0
-BF.B,Brown Forman Inc B,0,0,1,0,0,1,0,0,0
-BFAM,Bright Horizons Family Solutions Inc,0,0,1,0,0,0,0,0,0
-BFIN,Bankfinancial Corpor,0,0,0,1,0,0,0,0,0
-BFS,Saul Centers,0,0,0,1,0,0,0,1,0
-BG,Bunge Ltd,0,0,1,0,0,0,0,0,0
-BGC,General Cable Corp,0,0,0,1,0,0,0,1,0
-BGCP,Bgc Partners Cl A,0,0,1,0,0,0,0,0,0
-BGFV,Big 5 Sporting,0,0,0,1,0,0,0,1,0
-BGG,Briggs & Stratton Corp,0,0,0,1,0,0,0,1,0
-BGS,B&G Foods Holdings,0,0,0,1,0,0,0,1,0
-BGSF,Bg Staffing,0,0,0,1,0,0,0,0,0
-BH,Biglari Holdings Inc,0,0,0,1,0,0,0,1,0
-BHB,Bar Harbor Bankshares,0,0,0,1,0,0,0,0,0
-BHBK,Blue Hills Bancorp,0,0,0,1,0,0,0,0,0
-BHE,Benchmark Electronics,0,0,0,1,0,0,0,1,0
-BHF,Brighthouse Financial Inc,0,0,1,0,0,1,0,0,0
-BHGE,Baker Hughes A Ge Co. Cl. A,0,0,1,0,0,1,0,0,0
-BHLB,Berkshire Hills Bancorp,0,0,0,1,0,0,0,0,0
-BHVN,Biohaven Pharmaceutical Holding Company Ltd,0,0,0,1,0,0,0,0,0
-BID,Sotheby's Holdings,0,0,0,1,0,0,1,0,0
-BIDU,Baidu Inc,0,1,0,0,0,0,0,0,0
-BIG,Big Lots,0,0,0,1,0,0,1,0,0
-BIIB,Biogen Inc,0,1,1,0,1,1,0,0,0
-BIO,Bio-Rad Laboratories,0,0,1,0,0,0,1,0,0
-BIOS,Bioscrip Inc,0,0,0,1,0,0,0,0,0
-BIVV,Bioverativ Inc,0,0,1,0,0,0,1,0,0
-BJRI,Bj's Restaurants Inc,0,0,0,1,0,0,0,1,0
-BK,Bank of New York Mellon Corp,0,0,1,0,1,1,0,0,0
-BKD,Brookdale Senior Living Inc,0,0,1,0,0,0,0,0,0
-BKE,Buckle Inc,0,0,0,1,0,0,0,1,0
-BKH,Black Hills Corp,0,0,0,1,0,0,1,0,0
-BKI,Black Knight Inc,0,0,1,0,0,0,0,0,0
-BKMU,Bank Mutual Corp,0,0,0,1,0,0,0,1,0
-BKS,Barnes & Noble,0,0,0,1,0,0,0,1,0
-BKU,BankUnited Inc,0,0,1,0,0,0,0,0,0
-BL,Blackline Inc,0,0,0,1,0,0,0,0,0
-BLBD,Blue Bird Corp,0,0,0,1,0,0,0,0,0
-BLCM,Bellicum Pharma Comm,0,0,0,1,0,0,0,0,0
-BLD,Topbuild Corp,0,0,0,1,0,0,0,1,0
-BLDR,Builders Firstsource,0,0,0,1,0,0,0,0,0
-BLK,Blackrock,0,0,1,0,1,1,0,0,0
-BLKB,Blackbaud Inc,0,0,0,1,0,0,1,0,0
-BLL,Ball Corp,0,0,1,0,0,1,0,0,0
-BLMN,Bloomin' Brands Inc,0,0,0,1,0,0,0,0,0
-BLMT,Bsb Bancorp Inc,0,0,0,1,0,0,0,0,0
-BLUE,Bluebird Bio,0,0,0,1,0,0,0,0,0
-BLX,Banco Latinoamericano De Comercio,0,0,0,1,0,0,0,0,0
-BMCH,Bmc Stock Holdings,0,0,0,1,0,0,0,0,0
-BMI,Badger Meter,0,0,0,1,0,0,0,1,0
-BMRC,Bank of Marin Bancrp,0,0,0,1,0,0,0,0,0
-BMRN,Biomarin Pharmaceut,0,1,1,0,0,0,0,0,0
-BMS,Bemis Company,0,0,1,0,0,0,1,0,0
-BMTC,Bryn Mawr Bank Corp,0,0,0,1,0,0,0,0,0
-BMY,Bristol-Myers Squibb Company,0,0,1,0,1,1,0,0,0
-BNCL,Beneficial Bancorp,0,0,0,1,0,0,0,0,0
-BNED,Barnes & Noble Education Inc C,0,0,0,1,0,0,0,1,0
-BNFT,Benefitfocus,0,0,0,1,0,0,0,0,0
-BOBE,Bob Evans Farms,0,0,0,1,0,0,0,1,0
-BOCH,Bank of Commerce Hld,0,0,0,1,0,0,0,0,0
-BOFI,Bofi Holding Inc,0,0,0,1,0,0,0,1,0
-BOH,Bank of Hawaii Corp,0,0,1,0,0,0,1,0,0
-BOJA,Bojangles Inc CS,0,0,0,1,0,0,0,0,0
-BOKF,Bok Financial Corp,0,0,1,0,0,0,0,0,0
-BOLD,Audentes Therapeutics Inc,0,0,0,1,0,0,0,0,0
-BOOM,Dynamic Materials,0,0,0,1,0,0,0,0,0
-BOOT,Boot Barn Holdings Inc,0,0,0,1,0,0,0,0,0
-BOX,Box Inc,0,0,0,1,0,0,0,0,0
-BPFH,Boston Pvt Finl Hldg,0,0,0,1,0,0,0,1,0
-BPI,Bridgepoint Education,0,0,0,1,0,0,0,0,0
-BPMC,Blueprint Medi Cm ST,0,0,0,1,0,0,0,0,0
-BPOP,Popular Inc,0,0,1,0,0,0,0,0,0
-BR,Broadridge Financial Solutions Llc,0,0,1,0,0,0,1,0,0
-BRC,Brady Corp,0,0,0,1,0,0,0,1,0
-BRCD,Brocade Comm Sys,0,0,1,0,0,0,1,0,0
-BREW,Craft Brew Alliance,0,0,0,1,0,0,0,0,0
-BRG,Bluerock Residential Growth Rei,0,0,0,1,0,0,0,0,0
-BRK.B,Berkshire Hath Hld B,0,0,1,0,1,1,0,0,0
-BRKL,Brookline Bancorp,0,0,0,1,0,0,0,1,0
-BRKR,Bruker Corp,0,0,1,0,0,0,0,0,0
-BRKS,Brooks Automation,0,0,0,1,0,0,0,1,0
-BRO,Brown & Brown,0,0,1,0,0,0,1,0,0
-BRS,Bristow Group Inc,0,0,0,1,0,0,0,1,0
-BRSS,Global Brass and Copper Holdin,0,0,0,1,0,0,0,0,0
-BRX,Brixmor Property Group Inc,0,0,1,0,0,0,0,0,0
-BSET,Bassett Furniture,0,0,0,1,0,0,0,0,0
-BSF,Bear State Fin Inc,0,0,0,1,0,0,0,0,0
-BSFT,Broadsoft Inc,0,0,0,1,0,0,0,0,0
-BSRR,Sierra Bancorp,0,0,0,1,0,0,0,0,0
-BSTC,Biospecifics Tech Cp,0,0,0,1,0,0,0,0,0
-BSX,Boston Scientific Corp,0,0,1,0,0,1,0,0,0
-BTU,Peabody Energy Corp.,0,0,0,1,0,0,0,0,0
-BTX,Biotime Inc,0,0,0,1,0,0,0,0,0
-BUFF,Blue Buffalo Pet,0,0,1,0,0,0,0,0,0
-BURL,Burlington Stores Inc,0,0,1,0,0,0,0,0,0
-BUSE,First Busey Corp,0,0,0,1,0,0,0,0,0
-BV,Bazaarvoice Inc,0,0,0,1,0,0,0,0,0
-BW,Babcock & Wilcox Enterprises I,0,0,0,1,0,0,0,0,0
-BWA,Borgwarner Inc,0,0,1,0,0,1,0,0,0
-BWFG,Bankwell Financial,0,0,0,1,0,0,0,0,0
-BWINB,Baldwin Lyons Cl B,0,0,0,1,0,0,0,0,0
-BWLD,Buffalo Wild Wings,0,0,0,1,0,0,1,0,0
-BWXT,Bwx Technologies Inc,0,0,1,0,0,0,0,0,0
-BXP,Boston Properties,0,0,1,0,0,1,0,0,0
-BXS,Bancorpsouth Inc,0,0,0,1,0,0,1,0,0
-BY,Byline Bancorp Inc,0,0,0,1,0,0,0,0,0
-BYD,Boyd Gaming Corp,0,0,0,1,0,0,0,1,0
-BZH,Beazer Homes USA,0,0,0,1,0,0,0,0,0
-C,Citigroup Inc,0,0,1,0,1,1,0,0,0
-CA,CA Inc,0,1,1,0,0,1,0,0,0
-CAA,Calatlantic Group Inc,0,0,1,0,0,0,1,0,0
-CABO,Cable One Inc,0,0,1,0,0,0,1,0,0
-CAC,Camden Natl Cp,0,0,0,1,0,0,0,0,0
-CACC,Credit Acceptance,0,0,1,0,0,0,0,0,0
-CACI,Caci International,0,0,0,1,0,0,0,1,0
-CADE,Cadence Bancorporation Class A,0,0,0,1,0,0,0,0,0
-CAG,Conagra Brands Inc,0,0,1,0,0,1,0,0,0
-CAH,Cardinal Health,0,0,1,0,0,1,0,0,0
-CAI,Cai International,0,0,0,1,0,0,0,0,0
-CAKE,Cheesecake Fact,0,0,0,1,0,0,1,0,0
-CAL,Caleres Inc,0,0,0,1,0,0,0,1,0
-CALA,Calithera Biosci Com,0,0,0,1,0,0,0,0,0
-CALD,Callidus Software,0,0,0,1,0,0,0,0,0
-CALM,Cal-Maine Foods In,0,0,0,1,0,0,0,1,0
-CALX,Calix Inc,0,0,0,1,0,0,0,0,0
-CAMP,Calamp Corp,0,0,0,1,0,0,0,1,0
-CAR,Avis Budget Group I,1,0,0,1,0,0,1,0,0
-CARA,Cara Therapeutics,0,0,0,1,0,0,0,0,0
-CARB,Carbonite Inc,0,0,0,1,0,0,0,0,0
-CARO,Carolina Financial Corp.,0,0,0,1,0,0,0,0,0
-CARS,Cars.Com Inc,0,0,0,1,0,0,1,0,0
-CASC,Cascadian Therapeutics Inc,0,0,0,1,0,0,0,0,0
-CASH,Meta Financial Grp,0,0,0,1,0,0,0,1,0
-CASS,Cass Information Sys,0,0,0,1,0,0,0,0,0
-CASY,Casey's General Stor,0,0,1,0,0,0,1,0,0
-CAT,Caterpillar Inc,1,0,1,0,1,1,0,0,0
-CATM,Cardtronics Inc,0,0,0,1,0,0,0,1,0
-CATO,Cato Corp,0,0,0,1,0,0,0,1,0
-CATY,Cathay Genl Bncp,0,0,0,1,0,0,1,0,0
-CAVM,Cavium Inc,0,0,1,0,0,0,0,0,0
-CB,Chubb Ltd,0,0,1,0,0,1,0,0,0
-CBB,Cincinnati Bell Inc,0,0,0,1,0,0,0,1,0
-CBF,Capital Bnk Fin Cl A,0,0,0,1,0,0,0,0,0
-CBG,CBRE Group Inc,0,0,1,0,0,1,0,0,0
-CBI,Chicago Bridge & Iron Company N.V.,0,0,0,1,0,0,0,0,0
-CBL,Cbl & Associates Properties,0,0,0,1,0,0,0,1,0
-CBM,Cambrex Corp,0,0,0,1,0,0,0,1,0
-CBOE,CBOE Global Markets Inc,0,0,1,0,0,1,0,0,0
-CBPX,Continental Building Products,0,0,0,1,0,0,0,0,0
-CBRL,Cracker Barrel,0,0,0,1,0,0,1,0,0
-CBS,CBS Corp,0,0,1,0,0,1,0,0,0
-CBSH,Commerce Bancshares,0,0,1,0,0,0,1,0,0
-CBT,Cabot Corp,0,0,1,0,0,0,1,0,0
-CBU,Community Bank System,0,0,0,1,0,0,0,1,0
-CBZ,Cbiz Inc,0,0,0,1,0,0,0,0,0
-CC,Chemours Company,0,0,1,0,0,0,1,0,0
-CCBG,Capital City Bank Gr,0,0,0,1,0,0,0,0,0
-CCC,Calgon Carbon Corp,0,0,0,1,0,0,0,1,0
-CCF,Chase Corp,0,0,0,1,0,0,0,0,0
-CCI,Crown Castle International Corp,0,0,1,0,0,1,0,0,0
-CCK,Crown Cork & Seal Company,0,0,1,0,0,0,0,0,0
-CCL,Carnival Corp,0,0,1,0,0,1,0,0,0
-CCMP,Cabot Microelectron,0,0,0,1,0,0,0,1,0
-CCNE,Cnb Financial Corp,0,0,0,1,0,0,0,0,0
-CCO,Clear Channel Outdoor Holdings,0,0,0,1,0,0,0,0,0
-CCOI,Cogent Comm Hldgs,0,0,0,1,0,0,0,1,0
-CCRN,Cross Ctry Hlthcr,0,0,0,1,0,0,0,1,0
-CCS,Century Communities Inc,0,0,0,1,0,0,0,0,0
-CCXI,Chemocentryx Inc,0,0,0,1,0,0,0,0,0
-CDE,Coeur Mining Inc,0,0,0,1,0,0,0,0,0
-CDEV,Centennial Resource Development Inc,0,0,1,0,0,0,0,0,0
-CDK,Cdk Global Inc,0,0,1,0,0,0,1,0,0
-CDNS,Cadence Design Sys,0,0,1,0,0,1,0,0,0
-CDR,Cedar Shopping Centers Inc,0,0,0,1,0,0,0,1,0
-CDW,CDW Corp,0,0,1,0,0,0,0,0,0
-CDXS,Codexis Inc,0,0,0,1,0,0,0,0,0
-CDZI,Cadiz Inc,0,0,0,1,0,0,0,0,0
-CE,Celanese Corp,0,0,1,0,0,0,0,0,0
-CECE,C E C O Envir,0,0,0,1,0,0,0,0,0
-CECO,Career Education,0,0,0,1,0,0,0,1,0
-CELG,Celgene Corp,0,1,1,0,1,1,0,0,0
-CENT,Central Garden,0,0,0,1,0,0,0,1,0
-CENTA,Central Garden & Pet,0,0,0,1,0,0,0,1,0
-CENX,Century Aluminum C,0,0,0,1,0,0,0,1,0
-CERN,Cerner Corp,0,1,1,0,0,1,0,0,0
-CERS,Cerus Corp,0,0,0,1,0,0,0,0,0
-CETV,Central EUR Med A,0,0,0,1,0,0,0,0,0
-CEVA,Ceva Inc,0,0,0,1,0,0,0,1,0
-CF,Cf Industries Holdings,0,0,1,0,0,1,0,0,0
-CFFI,C&F Financial Corp,0,0,0,1,0,0,0,0,0
-CFFN,Capitol Fed Finl Inc,0,0,0,1,0,0,0,0,0
-CFG,Citizens Financial Group Inc/Ri,0,0,1,0,0,1,0,0,0
-CFMS,Conformis Inc CS,0,0,0,1,0,0,0,0,0
-CFNB,Calif First National,0,0,0,1,0,0,0,0,0
-CFR,Cullen/Frost Bankers,0,0,1,0,0,0,1,0,0
-CFX,Colfax Corp,0,0,1,0,0,0,0,0,0
-CGNX,Cognex Cp,0,0,1,0,0,0,1,0,0
-CHCO,City Holding Co,0,0,0,1,0,0,0,1,0
-CHCT,Community Healthcare Trust Inc,0,0,0,1,0,0,0,0,0
-CHD,Church & Dwight Company,0,0,1,0,0,1,0,0,0
-CHDN,Churchill Downs In,0,0,0,1,0,0,1,0,0
-CHE,Chemed Inc,0,0,0,1,0,0,0,1,0
-CHEF,The Chefs Warehouse,0,0,0,1,0,0,0,0,0
-CHFC,Chemical Financial,0,0,0,1,0,0,1,0,0
-CHFN,Charter Finl Corp,0,0,0,1,0,0,0,0,0
-CHGG,Chegg Inc,0,0,0,1,0,0,0,0,0
-CHH,Choice Hotels International,0,0,1,0,0,0,0,0,0
-CHK,Chesapeake Energy Corp,0,0,1,0,0,1,0,0,0
-CHKP,Check Point Software,0,1,0,0,0,0,0,0,0
-CHMG,Chemung Financial Cp,0,0,0,1,0,0,0,0,0
-CHMI,Cherry Hill Mortgage Investmen,0,0,0,1,0,0,0,0,0
-CHRS,Coherus Bio,0,0,0,1,0,0,0,0,0
-CHRW,C.H. Robinson Ww,1,0,1,0,0,1,0,0,0
-CHS,Chico's Fas,0,0,0,1,0,0,0,1,0
-CHSP,Chesapeake Lodging Trust,0,0,0,1,0,0,0,1,0
-CHTR,Charter Communicatio,0,1,1,0,1,1,0,0,0
-CHUBA,Commercehub Inc,0,0,0,1,0,0,0,0,0
-CHUBK,Commercehub Inc,0,0,0,1,0,0,0,0,0
-CHUY,Chuy's Holdings Inc,0,0,0,1,0,0,0,1,0
-CI,Cigna Corp,0,0,1,0,0,1,0,0,0
-CIA,Citizens Inc,0,0,0,1,0,0,0,0,0
-CIEN,Ciena Corp,0,0,0,1,0,0,1,0,0
-CIM,Chimera Investment Corp,0,0,1,0,0,0,0,0,0
-CINF,Cincinnati Financial,0,0,1,0,0,1,0,0,0
-CIO,City Office REIT Inc,0,0,0,1,0,0,0,0,0
-CIR,Circor International,0,0,0,1,0,0,0,1,0
-CIT,Cit Group Inc [Del],0,0,1,0,0,0,0,0,0
-CIVB,Civista Bncshrs,0,0,0,1,0,0,0,0,0
-CIVI,Civitas Solutions Inc,0,0,0,1,0,0,0,0,0
-CIX,Compx International Inc,0,0,0,1,0,0,0,0,0
-CJ,C&J Energy Services Inc,0,0,0,1,0,0,0,0,0
-CKH,Seacor Smit Inc,0,0,0,1,0,0,0,1,0
-CL,Colgate-Palmolive Company,0,0,1,0,1,1,0,0,0
-CLAR,Clarus Corp,0,0,0,1,0,0,0,0,0
-CLB,Core Laboratories N.V.,0,0,0,0,0,0,1,0,0
-CLCT,Collectors Universe,0,0,0,1,0,0,0,0,0
-CLD,Cloud Peak Energy Inc,0,0,0,1,0,0,0,1,0
-CLDR,Cloudera Inc,0,0,0,1,0,0,0,0,0
-CLDT,Chatham Lodging Trust [Reit],0,0,0,1,0,0,0,1,0
-CLDX,Celldex Therapeutics,0,0,0,1,0,0,0,0,0
-CLF,Cleveland-Cliffs Inc.,0,0,0,1,0,0,0,0,0
-CLFD,Clearfield Inc,0,0,0,1,0,0,0,0,0
-CLGX,Corelogic,0,0,1,0,0,0,1,0,0
-CLH,Clean Harbors,0,0,1,0,0,0,1,0,0
-CLI,Mack-Cali Realty Corp,0,0,0,1,0,0,1,0,0
-CLNE,Clean Energy Fuels,0,0,0,1,0,0,0,0,0
-CLNS,Colony Northstar Inc,0,0,1,0,0,0,0,0,0
-CLPR,Clipper Realty Inc,0,0,0,1,0,0,0,0,0
-CLR,Continental Resources,0,0,1,0,0,0,0,0,0
-CLSD,Clearside Biomedi,0,0,0,1,0,0,0,0,0
-CLVS,Clovis Oncology Inc,0,0,0,1,0,0,0,0,0
-CLW,Clearwater Paper Corp,0,0,0,1,0,0,0,1,0
-CLX,Clorox Company,0,0,1,0,0,1,0,0,0
-CLXT,Calyxt Inc,0,0,0,1,0,0,0,0,0
-CMA,Comerica Inc,0,0,1,0,0,1,0,0,0
-CMC,Commercial Metals Company,0,0,0,1,0,0,1,0,0
-CMCO,Columbus Mckinnon,0,0,0,1,0,0,0,0,0
-CMCSA,Comcast Corp A,0,1,1,0,1,1,0,0,0
-CMD,Cantel Medical,0,0,0,1,0,0,0,1,0
-CME,CME Group Inc,0,0,1,0,0,1,0,0,0
-CMG,Chipotle Mexican Grill,0,0,1,0,0,1,0,0,0
-CMI,Cummins Inc,0,0,1,0,0,1,0,0,0
-CMO,Capstead Mortgage Corp,0,0,0,1,0,0,0,1,0
-CMP,Compass Minerals Intl Inc,0,0,0,1,0,0,1,0,0
-CMPR,Cimpress N.V. Ord,0,0,0,1,0,0,0,0,0
-CMRE,Costamare Inc,0,0,0,1,0,0,0,0,0
-CMRX,Chimerix Inc,0,0,0,1,0,0,0,0,0
-CMS,Cms Energy Corp,0,0,1,0,0,1,0,0,0
-CMT,Core Molding Technologies Inc,0,0,0,1,0,0,0,0,0
-CMTL,Comtech Telecom Co,0,0,0,1,0,0,0,1,0
-CNA,Cna Financial Corp,0,0,1,0,0,0,0,0,0
-CNAT,Conatus Pharmaceutic,0,0,0,1,0,0,0,0,0
-CNBKA,Century Bancorp Inc,0,0,0,1,0,0,0,0,0
-CNC,Centene Corp,0,0,1,0,0,1,0,0,0
-CNCE,Concert Pharmaceutic,0,0,0,1,0,0,0,0,0
-CNDT,Conduent Inc,0,0,1,0,0,0,0,0,0
-CNK,Cinemark Holdings Inc,0,0,1,0,0,0,1,0,0
-CNMD,C O N M E D Cp,0,0,0,1,0,0,0,1,0
-CNO,Cno Financial Group,0,0,0,1,0,0,1,0,0
-CNOB,Connectone Bancorp,0,0,0,1,0,0,0,0,0
-CNP,Centerpoint Energy Inc,1,0,1,0,0,1,0,0,0
-CNS,Cohn & Steers Inc,0,0,0,1,0,0,0,0,0
-CNSL,Consolidated Communications Holdings Inc,0,0,0,1,0,0,0,1,0
-CNTY,Century Casinos In,0,0,0,1,0,0,0,0,0
-CNX,Consol Energy Inc,0,0,1,0,0,0,1,0,0
-CNXN,PC Connection Inc,0,0,0,1,0,0,0,0,0
-COBZ,Cobiz Financial Inc,0,0,0,1,0,0,0,0,0
-COF,Capital One Financial Corp,0,0,1,0,1,1,0,0,0
-COG,Cabot Oil & Gas Corp,0,0,1,0,0,1,0,0,0
-COGT,Cogint Inc,0,0,0,1,0,0,0,0,0
-COHR,Coherent Inc,0,0,1,0,0,0,1,0,0
-COHU,Cohu Inc,0,0,0,1,0,0,0,1,0
-COKE,Coca Cola Bot Cons,0,0,0,1,0,0,0,1,0
-COL,Rockwell Collins,0,0,1,0,0,1,0,0,0
-COLB,Columbia Banking Sys,0,0,0,1,0,0,0,1,0
-COLL,Collegium Pharma,0,0,0,1,0,0,0,0,0
-COLM,Columbia Sprtswr,0,0,0,1,0,0,0,0,0
-COMM,Commscope Holding Co,0,0,1,0,0,0,0,0,0
-CONE,Cyrusone Inc,0,0,1,0,0,0,1,0,0
-CONN,Conn's Inc,0,0,0,1,0,0,0,0,0
-COO,Cooper Companies,0,0,1,0,0,1,0,0,0
-COP,Conocophillips,0,0,1,0,1,1,0,0,0
-COR,Coresite Realty Corp,0,0,1,0,0,0,1,0,0
-CORE,Core Mark Holding,0,0,0,1,0,0,0,1,0
-CORI,Corium Intl,0,0,0,1,0,0,0,0,0
-CORR,Corenergy Infrastructure Trust Inc,0,0,0,1,0,0,0,0,0
-CORT,Corcept Therapeutics,0,0,0,1,0,0,0,0,0
-COST,Costco Wholesale,0,1,1,0,1,1,0,0,0
-COTV,Cotiviti Holdings,0,0,0,1,0,0,0,0,0
-COTY,Coty Inc,0,0,1,0,0,1,0,0,0
-COUP,Coupa Software Inc,0,0,0,1,0,0,0,0,0
-COWN,Cowen Group Inc,0,0,0,1,0,0,0,0,0
-CPA,Copa Holdings S.A.,0,0,1,0,0,0,0,0,0
-CPB,Campbell Soup Company,0,0,1,0,0,1,0,0,0
-CPE,Callon Petroleum Company,0,0,0,1,0,0,1,0,0
-CPF,Central Pacific Financial Co,0,0,0,1,0,0,0,1,0
-CPK,Chesapeake Utilities Corp,0,0,0,1,0,0,0,0,0
-CPLA,Capella Education Co,0,0,0,1,0,0,0,1,0
-CPN,Calpine Corp,0,0,1,0,0,0,0,0,0
-CPRT,Copart Inc,0,0,1,0,0,0,1,0,0
-CPRX,Catalyst Pharm Inc,0,0,0,1,0,0,0,0,0
-CPS,Cooper Std Hldg Inc,0,0,0,1,0,0,0,1,0
-CPSI,Computer Programs,0,0,0,1,0,0,0,1,0
-CPT,Camden Property Trust,0,0,1,0,0,0,1,0,0
-CR,Crane Company,0,0,1,0,0,0,1,0,0
-CRAI,Cra International,0,0,0,1,0,0,0,0,0
-CRAY,Cray Inc,0,0,0,1,0,0,0,1,0
-CRBP,Corbus Pharma,0,0,0,1,0,0,0,0,0
-CRC,California Resources Corporatio,0,0,0,1,0,0,0,0,0
-CRCM,Care.Com Inc,0,0,0,1,0,0,0,0,0
-CRD.B,Crawford Co Cl B,0,0,0,1,0,0,0,0,0
-CREE,Cree Inc,0,0,0,1,0,0,1,0,0
-CRI,Carter's Inc,0,0,1,0,0,0,1,0,0
-CRIS,Curis Inc,0,0,0,1,0,0,0,0,0
-CRL,Charles River Laboratories Intl,0,0,1,0,0,0,1,0,0
-CRM,Salesforce.Com Inc,0,0,1,0,0,1,0,0,0
-CRMT,America's Car-Mart,0,0,0,1,0,0,0,0,0
-CROX,Crocs Inc,0,0,0,1,0,0,0,1,0
-CRR,Carbo Ceramics,0,0,0,1,0,0,0,1,0
-CRS,Carpenter Technology Corp,0,0,0,1,0,0,1,0,0
-CRUS,Cirrus Logic Inc,0,0,0,1,0,0,1,0,0
-CRVL,Corvel Cp,0,0,0,1,0,0,0,1,0
-CRVS,Corvus Pharma Com,0,0,0,1,0,0,0,0,0
-CRY,Cryolife,0,0,0,1,0,0,0,1,0
-CRZO,Carrizo Oil & Gas,0,0,0,1,0,0,0,1,0
-CSBK,Clifton Bancorp Inc,0,0,0,1,0,0,0,0,0
-CSCO,Cisco Systems Inc,1,1,1,0,1,1,0,0,0
-CSFL,Centerstate Bks Inc,0,0,0,1,0,0,0,0,0
-CSGP,Costar Group Inc,0,0,1,0,0,0,0,0,0
-CSGS,C S G Sys Intl,0,0,0,1,0,0,0,1,0
-CSII,Cardiovascular Syst,0,0,0,1,0,0,0,0,0
-CSL,Carlisle Companies Inc,0,0,1,0,0,0,1,0,0
-CSLT,Castlight Health Inc,0,0,0,1,0,0,0,0,0
-CSOD,Cornerstone Ondemand,0,0,0,1,0,0,0,0,0
-CSRA,Csra Inc,0,0,1,0,0,1,0,0,0
-CSS,Css Industries,0,0,0,1,0,0,0,0,0
-CSTE,Caesarstone Sdot-Yam,0,0,0,1,0,0,0,0,0
-CSTR,Capstar Financial Holdings Inc,0,0,0,1,0,0,0,0,0
-CSU,Capital Senior Living Corp,0,0,0,1,0,0,0,0,0
-CSV,Carriage Services,0,0,0,1,0,0,0,0,0
-CSWI,Csw Industrials Inc,0,0,0,1,0,0,0,0,0
-CSX,CSX Corp,1,1,1,0,0,1,0,0,0
-CTAS,Cintas Corp,0,1,1,0,0,1,0,0,0
-CTB,Cooper Tire & Rubber Company,0,0,0,1,0,0,1,0,0
-CTBI,Community TR Bancp,0,0,0,1,0,0,0,0,0
-CTL,Centurylink,0,0,1,0,0,1,0,0,0
-CTLT,Catalent Inc,0,0,0,1,0,0,1,0,0
-CTMX,Cytomx Thera,0,0,0,1,0,0,0,0,0
-CTO,Consolidated-Tomoka Land Co,0,0,0,1,0,0,0,0,0
-CTRE,Caretrust REIT Inc,0,0,0,1,0,0,0,1,0
-CTRL,Control4 Corp,0,0,0,1,0,0,0,1,0
-CTRN,Citi Trends Inc,0,0,0,1,0,0,0,0,0
-CTRP,Ctrip.Com Intl Ltd,0,1,0,0,0,0,0,0,0
-CTS,Cts Corp,0,0,0,1,0,0,0,1,0
-CTSH,Cognizant Tech Sol,0,1,1,0,0,1,0,0,0
-CTT,Catchmark Timber Trust Inc,0,0,0,1,0,0,0,0,0
-CTWS,Conn Water Svcs In,0,0,0,1,0,0,0,0,0
-CTXS,Citrix Systems Inc,0,1,1,0,0,1,0,0,0
-CUB,Cubic Corp,0,0,0,1,0,0,0,1,0
-CUBE,Cubesmart,0,0,1,0,0,0,0,0,0
-CUBI,Customers Bancorp,0,0,0,1,0,0,0,1,0
-CUBN,Commerce Un Bcsh,0,0,0,1,0,0,0,0,0
-CUDA,Barracuda Networks Inc,0,0,0,1,0,0,0,1,0
-CULP,Culp Inc,0,0,0,1,0,0,0,0,0
-CUTR,Cutera Inc,0,0,0,1,0,0,0,0,0
-CUZ,Cousins Properties Inc,0,0,0,1,0,0,1,0,0
-CVA,Covanta Holding Corp,0,0,0,1,0,0,0,0,0
-CVBF,Cvb Financial Corp,0,0,0,1,0,0,0,1,0
-CVCO,Cavco Inds Inc,0,0,0,1,0,0,0,1,0
-CVCY,Central Vly Cmty Bcp,0,0,0,1,0,0,0,0,0
-CVG,Convergys Corp,0,0,0,1,0,0,1,0,0
-CVGI,Commercial Vehicle G,0,0,0,1,0,0,0,0,0
-CVGW,Calavo Growers Inc,0,0,0,1,0,0,0,1,0
-CVI,Cvr Energy Inc,0,0,0,1,0,0,0,0,0
-CVLT,Commvault Systems,0,0,0,1,0,0,1,0,0
-CVLY,Codorus Valley Bncp,0,0,0,1,0,0,0,0,0
-CVNA,Carvana Co. Class A,0,0,0,1,0,0,0,0,0
-CVRS,Corindus Vascular Robotics Inc,0,0,0,1,0,0,0,0,0
-CVS,CVS Corp,0,0,1,0,1,1,0,0,0
-CVTI,Covenant Transportn,0,0,0,1,0,0,0,0,0
-CVX,Chevron Corp,1,0,1,0,1,1,0,0,0
-CW,Curtiss-Wright Corp,0,0,0,1,0,0,1,0,0
-CWCO,Cons Water Co Inc,0,0,0,1,0,0,0,0,0
-CWH,Camping World Holdings Inc,0,0,0,1,0,0,0,0,0
-CWST,Casella Waste Sys,0,0,0,1,0,0,0,0,0
-CWT,California Water Service Group Holding,0,0,0,1,0,0,0,1,0
-CXO,Concho Resources Inc,0,0,1,0,0,1,0,0,0
-CXP,Columbia Property Trust Inc,0,0,1,0,0,0,0,0,0
-CXW,Corecivic Inc,0,0,1,0,0,0,1,0,0
-CY,Cypress Semiconductr,0,0,1,0,0,0,1,0,0
-CYBE,Cyberoptics Cp,0,0,0,1,0,0,0,0,0
-CYH,Community Health Systems,0,0,0,1,0,0,0,1,0
-CYS,Cys Investments Inc,0,0,0,1,0,0,0,0,0
-CYTK,Cytokinetics,0,0,0,1,0,0,0,1,0
-CZNC,Citizens Nrthn Cp,0,0,0,1,0,0,0,0,0
-CZR,Caesars Entertainment Corp,0,0,0,1,0,0,0,0,0
-D,Dominion Resources,1,0,1,0,0,1,0,0,0
-DAKT,Daktronics Inc,0,0,0,1,0,0,0,1,0
-DAL,Delta Air Lines Inc,1,0,1,0,0,1,0,0,0
-DAN,Dana Inc,0,0,0,1,0,0,1,0,0
-DAR,Darling International Inc,0,0,0,1,0,0,0,1,0
-DATA,Tableau Software Inc Class A,0,0,1,0,0,0,0,0,0
-DBD,Diebold Nixdorf Inc,0,0,0,1,0,0,1,0,0
-DCI,Donaldson Company,0,0,1,0,0,0,1,0,0
-DCO,Ducommun Inc,0,0,0,1,0,0,0,0,0
-DCOM,Dime Community Bncsh,0,0,0,1,0,0,0,1,0
-DCT,Dct Industrial Trust Inc,0,0,1,0,0,0,1,0,0
-DDD,3D Systems Corp,0,0,0,1,0,0,1,0,0
-DDR,DDR Corp,0,0,1,0,0,0,0,0,0
-DDS,Dillard's,0,0,0,1,0,0,1,0,0
-DE,Deere & Company,0,0,1,0,0,1,0,0,0
-DEA,Easterly Government Properties,0,0,0,1,0,0,0,0,0
-DECK,Deckers Outdoor Corp,0,0,0,1,0,0,1,0,0
-DEI,Douglas Emmett,0,0,1,0,0,0,1,0,0
-DEL,Deltic Timber Corp,0,0,0,1,0,0,0,1,0
-DENN,Dennys Corp,0,0,0,1,0,0,0,0,0
-DEPO,Depomed Inc,0,0,0,1,0,0,0,1,0
-DERM,Dermira Inc Cm ST,0,0,0,1,0,0,0,0,0
-DF,Dean Foods Company,0,0,0,1,0,0,1,0,0
-DFIN,Donnelly Financial Solutions Inc,0,0,0,1,0,0,0,1,0
-DFRG,Del Frisco's Restrnt,0,0,0,1,0,0,0,0,0
-DFS,Discover Financial Services,0,0,1,0,0,1,0,0,0
-DG,Dollar General Corp,0,0,1,0,0,1,0,0,0
-DGICA,Donegal Group Cl A,0,0,0,1,0,0,0,0,0
-DGII,Digi Intl Inc,0,0,0,1,0,0,0,1,0
-DGX,Quest Diagnostics Inc,0,0,1,0,0,1,0,0,0
-DHI,D.R. Horton,0,0,1,0,0,1,0,0,0
-DHIL,Diamond Hill Inv,0,0,0,1,0,0,0,0,0
-DHR,Danaher Corp,0,0,1,0,1,1,0,0,0
-DHT,Dht Holdings,0,0,0,1,0,0,0,0,0
-DHX,Dice Holdings,0,0,0,1,0,0,0,1,0
-DIN,Dineequity Inc,0,0,0,1,0,0,0,1,0
-DIOD,Diodes Inc,0,0,0,1,0,0,0,1,0
-DIS,Walt Disney Company,1,0,1,0,1,1,0,0,0
-DISCA,Discovery Comm A,0,1,1,0,0,1,0,0,0
-DISCK,Discovery Comm Inc,0,1,1,0,0,1,0,0,0
-DISH,Dish Network Corp,0,1,1,0,0,1,0,0,0
-DJCO,Daily Journal Cp,0,0,0,1,0,0,0,0,0
-DK,Delek US Holdings,0,0,0,1,0,0,0,0,0
-DKS,Dick's Sporting Goods Inc,0,0,1,0,0,0,1,0,0
-DLA,Delta Apparel,0,0,0,1,0,0,0,0,0
-DLB,Dolby Laboratories,0,0,1,0,0,0,0,0,0
-DLPH,Delphi Automotive Plc,0,0,1,0,0,1,0,0,0
-DLR,Digital Realty Trust,0,0,1,0,0,1,0,0,0
-DLTH,Duluth Hldg Cl B,0,0,0,1,0,0,0,0,0
-DLTR,Dollar Tree Inc,0,1,1,0,0,1,0,0,0
-DLX,Deluxe Corp,0,0,0,1,0,0,1,0,0
-DMRC,Digimarc Corp,0,0,0,1,0,0,0,0,0
-DNB,Dun & Bradstreet Corp,0,0,1,0,0,0,1,0,0
-DNBF,Dnb Finl Corp,0,0,0,1,0,0,0,0,0
-DNKN,Dunkin' Brands Group,0,0,1,0,0,0,1,0,0
-DNOW,Now Inc,0,0,0,1,0,0,1,0,0
-DNR,Denbury Resources,0,0,0,1,0,0,0,1,0
-DO,Diamond Offshore Drilling,0,0,0,1,0,0,1,0,0
-DOC,Physicians Realty Trust,0,0,0,1,0,0,0,0,0
-DOOR,Masonite Wrldwde Hld,0,0,0,1,0,0,0,0,0
-DORM,Dorman Products Inc,0,0,0,1,0,0,0,1,0
-DOV,Dover Corp,0,0,1,0,0,1,0,0,0
-DOVA,Dova Pharmaceuticals Inc,0,0,0,1,0,0,0,0,0
-DOX,Amdocs Ltd Ord,0,0,1,0,0,0,0,0,0
-DPLO,Diplomat Pharmacy Inc,0,0,0,1,0,0,0,1,0
-DPS,Dr Pepper Snapple Group Inc,0,0,1,0,0,1,0,0,0
-DPZ,Domino's Pizza Inc,0,0,1,0,0,0,1,0,0
-DRE,Duke Realty Corp,0,0,1,0,0,1,0,0,0
-DRH,Diamondrock Hospitality Company,0,0,0,1,0,0,0,1,0
-DRI,Darden Restaurants,0,0,1,0,0,1,0,0,0
-DRQ,Dril-Quip,0,0,0,1,0,0,1,0,0
-DRRX,Durect Corp,0,0,0,1,0,0,0,0,0
-DS,Drive Shack Inc,0,0,0,1,0,0,0,0,0
-DSKE,Daseke Inc,0,0,0,1,0,0,0,0,0
-DSPG,D S P Group Inc,0,0,0,1,0,0,0,1,0
-DST,Dst Systems,0,0,1,0,0,0,1,0,0
-DSW,DSW Inc,0,0,0,1,0,0,0,1,0
-DTE,Dte Energy Company,0,0,1,0,0,1,0,0,0
-DUK,Duke Energy Corp,1,0,1,0,1,1,0,0,0
-DVA,Davita Healthcare Partners Inc,0,0,1,0,0,1,0,0,0
-DVAX,Dynavax Technologies,0,0,0,1,0,0,0,0,0
-DVMT,Dell Technologies Inc. Cl V,0,0,1,0,0,0,0,0,0
-DVN,Devon Energy Corp,0,0,1,0,0,1,0,0,0
-DWDP,Dowdupont Inc.,1,0,1,0,1,1,0,0,0
-DX,Dynex Capital,0,0,0,1,0,0,0,0,0
-DXC,Dxc Technology Company,0,0,1,0,0,1,0,0,0
-DXCM,Dexcom,0,0,1,0,0,0,0,0,0
-DXPE,Dxp Enterprise,0,0,0,1,0,0,0,1,0
-DY,Dycom Industries,0,0,0,1,0,0,1,0,0
-DYN,Dynegy Inc,0,0,0,1,0,0,0,0,0
-EA,Electronic Arts Inc,0,1,1,0,0,1,0,0,0
-EARN,Ellington Residential Mortgage,0,0,0,1,0,0,0,0,0
-EAT,Brinker International,0,0,0,1,0,0,1,0,0
-EBAY,Ebay Inc,0,1,1,0,0,1,0,0,0
-EBF,Ennis Inc,0,0,0,1,0,0,0,0,0
-EBIX,Ebix Inc,0,0,0,1,0,0,0,1,0
-EBS,Emergent Biosolutions,0,0,0,1,0,0,0,1,0
-EBSB,Meridian Bncp,0,0,0,1,0,0,0,0,0
-EBTC,Enterprise Bancorp I,0,0,0,1,0,0,0,0,0
-ECHO,Echo Global Logistic,0,0,0,1,0,0,0,1,0
-ECL,Ecolab Inc,0,0,1,0,0,1,0,0,0
-ECOL,US Ecology Inc,0,0,0,1,0,0,0,1,0
-ECOM,Channeladvisor Corp,0,0,0,1,0,0,0,0,0
-ECPG,Encore Capital Grp,0,0,0,1,0,0,0,1,0
-ECR,Eclipse Resources Corp,0,0,0,1,0,0,0,0,0
-ED,Consolidated Edison Company of New York,1,0,1,0,0,1,0,0,0
-EDGE,Edge Therapeut Cm S,0,0,0,1,0,0,0,0,0
-EDIT,Editas Medicine,0,0,0,1,0,0,0,0,0
-EDR,Education Realty Trust Inc,0,0,0,1,0,0,1,0,0
-EE,El Paso Electric Company,0,0,0,1,0,0,0,1,0
-EEFT,Euronet Worldwide,0,0,1,0,0,0,0,0,0
-EEX,Emerald Expositions Events Inc,0,0,0,1,0,0,0,0,0
-EFII,Elec Imaging Inc,0,0,0,1,0,0,0,1,0
-EFSC,Enterprises Finl Svc,0,0,0,1,0,0,0,0,0
-EFX,Equifax Inc,0,0,1,0,0,1,0,0,0
-EGBN,Eagle Bancorp Inc,0,0,0,1,0,0,0,0,0
-EGHT,8X8 Inc,0,0,0,1,0,0,0,1,0
-EGL,Engility Holdings Inc,0,0,0,1,0,0,0,1,0
-EGLE,Eagle Bulk Ship New,0,0,0,1,0,0,0,0,0
-EGN,Energen Corp,0,0,1,0,0,0,1,0,0
-EGOV,Nic Inc,0,0,0,1,0,0,0,1,0
-EGP,Eastgroup Properties,0,0,0,1,0,0,0,1,0
-EGRX,Eagle Pharmaceutical,0,0,0,1,0,0,0,1,0
-EHTH,Ehealth Inc,0,0,0,1,0,0,0,1,0
-EIG,Employers Holdings Inc,0,0,0,1,0,0,0,1,0
-EIGI,Endurance Int Grp,0,0,0,1,0,0,0,0,0
-EIX,Edison International,1,0,1,0,0,1,0,0,0
-EL,Estee Lauder Companies,0,0,1,0,0,1,0,0,0
-ELF,E.L.F. Beauty Inc,0,0,0,1,0,0,0,0,0
-ELGX,Endologix Inc,0,0,0,1,0,0,0,0,0
-ELLI,Ellie Mae Inc,0,0,0,1,0,0,0,0,0
-ELS,Equity Lifestyle Properties,0,0,1,0,0,0,0,0,0
-ELVT,Elevate Credit Inc,0,0,0,1,0,0,0,0,0
-ELY,Callaway Golf Company,0,0,0,1,0,0,0,1,0
-EMCI,E M C Insurance Gp,0,0,0,1,0,0,0,0,0
-EME,Emcor Group,0,0,0,1,0,0,1,0,0
-EMKR,Emcore Corp,0,0,0,1,0,0,0,0,0
-EML,Eastern Co,0,0,0,1,0,0,0,0,0
-EMN,Eastman Chemical Company,0,0,1,0,0,1,0,0,0
-EMR,Emerson Electric Company,0,0,1,0,1,1,0,0,0
-ENDP,Endo Int'l Plc,0,0,1,0,0,0,1,0,0
-ENFC,Entegra Financ Cm ST,0,0,0,1,0,0,0,0,0
-ENR,Energizer Holdings Inc,0,0,1,0,0,0,1,0,0
-ENS,Enersys Inc,0,0,0,1,0,0,1,0,0
-ENSG,The Ensign Group In,0,0,0,1,0,0,0,1,0
-ENT,Global Eagle Entrtn,0,0,0,1,0,0,0,0,0
-ENTA,Enanta Pharmaceutica,0,0,0,1,0,0,0,1,0
-ENTG,Entegris Inc,0,0,0,1,0,0,0,0,0
-ENTL,Entellus Medical,0,0,0,1,0,0,0,0,0
-ENV,Envestnet Inc,0,0,0,1,0,0,0,0,0
-ENVA,Enova International Inc,0,0,0,1,0,0,0,1,0
-ENZ,Enzo Biochem,0,0,0,1,0,0,0,0,0
-EOG,Eog Resources,0,0,1,0,0,1,0,0,0
-EPAM,Epam Systems Inc,0,0,0,1,0,0,0,0,0
-EPAY,Bottomline Tech In,0,0,0,1,0,0,0,1,0
-EPC,Edgewell Personal Care,0,0,1,0,0,0,1,0,0
-EPE,Ep Energy Corp,0,0,0,1,0,0,0,0,0
-EPM,Evolution Petroleum Corp,0,0,0,1,0,0,0,0,0
-EPR,Entertainment Properties Trust,0,0,1,0,0,0,1,0,0
-EPZM,Epizyme Inc,0,0,0,1,0,0,0,0,0
-EQBK,Equity Bncsrs Cm A,0,0,0,1,0,0,0,0,0
-EQC,Equity Commonwealth,0,0,1,0,0,0,0,0,0
-EQIX,Equinix Inc,0,0,1,0,0,1,0,0,0
-EQR,Equity Residential,0,0,1,0,0,1,0,0,0
-EQT,Eqt Corp,0,0,1,0,0,1,0,0,0
-ERA,Era Group Inc,0,0,0,1,0,0,0,1,0
-ERI,Eldorado Resorts,0,0,0,1,0,0,0,0,0
-ERIE,Erie Indemnity Co,0,0,1,0,0,0,0,0,0
-ERII,Energy Recovery Inc,0,0,0,1,0,0,0,0,0
-EROS,Eros International Plc,0,0,0,1,0,0,0,0,0
-ES,Eversource Energy,0,0,1,0,0,1,0,0,0
-ESCA,Escalade Inc,0,0,0,1,0,0,0,0,0
-ESE,Esco Technologies Inc,0,0,0,1,0,0,0,1,0
-ESGR,Enstar Group Ltd,0,0,0,1,0,0,0,0,0
-ESIO,Electro Sci Inds,0,0,0,1,0,0,0,1,0
-ESL,Esterline Technologies Corp,0,0,0,1,0,0,1,0,0
-ESND,Essendant Inc,0,0,0,1,0,0,0,1,0
-ESNT,Essent Group Ltd,0,0,0,1,0,0,0,0,0
-ESPR,Esperion Theraptc,0,0,0,1,0,0,0,0,0
-ESRT,Empire State Realty Trust Inc,0,0,1,0,0,0,0,0,0
-ESRX,Express Scripts,0,1,1,0,0,1,0,0,0
-ESS,Essex Property Trust,0,0,1,0,0,1,0,0,0
-ESSA,Essa Bancorp Inc,0,0,0,1,0,0,0,0,0
-ESTE,Earthstone Energy,0,0,0,1,0,0,0,0,0
-ESV,Ensco Plc,0,0,0,1,0,0,1,0,0
-ESXB,Community Bankers,0,0,0,1,0,0,0,0,0
-ETFC,E*Trade Finl Corp,0,0,1,0,0,1,0,0,0
-ETH,Ethan Allen Interiors Inc,0,0,0,1,0,0,0,1,0
-ETM,Entercom Communications Corp,0,0,0,1,0,0,0,0,0
-ETN,Eaton Corp,0,0,1,0,0,1,0,0,0
-ETR,Entergy Corp,0,0,1,0,0,1,0,0,0
-ETSY,Etsy Inc,0,0,0,1,0,0,0,0,0
-EV,Eaton Vance Corp,0,0,1,0,0,0,1,0,0
-EVBG,Everbridge Inc,0,0,0,1,0,0,0,0,0
-EVBN,Evans Bancorp,0,0,0,1,0,0,0,0,0
-EVC,Entravision Communications Corp,0,0,0,1,0,0,0,0,0
-EVH,Evolent Health Inc Class A Com,0,0,0,1,0,0,0,0,0
-EVHC,Envision Healthcare Holdings,0,0,1,0,0,1,0,0,0
-EVI,Envirostarm Inc,0,0,0,1,0,0,0,0,0
-EVR,Evercore Partners Inc,0,0,0,1,0,0,0,1,0
-EVRI,Everi Holdings Inc,0,0,0,1,0,0,0,0,0
-EVTC,Evertec Inc,0,0,0,1,0,0,0,0,0
-EW,Edwards Lifesciences Corp,0,0,1,0,0,1,0,0,0
-EWBC,East West Bancorp,0,0,1,0,0,0,1,0,0
-EXA,Exa Corp,0,0,0,1,0,0,0,0,0
-EXAC,Exactech Inc,0,0,0,1,0,0,0,0,0
-EXAS,Exact Sciences Cor,0,0,0,1,0,0,0,0,0
-EXC,Exelon Corp,1,0,1,0,1,1,0,0,0
-EXEL,Exelixis Inc,0,0,1,0,0,0,0,0,0
-EXLS,Exlservice Holdings,0,0,0,1,0,0,0,1,0
-EXP,Eagle Materials Inc,0,0,1,0,0,0,1,0,0
-EXPD,Expeditors Intl,1,0,1,0,0,1,0,0,0
-EXPE,Expedia Inc,0,1,1,0,0,1,0,0,0
-EXPO,Exponent Inc,0,0,0,1,0,0,0,1,0
-EXPR,Express Inc,0,0,0,1,0,0,0,1,0
-EXR,Extra Space Storage Inc,0,0,1,0,0,1,0,0,0
-EXTN,Exterran Corp,0,0,0,1,0,0,0,1,0
-EXTR,Extreme Networks,0,0,0,1,0,0,0,0,0
-EXXI,Energy Xxi Gulf Coast Inc,0,0,0,1,0,0,0,0,0
-EZPW,Ezcorp Inc,0,0,0,1,0,0,0,1,0
-F,Ford Motor Company,0,0,1,0,1,1,0,0,0
-FAF,First American Corp,0,0,1,0,0,0,1,0,0
-FANG,Diamondback Energy,0,0,1,0,0,0,0,0,0
-FARM,Farmer Brothers,0,0,0,1,0,0,0,0,0
-FARO,Faro Tech Inc,0,0,0,1,0,0,0,1,0
-FAST,Fastenal Co,0,1,1,0,0,1,0,0,0
-FATE,Fate Therapeutics,0,0,0,1,0,0,0,0,0
-FAZ17,Euro Stoxx Banks 600,0,0,1,0,0,0,0,0,0
-FB,Facebook Inc,0,1,1,0,1,1,0,0,0
-FBC,Flagstar Bancorp,0,0,0,1,0,0,0,0,0
-FBHS,Fortune Brands Home & Security,0,0,1,0,0,1,0,0,0
-FBIO,Fortress Biotech Inc,0,0,0,1,0,0,0,0,0
-FBIZ,First Business Finan,0,0,0,1,0,0,0,0,0
-FBK,Fb Financial Corp,0,0,0,1,0,0,0,0,0
-FBM,Foundation Building Materials Inc,0,0,0,1,0,0,0,0,0
-FBMS,First Bancshs [Ms],0,0,0,1,0,0,0,0,0
-FBNC,First Bancorp [Nc],0,0,0,1,0,0,0,0,0
-FBNK,First Connecticut BA,0,0,0,1,0,0,0,0,0
-FBP,First Bancorp,0,0,0,1,0,0,0,1,0
-FC,Franklin Covey Company,0,0,0,1,0,0,0,0,0
-FCB,Fcb Financial Holdings Inc,0,0,0,1,0,0,0,0,0
-FCBC,First Community Bksh,0,0,0,1,0,0,0,0,0
-FCE.A,Forest City Ent Cl A,0,0,1,0,0,0,0,0,0
-FCF,First Commonwealth Financial Corp,0,0,0,1,0,0,0,1,0
-FCFS,First Cash Fin Svcs,0,0,0,1,0,0,0,1,0
-FCN,Fti Consulting,0,0,0,1,0,0,0,1,0
-FCNCA,First Citizens Bancs,0,0,0,1,0,0,0,0,0
-FCPT,Four Corners Property Trust In,0,0,0,1,0,0,0,1,0
-FCX,Freeport-Mcmoran Inc,0,0,1,0,0,1,0,0,0
-FDC,First Data Corp,0,0,1,0,0,0,0,0,0
-FDEF,First Defiance Finl,0,0,0,1,0,0,0,0,0
-FDP,Fresh Del Monte Produce,0,0,0,1,0,0,0,0,0
-FDS,Factset Research Systems Inc,0,0,1,0,0,0,1,0,0
-FDX,Fedex Corp,1,0,1,0,1,1,0,0,0
-FE,Firstenergy Corp,1,0,1,0,0,1,0,0,0
-FELE,Franklin Electric Co,0,0,0,1,0,0,0,1,0
-FET,Forum Energy Technologies Inc,0,0,0,1,0,0,0,0,0
-FEYE,Fireeye Inc,0,0,1,0,0,0,0,0,0
-FF,Futurefuel Corp,0,0,0,1,0,0,0,1,0
-FFBC,First Finl Bncp [Oh],0,0,0,1,0,0,0,1,0
-FFG,Fbl Financial Group,0,0,0,1,0,0,0,0,0
-FFIC,Flushing Finl Corp,0,0,0,1,0,0,0,0,0
-FFIN,First Finl Bkshs Inc,0,0,0,1,0,0,0,1,0
-FFIV,F5 Networks Inc,0,0,1,0,0,1,0,0,0
-FFKT,Farmers Capital BA,0,0,0,1,0,0,0,0,0
-FFNW,First Financial Nort,0,0,0,1,0,0,0,0,0
-FFWM,First Foundation,0,0,0,1,0,0,0,0,0
-FGBI,First Gurty Banc,0,0,0,1,0,0,0,0,0
-FGEN,Fibrogen Inc CS,0,0,0,1,0,0,0,0,0
-FGL,Fidelity & Guaranty,0,0,0,1,0,0,0,0,0
-FHB,First Hawaiian Inc,0,0,1,0,0,0,0,0,0
-FHN,First Tennessee National Corp,0,0,1,0,0,0,1,0,0
-FI,Frank's International N.V.,0,0,0,1,0,0,0,0,0
-FIBK,First Interstate Ban,0,0,0,1,0,0,0,0,0
-FICO,Fair Isaac and Company Inc,0,0,0,1,0,0,1,0,0
-FII,Federated Investors,0,0,1,0,0,0,1,0,0
-FINL,Finish Line Cl A,0,0,0,1,0,0,0,1,0
-FIS,Fidelity National Information Services,0,0,1,0,0,1,0,0,0
-FISI,Financial Institut,0,0,0,1,0,0,0,0,0
-FISV,Fiserv Inc,0,1,1,0,0,1,0,0,0
-FIT,Fitbit Inc,0,0,0,1,0,0,0,0,0
-FITB,Fifth Third Bncp,0,0,1,0,0,1,0,0,0
-FIVE,Five Below Inc,0,0,0,1,0,0,0,1,0
-FIVN,Five9 Inc,0,0,0,1,0,0,0,0,0
-FIX,Comfort Systems USA,0,0,0,1,0,0,0,1,0
-FIZZ,Natl Beverage Cp,0,0,0,1,0,0,0,0,0
-FL,Footlocker Inc,0,0,1,0,0,1,0,0,0
-FLDM,Fluidigm Corp,0,0,0,1,0,0,0,0,0
-FLIC,First of Long Isla,0,0,0,1,0,0,0,0,0
-FLIR,Flir Systems Inc,0,0,1,0,0,1,0,0,0
-FLO,Flowers Foods,0,0,1,0,0,0,1,0,0
-FLOW,SPX Flow Inc,0,0,0,1,0,0,0,1,0
-FLR,Fluor Corp,0,0,1,0,0,1,0,0,0
-FLS,Flowserve Corp,0,0,1,0,0,1,0,0,0
-FLT,Fleetcor Technologies,0,0,1,0,0,0,0,0,0
-FLWS,1-800-Flowers.Com,0,0,0,1,0,0,0,0,0
-FLXN,Flexion Therapeutics,0,0,0,1,0,0,0,0,0
-FLXS,Flexsteel Inds,0,0,0,1,0,0,0,0,0
-FMAO,Farmers & Merch Banc,0,0,0,1,0,0,0,0,0
-FMBH,First Mid Ill Bncshr,0,0,0,1,0,0,0,0,0
-FMBI,First Midwest Bncp,0,0,0,1,0,0,0,1,0
-FMC,FMC Corp,0,0,1,0,0,1,0,0,0
-FMI,Foundation Medicine,0,0,0,1,0,0,0,0,0
-FMNB,Farmers Natl Banc Cp,0,0,0,1,0,0,0,0,0
-FMSA,Fmsa Holdings Inc,0,0,0,1,0,0,0,0,0
-FN,Fabrinet,0,0,0,1,0,0,0,1,0
-FNB,F.N.B. Corp,0,0,1,0,0,0,1,0,0
-FNBG,Fnb Bancorp [Ca],0,0,0,1,0,0,0,0,0
-FND,Floor & Decor Holdings Inc,0,0,1,0,0,0,0,0,0
-FNF,Fidelity National Financial,0,0,1,0,0,0,0,0,0
-FNFV,Fnfv Group of Fidelity National,0,0,0,1,0,0,0,0,0
-FNGN,Financial Engines,0,0,0,1,0,0,0,1,0
-FNHC,Federated Natl Hldg,0,0,0,1,0,0,0,0,0
-FNLC,First Bancorp Inc,0,0,0,1,0,0,0,0,0
-FNSR,Finisar Corp,0,0,0,1,0,0,0,0,0
-FNWB,First Nw Banc,0,0,0,1,0,0,0,0,0
-FOE,Ferro Corp,0,0,0,1,0,0,0,0,0
-FOGO,Fogo De Chao Cm ST,0,0,0,1,0,0,0,0,0
-FOLD,Amicus Therapeutics,0,0,0,1,0,0,0,0,0
-FONR,Fonar Corp,0,0,0,1,0,0,0,0,0
-FOR,Forestar Group Inc,0,0,0,1,0,0,0,0,0
-FORM,Formfactor Inc,0,0,0,1,0,0,0,0,0
-FORR,Forrester Resrch,0,0,0,1,0,0,0,1,0
-FOSL,Fossil Group,0,0,0,1,0,0,0,1,0
-FOX,21st Centry Fox Class B,0,1,1,0,1,1,0,0,0
-FOXA,21st Centry Fox Class A,0,1,1,0,1,1,0,0,0
-FOXF,Fox Factory Cp,0,0,0,1,0,0,0,1,0
-FPI,Farmland Partners Inc,0,0,0,1,0,0,0,0,0
-FPRX,Five Prime Thera,0,0,0,1,0,0,0,0,0
-FR,First Industrial Realty Trust,0,0,0,1,0,0,1,0,0
-FRAC,Keane Group Inc,0,0,0,1,0,0,0,0,0
-FRAN,Francesca's Holdings,0,0,0,1,0,0,0,1,0
-FRBK,Republic First Bcp,0,0,0,1,0,0,0,0,0
-FRC,First Republic Bank,0,0,1,0,0,0,0,0,0
-FRED,Fred's Inc,0,0,0,1,0,0,0,1,0
-FRGI,Fiesta Restaurant Gp,0,0,0,1,0,0,0,1,0
-FRME,First Merchants Corp,0,0,0,1,0,0,0,0,0
-FRO,Frontline Ltd,0,0,0,1,0,0,0,0,0
-FRPH,Frp Holdings Inc,0,0,0,1,0,0,0,0,0
-FRPT,Freshpet Inc CS,0,0,0,1,0,0,0,0,0
-FRT,Federal Realty Investment Trust,0,0,1,0,0,1,0,0,0
-FRTA,Forterra Inc,0,0,0,1,0,0,0,0,0
-FSAM,Fifth Street,0,0,0,1,0,0,0,0,0
-FSB,Franklin Financial Network Inc,0,0,0,1,0,0,0,0,0
-FSLR,First Solar Inc,0,0,1,0,0,0,1,0,0
-FSP,Franklin Street Properties,0,0,0,1,0,0,0,1,0
-FSS,Federal Signal Corp,0,0,0,1,0,0,0,1,0
-FSTR,Foster L B Co,0,0,0,1,0,0,0,0,0
-FTD,Ftd Companies,0,0,0,1,0,0,0,1,0
-FTI,Technipfmc Plc,0,0,0,0,0,1,0,0,0
-FTK,Flotek Industries,0,0,0,1,0,0,0,1,0
-FTNT,Fortinet Inc,0,0,1,0,0,0,1,0,0
-FTR,Frontier Commun Cp,0,0,0,1,0,0,1,0,0
-FTV,Fortive Corp,0,0,1,0,0,1,0,0,0
-FUL,H. B. Fuller Company,0,0,0,1,0,0,0,1,0
-FULT,Fulton Financial Cor,0,0,0,1,0,0,1,0,0
-FWONA,Liberty Media F1 Series A,0,0,1,0,0,0,0,0,0
-FWONK,Liberty Media F1 Series K,0,0,1,0,0,0,0,0,0
-FWRD,Foward Air Corp,0,0,0,1,0,0,0,1,0
-G,Genpact Ltd,0,0,1,0,0,0,0,0,0
-GABC,German Amer Bncp Inc,0,0,0,1,0,0,0,0,0
-GAIA,Gaiam Inc,0,0,0,1,0,0,0,0,0
-GATX,GATX Corp,0,0,0,1,0,0,1,0,0
-GBCI,Glacier Bancorp Inc,0,0,0,1,0,0,0,1,0
-GBL,Gamco Investors,0,0,0,1,0,0,0,0,0
-GBLI,Global Indemnity Plc,0,0,0,1,0,0,0,0,0
-GBNK,Guaranty Bancorp,0,0,0,1,0,0,0,0,0
-GBT,Global Blood Ther,0,0,0,1,0,0,0,0,0
-GBX,Greenbrier Companies,0,0,0,1,0,0,0,1,0
-GCAP,Gain Capital Holdings,0,0,0,1,0,0,0,0,0
-GCBC,Greene County Bncp,0,0,0,1,0,0,0,0,0
-GCI,Gannett Co. Inc,0,0,0,1,0,0,0,1,0
-GCO,Genesco Inc,0,0,0,1,0,0,0,1,0
-GCP,Gcp Applied Technologies Inc C,0,0,0,1,0,0,0,0,0
-GD,General Dynamics Corp,0,0,1,0,1,1,0,0,0
-GDDY,Godaddy Inc,0,0,1,0,0,0,0,0,0
-GDEN,Golden Entmt,0,0,0,1,0,0,0,0,0
-GDI,Gardner Denver Holdings Inc,0,0,1,0,0,0,0,0,0
-GDOT,Green Dot Corp,0,0,0,1,0,0,0,1,0
-GE,General Electric Company,1,0,1,0,1,1,0,0,0
-GEF,Greif Bros. Corp,0,0,0,1,0,0,1,0,0
-GEF.B,Greif Bros. Corp,0,0,0,1,0,0,0,0,0
-GEN,Genesis Healthcare Inc,0,0,0,1,0,0,0,0,0
-GENC,Gencor Industries In,0,0,0,1,0,0,0,0,0
-GEO,Geo Group Inc,0,0,0,1,0,0,1,0,0
-GEOS,Geospace Technologie,0,0,0,1,0,0,0,1,0
-GERN,Geron Corp,0,0,0,1,0,0,0,0,0
-GES,Guess Inc,0,0,0,1,0,0,0,1,0
-GFF,Griffon Corp,0,0,0,1,0,0,0,1,0
-GGG,Graco Inc,0,0,1,0,0,0,1,0,0
-GGP,Ggp Inc,0,0,1,0,0,1,0,0,0
-GHC,Graham Holdings Company,0,0,1,0,0,0,1,0,0
-GHDX,Genomic Health Inc,0,0,0,1,0,0,0,0,0
-GHL,Greenhill & Co. Inc,0,0,0,1,0,0,0,1,0
-GHM,Graham Corp,0,0,0,1,0,0,0,0,0
-GIFI,Gulf Island Fab,0,0,0,1,0,0,0,1,0
-GIII,G-III Apparel Gp I,0,0,0,1,0,0,0,1,0
-GILD,Gilead Sciences Inc,0,1,1,0,1,1,0,0,0
-GIMO,Gigamon Inc,0,0,0,1,0,0,0,1,0
-GIS,General Mills,0,0,1,0,0,1,0,0,0
-GKOS,Glaukos Corp,0,0,0,1,0,0,0,0,0
-GLBL,Terraform Glbl Cla,0,0,0,1,0,0,0,0,0
-GLDD,Great Lakes Drg Dock,0,0,0,1,0,0,0,0,0
-GLNG,Golar Lng Ltd,0,0,0,1,0,0,0,0,0
-GLOG,Gaslog Ltd,0,0,0,1,0,0,0,0,0
-GLPI,Gaming & Leisure,0,0,1,0,0,0,0,0,0
-GLRE,Greenlight Cap. Re.,0,0,0,1,0,0,0,0,0
-GLT,Glatfelter,0,0,0,1,0,0,0,1,0
-GLUU,Glu Mobile Inc,0,0,0,1,0,0,0,0,0
-GLW,Corning Inc,0,0,1,0,0,1,0,0,0
-GM,General Motors Company,0,0,1,0,1,1,0,0,0
-GME,Gamestop Corp,0,0,1,0,0,0,1,0,0
-GMED,Globus Medical Inc,0,0,0,1,0,0,1,0,0
-GMRE,Global Medical REIT Inc,0,0,0,1,0,0,0,0,0
-GMS,Gms,0,0,0,1,0,0,0,0,0
-GNBC,Green Bancorp,0,0,0,1,0,0,0,0,0
-GNC,GNC Holdings Inc,0,0,0,1,0,0,0,0,0
-GNCA,Genocea Biosciences,0,0,0,1,0,0,0,0,0
-GNCMA,Gen Communication,0,0,0,1,0,0,0,1,0
-GNE,Genie Energy Ltd. Class B,0,0,0,1,0,0,0,0,0
-GNK,Genco Shipping & Trading Ltd,0,0,0,1,0,0,0,0,0
-GNL,Global Net Lease Inc,0,0,0,1,0,0,0,0,0
-GNMK,Genmark Diagnostics,0,0,0,1,0,0,0,0,0
-GNRC,Generac Holdings Inc,0,0,0,1,0,0,0,0,0
-GNRT,Gener8 Maritime Inc,0,0,0,1,0,0,0,0,0
-GNTX,Gentex Corp,0,0,1,0,0,0,1,0,0
-GNTY,Guaranty Bancshares Inc,0,0,0,1,0,0,0,0,0
-GNW,Genworth Financial Inc,0,0,0,1,0,0,1,0,0
-GOGO,Gogo Inc,0,0,0,1,0,0,0,0,0
-GOLF,Acushnet Holdings Corp,0,0,0,1,0,0,0,0,0
-GOOD,Gladstone Comml,0,0,0,1,0,0,0,0,0
-GOOG,Alphabet Class C,0,1,1,0,1,1,0,0,0
-GOOGL,Alphabet Class A,0,1,1,0,1,1,0,0,0
-GORO,Gold Resource Corp,0,0,0,1,0,0,0,0,0
-GOV,Government Properties Income Trust,0,0,0,1,0,0,0,1,0
-GPC,Genuine Parts Company,0,0,1,0,0,1,0,0,0
-GPI,Group 1 Automotive,0,0,0,1,0,0,0,1,0
-GPK,Graphic Packaging Holding Company,0,0,1,0,0,0,0,0,0
-GPMT,Granite Point Mortgage Trust Inc,0,0,0,1,0,0,0,0,0
-GPN,Global Payments Inc,0,0,1,0,0,1,0,0,0
-GPOR,Gulfport Energy Corp,0,0,1,0,0,0,1,0,0
-GPRE,Green Plains Inc,0,0,0,1,0,0,0,1,0
-GPRO,Gopro Inc Cl A,0,0,0,1,0,0,0,0,0
-GPS,Gap Inc,0,0,1,0,0,1,0,0,0
-GPT,Gramercy Property Trust,0,0,0,1,0,0,0,0,0
-GPX,Gp Strategies Corp,0,0,0,1,0,0,0,0,0
-GRA,W.R. Grace & Company,0,0,1,0,0,0,0,0,0
-GRBK,Green Brick Partners,0,0,0,1,0,0,0,0,0
-GRC,Gorman-Rupp Company,0,0,0,1,0,0,0,0,0
-GRIF,Griffin Industrial,0,0,0,1,0,0,0,0,0
-GRMN,Garmin Ltd,0,0,1,0,0,1,0,0,0
-GRPN,Groupon Cl A,0,0,0,1,0,0,0,0,0
-GRUB,Grubhub Inc,0,0,0,1,0,0,0,0,0
-GS,Goldman Sachs Group,1,0,1,0,1,1,0,0,0
-GSAT,Globalstar,0,0,0,1,0,0,0,0,0
-GSBC,Great Southern Bncp,0,0,0,1,0,0,0,0,0
-GSIT,Gsi Technology Inc,0,0,0,1,0,0,0,0,0
-GST,Gastar Exploration,0,0,0,1,0,0,0,0,0
-GT,Goodyear Tire Rubber,0,0,1,0,0,1,0,0,0
-GTHX,G1 Therapeutics Inc,0,0,0,1,0,0,0,0,0
-GTLS,Chart Industries In,0,0,0,1,0,0,0,1,0
-GTN,Gray Television,0,0,0,1,0,0,0,0,0
-GTS,Triple-S Management Corp,0,0,0,1,0,0,0,0,0
-GTT,Global Telcom & Technology Inc,0,0,0,1,0,0,0,0,0
-GTY,Getty Realty Corp,0,0,0,1,0,0,0,1,0
-GVA,Granite Construction Inc,0,0,0,1,0,0,1,0,0
-GWB,Great Western Bancorp Inc,0,0,0,1,0,0,0,1,0
-GWR,Genesee & Wyoming,0,0,1,0,0,0,1,0,0
-GWRE,Guidewire Software Inc,0,0,1,0,0,0,0,0,0
-GWRS,Global Water Reso,0,0,0,1,0,0,0,0,0
-GWW,W.W. Grainger,0,0,1,0,0,1,0,0,0
-GXP,Great Plains Energy Inc,0,0,1,0,0,0,1,0,0
-H,Hyatt Hotels Corp,0,0,1,0,0,0,0,0,0
-HA,Hawaiian Hldgs Inc,0,0,0,1,0,0,0,1,0
-HABT,Habit Rest Cmn A,0,0,0,1,0,0,0,0,0
-HAE,Haemonetics Corp,0,0,0,1,0,0,0,1,0
-HAFC,Hanmi Financial Cp,0,0,0,1,0,0,0,1,0
-HAIN,Hain Celestial Grp,0,0,1,0,0,0,1,0,0
-HAL,Halliburton Company,0,0,1,0,1,1,0,0,0
-HALL,Hallmark Fin Svc,0,0,0,1,0,0,0,0,0
-HALO,Halozyme Therapeutic,0,0,0,1,0,0,0,0,0
-HAS,Hasbro Inc,0,1,1,0,0,1,0,0,0
-HASI,Hannon Armstrong Sustainable In,0,0,0,1,0,0,0,0,0
-HAWK,Blackhawk Network Ho,0,0,0,1,0,0,0,0,0
-HAYN,Haynes Intl Inc,0,0,0,1,0,0,0,1,0
-HBAN,Huntington Bcshs,0,0,1,0,0,1,0,0,0
-HBB,Horizons CA Select Universe Bond ETF,0,0,0,1,0,0,0,0,0
-HBCP,Home Bancorp Inc,0,0,0,1,0,0,0,0,0
-HBHC,Hancock Holding Co,0,0,0,1,0,0,1,0,0
-HBI,Hanesbrands Inc,0,0,1,0,0,1,0,0,0
-HBMD,Howard Bancorp MD,0,0,0,1,0,0,0,0,0
-HBNC,Horizon Bancorp,0,0,0,1,0,0,0,0,0
-HBP,Huttig Bldg Products,0,0,0,1,0,0,0,0,0
-HCA,Hca Holdings Inc,0,0,1,0,0,1,0,0,0
-HCC,Warrior Met Coal Inc,0,0,0,1,0,0,0,0,0
-HCCI,Heritage-Crystal,0,0,0,1,0,0,0,0,0
-HCHC,Hc2 Holdings Inc,0,0,0,1,0,0,0,0,0
-HCI,Homeowners Choice,0,0,0,1,0,0,0,1,0
-HCKT,Hackett Grp Inc,0,0,0,1,0,0,0,0,0
-HCN,Welltower Inc,0,0,1,0,0,1,0,0,0
-HCOM,Hawaiian Telcom Hold,0,0,0,1,0,0,0,0,0
-HCP,HCP Inc,0,0,1,0,0,1,0,0,0
-HCSG,Healthcare Svcs Gp,0,0,0,1,0,0,0,1,0
-HD,Home Depot,1,0,1,0,1,1,0,0,0
-HDNG,Hardinge Inc,0,0,0,1,0,0,0,0,0
-HDP,Hortonworks,0,0,0,1,0,0,0,0,0
-HDS,HD Supply Hlds Cmm,0,0,1,0,0,0,0,0,0
-HDSN,Hudson Tech Inc,0,0,0,1,0,0,0,0,0
-HE,Hawaiian Electric Industries,0,0,1,0,0,0,1,0,0
-HEES,H&E Equip Services,0,0,0,1,0,0,0,0,0
-HEI,Heico Corp,0,0,1,0,0,0,0,0,0
-HEI.A,Heico Cp Cl A,0,0,1,0,0,0,0,0,0
-HELE,Helen of Troy Ltd,0,0,0,1,0,0,1,0,0
-HES,Hess Corp,0,0,1,0,0,1,0,0,0
-HF,HFF Inc,0,0,0,1,0,0,0,1,0
-HFC,Hollyfrontier Corp,0,0,1,0,0,0,1,0,0
-HFWA,Heritage Financial,0,0,0,1,0,0,0,0,0
-HGV,Hilton Grand Vacations Inc,0,0,1,0,0,0,0,0,0
-HHC,Howard Hughes Corp,0,0,1,0,0,0,0,0,0
-HI,Hillenbrand Inc,0,0,0,1,0,0,0,1,0
-HIBB,Hibbett Sports Inc,0,0,0,1,0,0,0,1,0
-HIFR,Infrareit Inc,0,0,0,1,0,0,0,0,0
-HIFS,Hingham Inst For Svg,0,0,0,1,0,0,0,0,0
-HIG,Hartford Financial Services Group,0,0,1,0,0,1,0,0,0
-HII,Huntington Ingalls Industries,0,0,1,0,0,0,1,0,0
-HIIQ,Health Insurance Inn,0,0,0,1,0,0,0,0,0
-HIL,Hill International,0,0,0,1,0,0,0,0,0
-HIVE,Aerohive Networks Inc,0,0,0,1,0,0,0,0,0
-HIW,Highwoods Properties,0,0,1,0,0,0,1,0,0
-HK,Halcon Resources,0,0,0,1,0,0,0,0,0
-HL,Hecla Mining Company,0,0,0,1,0,0,0,0,0
-HLF,Herbalife Ltd,0,0,1,0,0,0,0,0,0
-HLI,Houlihan Lokey,0,0,0,1,0,0,0,0,0
-HLIT,Harmonic Inc,0,0,0,1,0,0,0,1,0
-HLNE,Hamilton Lane Incorporated Class A,0,0,0,1,0,0,0,0,0
-HLS,Healthsouth Corp,0,0,0,1,0,0,1,0,0
-HLT,Hilton Inc,0,0,1,0,0,1,0,0,0
-HLX,Helix Energy Solutions Group,0,0,0,1,0,0,0,1,0
-HMHC,Houghton Mifflin Har,0,0,0,1,0,0,0,0,0
-HMN,Horace Mann Educators Corp,0,0,0,1,0,0,0,1,0
-HMST,Homestreet Inc,0,0,0,1,0,0,0,1,0
-HMSY,Hms Hldgs Cp,0,0,0,1,0,0,0,1,0
-HMTV,Hemisphere Media A,0,0,0,1,0,0,0,0,0
-HNI,Hon Industries Inc,0,0,0,1,0,0,1,0,0
-HNRG,Hallador Energy Co,0,0,0,1,0,0,0,0,0
-HOFT,Hooker Furniture,0,0,0,1,0,0,0,0,0
-HOG,Harley-Davidson Inc,0,0,1,0,0,1,0,0,0
-HOLX,Hologic Inc,0,1,1,0,0,1,0,0,0
-HOMB,Home Bancshares Inc,0,0,0,1,0,0,1,0,0
-HOME,At Home Group Inc,0,0,0,1,0,0,0,0,0
-HON,Honeywell International Inc,0,0,1,0,1,1,0,0,0
-HONE,Harborone Bancorp Inc,0,0,0,1,0,0,0,0,0
-HOPE,Hope Bancorp Inc,0,0,0,1,0,0,0,1,0
-HOV,Hovnanian Enterprises Inc,0,0,0,1,0,0,0,0,0
-HP,Helmerich & Payne,0,0,1,0,0,1,0,0,0
-HPE,Hewlett Packard Enterprise Comp,0,0,1,0,0,1,0,0,0
-HPP,Hudson Pacific Properties,0,0,1,0,0,0,0,0,0
-HPQ,Hewlett-Packard Company,0,0,1,0,0,1,0,0,0
-HPT,Hospitality Properites Trust,0,0,1,0,0,0,1,0,0
-HQY,Healthequity,0,0,0,1,0,0,0,1,0
-HR,Healthcare Realty Trust Inc,0,0,0,1,0,0,1,0,0
-HRB,H&R Block,0,0,1,0,0,1,0,0,0
-HRC,Hill-Rom Holdings Inc,0,0,1,0,0,0,1,0,0
-HRG,Hrg Group Inc,0,0,0,1,0,0,0,0,0
-HRI,Herc Holdings Inc,0,0,0,1,0,0,0,0,0
-HRL,Hormel Foods Corp,0,0,1,0,0,1,0,0,0
-HRS,Harris Corp,0,0,1,0,0,1,0,0,0
-HRTG,Heritage Insurance Holdings,0,0,0,1,0,0,0,0,0
-HRTX,Heron Therapeutics,0,0,0,1,0,0,0,0,0
-HSC,Harsco Corp,0,0,0,1,0,0,0,1,0
-HSIC,Henry Schein Inc,0,1,1,0,0,1,0,0,0
-HSII,Heidrick & Struggl,0,0,0,1,0,0,0,1,0
-HSKA,Heska Corp,0,0,0,1,0,0,0,1,0
-HSNI,HSN Inc,0,0,0,1,0,0,1,0,0
-HST,Host Marriott Financial Trust,0,0,1,0,0,1,0,0,0
-HSTM,Healthstream Inc,0,0,0,1,0,0,0,1,0
-HSY,Hershey Foods Corp,0,0,1,0,0,1,0,0,0
-HT,Hersha Hospitality Trust,0,0,0,1,0,0,0,1,0
-HTA,Healthcare Trust of America I,0,0,1,0,0,0,0,0,0
-HTBI,Hometrust Bancshares,0,0,0,1,0,0,0,0,0
-HTBK,Heritage Commerce,0,0,0,1,0,0,0,0,0
-HTH,Hilltop Holdings Inc,0,0,0,1,0,0,0,0,0
-HTLD,Heartland Express,0,0,0,1,0,0,0,1,0
-HTLF,Heartland Finl USA,0,0,0,1,0,0,0,0,0
-HTZ,Hertz Global Holdings Inc,0,0,0,1,0,0,0,0,0
-HUBB,Hubbell Inc B,0,0,1,0,0,0,1,0,0
-HUBG,Hub Group Inc A,0,0,0,1,0,0,0,1,0
-HUBS,Hubspot Inc,0,0,0,1,0,0,0,0,0
-HUM,Humana Inc,0,0,1,0,0,1,0,0,0
-HUN,Huntsman Corp,0,0,1,0,0,0,0,0,0
-HURC,Hurco Cos Inc,0,0,0,1,0,0,0,0,0
-HURN,Huron Consulting,0,0,0,1,0,0,0,0,0
-HVT,Haverty Furniture Companies,0,0,0,1,0,0,0,1,0
-HWKN,Hawkins Inc,0,0,0,1,0,0,0,1,0
-HXL,Hexcel Corp,0,0,1,0,0,0,0,0,0
-HY,Hyster-Yale Materials Handling,0,0,0,1,0,0,0,0,0
-HYH,Halyard Health Inc,0,0,0,1,0,0,1,0,0
-HZN,Horizon Global Corporation Comm,0,0,0,1,0,0,0,0,0
-HZNP,Horizon Pharma Ord,0,0,0,1,0,0,0,0,0
-HZO,Marinemax Inc,0,0,0,1,0,0,0,1,0
-I,Intelsat S.A.,0,0,0,1,0,0,0,0,0
-IAC,Iac/Interactive,0,0,1,0,0,0,0,0,0
-IART,Integra Lifesciences,0,0,0,1,0,0,0,1,0
-IBCP,Independent Bk Cp,0,0,0,1,0,0,0,0,0
-IBKC,Iberiabank Corp,0,0,0,1,0,0,0,0,0
-IBKR,Interactive Brokers,0,0,1,0,0,0,0,1,0
-IBM,International Business Machines,1,0,1,0,1,1,0,0,0
-IBOC,Intl Bancshares,0,0,0,1,0,0,1,0,0
-IBP,Installed Building Products I,0,0,0,1,0,0,0,1,0
-IBTX,Independent Bank Grp,0,0,0,1,0,0,0,0,0
-ICBK,County Bancorp,0,0,0,1,0,0,0,0,0
-ICD,Independence Contract Drilling Inc,0,0,0,1,0,0,0,0,0
-ICE,Intercontinental Exchange,0,0,1,0,0,1,0,0,0
-ICFI,Icf International,0,0,0,1,0,0,0,0,0
-ICHR,Ichor,0,0,0,1,0,0,0,0,0
-ICON,Iconix Brand Group,0,0,0,1,0,0,0,1,0
-ICPT,Intercept Pharmaceut,0,0,1,0,0,0,0,0,0
-ICUI,I C U Medical Inc,0,0,0,1,0,0,0,1,0
-IDA,Idacorp Inc,0,0,0,1,0,0,1,0,0
-IDCC,Interdigital Inc,0,0,0,1,0,0,1,0,0
-IDRA,Idera Pharmaceutical,0,0,0,1,0,0,0,0,0
-IDT,IDT Corp,0,0,0,1,0,0,0,0,0
-IDTI,Integrated Devices,0,0,0,1,0,0,1,0,0
-IDXX,Idexx Laboratories,0,1,1,0,0,1,0,0,0
-IESC,Ies Holdings,0,0,0,1,0,0,0,0,0
-IEX,Idex Corp,0,0,1,0,0,0,1,0,0
-IFF,International Flavors & Fragrances,0,0,1,0,0,1,0,0,0
-IGT,International Game Technology,0,0,1,0,0,0,0,0,0
-IHC,Independence Holding Company,0,0,0,1,0,0,0,0,0
-III,Information Svcs Grp,0,0,0,1,0,0,0,0,0
-IIIN,Insteel Industries,0,0,0,1,0,0,0,1,0
-IIVI,I I V I Inc,0,0,0,1,0,0,0,1,0
-ILG,Ilg Inc,0,0,0,1,0,0,1,0,0
-ILMN,Illumina Inc,0,1,1,0,0,1,0,0,0
-IMAX,Imax Corp,0,0,0,1,0,0,0,0,0
-IMDZ,Immune Design CS,0,0,0,1,0,0,0,0,0
-IMGN,Immunogen Inc,0,0,0,1,0,0,0,0,0
-IMH,Impac Mortgage Holdings,0,0,0,1,0,0,0,0,0
-IMKTA,Ingles Markets Inc,0,0,0,1,0,0,0,0,0
-IMMR,Immersion Corp,0,0,0,1,0,0,0,0,0
-IMMU,Immunomedics Inc,0,0,0,1,0,0,0,0,0
-IMPV,Imperva Inc,0,0,0,1,0,0,0,0,0
-INAP,Internap Corp,0,0,0,1,0,0,0,0,0
-INBK,First Internet Bcp,0,0,0,1,0,0,0,0,0
-INCR,Inc Research A,0,0,0,1,0,0,1,0,0
-INCY,Incyte Corp,0,1,1,0,0,1,0,0,0
-INDB,Independent Bk Corp,0,0,0,1,0,0,0,1,0
-INFN,Infinera Corp,0,0,0,1,0,0,0,0,0
-INFO,IHS Markit Ltd,0,0,1,0,0,1,0,0,0
-INGN,Inogen Inc,0,0,0,1,0,0,0,1,0
-INGR,Ingredion Inc,0,0,1,0,0,0,1,0,0
-INN,Summit Hotel Properties,0,0,0,1,0,0,0,1,0
-INO,Inovio Pharma,0,0,0,1,0,0,0,0,0
-INOV,Inovalon Hldgs Cm A,0,0,0,1,0,0,0,0,0
-INSE,Inspired Entertainment Inc,0,0,0,1,0,0,0,0,0
-INSM,Insmed Inc,0,0,0,1,0,0,0,0,0
-INST,Instructure Inc,0,0,0,1,0,0,0,0,0
-INSW,International Seaways Inc,0,0,0,1,0,0,0,0,0
-INSY,Insys Theraptcs,0,0,0,1,0,0,0,0,0
-INT,World Fuel Services Corp,0,0,1,0,0,0,1,0,0
-INTC,Intel Corp,1,1,1,0,1,1,0,0,0
-INTL,Intl Fcstone Inc,0,0,0,1,0,0,0,1,0
-INTU,Intuit Inc,0,1,1,0,0,1,0,0,0
-INVA,Innoviva Inc,0,0,0,1,0,0,0,1,0
-INVH,Invitation Homes Inc,0,0,1,0,0,0,0,0,0
-INWK,Innerworkings Inc,0,0,0,1,0,0,0,0,0
-IONS,Ionis Pharmaceutical,0,0,1,0,0,0,0,0,0
-IOSP,Innospec Inc,0,0,0,1,0,0,0,1,0
-IOVA,Iovance Biotherapeutics Inc,0,0,0,1,0,0,0,0,0
-IP,International Paper Company,0,0,1,0,0,1,0,0,0
-IPAR,Inter Parfums Inc,0,0,0,1,0,0,0,1,0
-IPCC,Infinity Property,0,0,0,1,0,0,0,1,0
-IPG,Interpublic Group of Companies,0,0,1,0,0,1,0,0,0
-IPGP,Ipg Photonics Corp,0,0,1,0,0,0,1,0,0
-IPHI,Inphi Corp,0,0,0,1,0,0,0,0,0
-IPHS,Innophos Hldngs Inc,0,0,0,1,0,0,0,1,0
-IPI,Intrepid Potash Inc,0,0,0,1,0,0,0,0,0
-IPXL,Impax Labs Inc,0,0,0,1,0,0,0,1,0
-IR,Ingersoll-Rand Plc [Ireland],0,0,1,0,0,1,0,0,0
-IRBT,Irobot Corp,0,0,0,1,0,0,0,1,0
-IRDM,Iridium Comm Inc,0,0,0,1,0,0,0,1,0
-IRET,Investors Real Estate Trust,0,0,0,1,0,0,0,0,0
-IRM,Iron Mountain Inc,0,0,1,0,0,1,0,0,0
-IRT,Independence Realty Trust Inc,0,0,0,1,0,0,0,1,0
-IRTC,Irhythm Technologies Inc,0,0,0,1,0,0,0,0,0
-IRWD,Ironwood Pharmaceuti,0,0,0,1,0,0,0,0,0
-ISBC,Investors Bancorp,0,0,0,1,0,0,0,0,0
-ISCA,Intl Speedway Cl A,0,0,0,1,0,0,1,0,0
-ISRG,Intuitive Surg Inc,0,1,1,0,0,1,0,0,0
-ISRL,Isramco Inc,0,0,0,1,0,0,0,0,0
-ISTR,Investar Holding,0,0,0,1,0,0,0,0,0
-IT,Gartner Inc,0,0,1,0,0,1,0,0,0
-ITCI,Intra-Cellular Ther,0,0,0,1,0,0,0,0,0
-ITG,Investment Technology Group,0,0,0,1,0,0,0,1,0
-ITGR,Integer Holdings Corp,0,0,0,1,0,0,0,1,0
-ITI,Iteris Inc,0,0,0,1,0,0,0,0,0
-ITIC,Investors Title Co,0,0,0,1,0,0,0,0,0
-ITRI,Itron Inc,0,0,0,1,0,0,0,1,0
-ITT,ITT Industries,0,0,1,0,0,0,1,0,0
-ITW,Illinois Tool Works Inc,0,0,1,0,0,1,0,0,0
-IVAC,Intevac Inc,0,0,0,1,0,0,0,0,0
-IVC,Invacare Corp,0,0,0,1,0,0,0,1,0
-IVR,Invesco Mortgage Capital Inc,0,0,0,1,0,0,0,0,0
-IVZ,Invesco Plc,0,0,1,0,0,1,0,0,0
-IXYS,Ixys Corp,0,0,0,1,0,0,0,0,0
-JACK,Jack In The Box Inc,0,0,0,1,0,0,1,0,0
-JAG,Jagged Peak Energy Inc,0,0,0,1,0,0,0,0,0
-JAX,J. Alexander's Holdings Inc C,0,0,0,1,0,0,0,0,0
-JBGS,Jbg Smith Properties,0,0,1,0,0,0,1,0,0
-JBHT,J B Hunt Transport,1,1,1,0,0,1,0,0,0
-JBL,Jabil Circuit,0,0,1,0,0,0,1,0,0
-JBLU,Jetblue Airways Cp,1,0,1,0,0,0,1,0,0
-JBSS,John B Sanfilippo,0,0,0,1,0,0,0,1,0
-JBT,John Bean Technologies Corp,0,0,0,1,0,0,0,1,0
-JCAP,Jernigan Capital Inc,0,0,0,1,0,0,0,0,0
-JCI,Johnson Controls Intl,0,0,1,0,0,1,0,0,0
-JCOM,J2 Global Inc,0,0,0,1,0,0,1,0,0
-JCP,J.C. Penney Company Inc,0,0,0,1,0,0,0,1,0
-JD,Jd.Com Inc Ads,0,1,0,0,0,0,0,0,0
-JEC,Jacobs Engineering Group Inc,0,0,1,0,0,1,0,0,0
-JELD,Jeld-Wen Holding Inc,0,0,0,1,0,0,0,0,0
-JHG,Janus Henderson Group Plc.,0,0,0,0,0,0,1,0,0
-JILL,J. Jill Inc.,0,0,0,1,0,0,0,0,0
-JJSF,J J Snack Foods,0,0,0,1,0,0,0,1,0
-JKHY,Jack Henry & Assoc,0,0,1,0,0,0,1,0,0
-JLL,Jones Lang Lasalle Inc,0,0,1,0,0,0,1,0,0
-JNCE,Jounce Therapeutics Inc,0,0,0,1,0,0,0,0,0
-JNJ,Johnson & Johnson,1,0,1,0,1,1,0,0,0
-JNPR,Juniper Networks,0,0,1,0,0,1,0,0,0
-JOE,St. Joe Company,0,0,0,1,0,0,0,0,0
-JONE,Jones Energy Inc,0,0,0,1,0,0,0,0,0
-JOUT,Johnson Outdoors I,0,0,0,1,0,0,0,0,0
-JPM,JP Morgan Chase & Co,1,0,1,0,1,1,0,0,0
-JRVR,James River Gp HD,0,0,0,1,0,0,0,0,0
-JUNO,Juno Therapeutics,0,0,1,0,0,0,0,0,0
-JW.A,John Wiley Sons Cl A,0,0,1,0,0,0,1,0,0
-JWN,Nordstrom,0,0,1,0,0,1,0,0,0
-K,Kellogg Company,0,0,1,0,0,1,0,0,0
-KAI,Kadant Inc,0,0,0,1,0,0,0,0,0
-KALA,Kala Pharmaceuticals Inc,0,0,0,1,0,0,0,0,0
-KALU,Kaiser Aluminum,0,0,0,1,0,0,0,1,0
-KAMN,Kaman Corp,0,0,0,1,0,0,0,1,0
-KAR,Kar Auction Services Inc,0,0,1,0,0,0,0,0,0
-KBAL,Kimball Intl Cl B,0,0,0,1,0,0,0,0,0
-KBH,KB Home,0,0,0,1,0,0,1,0,0
-KBR,KBR Inc,0,0,0,1,0,0,1,0,0
-KE,Kimball Electrnc,0,0,0,1,0,0,0,0,0
-KEG,Key Energy Services Inc,0,0,0,1,0,0,0,0,0
-KELYA,Kelly Svcs Cl A,0,0,0,1,0,0,0,1,0
-KEM,Kemet Corp,0,0,0,1,0,0,0,1,0
-KERX,Keryx Biopharm Inc,0,0,0,1,0,0,0,0,0
-KEX,Kirby Corp,1,0,1,0,0,0,1,0,0
-KEY,Keycorp,0,0,1,0,0,1,0,0,0
-KEYS,Keysight Technologies Inc Comm,0,0,1,0,0,0,1,0,0
-KEYW,Keyw Holding Corp,0,0,0,1,0,0,0,0,0
-KFRC,Kforce Inc,0,0,0,1,0,0,0,0,0
-KFY,Korn/Ferry International,0,0,0,1,0,0,0,1,0
-KHC,Kraft Heinz Co,0,1,1,0,1,1,0,0,0
-KIM,Kimco Realty Corp,0,0,1,0,0,1,0,0,0
-KIN,Kindred Biosciences,0,0,0,1,0,0,0,0,0
-KINS,Kingstone Cos Inc,0,0,0,1,0,0,0,0,0
-KIRK,Kirkland's Inc,0,0,0,1,0,0,0,1,0
-KLAC,K L A-Tencor Corp,0,1,1,0,0,1,0,0,0
-KLDX,Klondex Mines Ltd,0,0,0,1,0,0,0,0,0
-KLIC,Kulicke and Soffa,0,0,0,0,0,0,0,1,0
-KLXI,Klx Inc,0,0,0,1,0,0,1,0,0
-KMB,Kimberly-Clark Corp,0,0,1,0,0,1,0,0,0
-KMG,KMG Chemicals,0,0,0,1,0,0,0,0,0
-KMI,Kinder Morgan,0,0,1,0,1,1,0,0,0
-KMPR,Kemper Corp,0,0,0,1,0,0,1,0,0
-KMT,Kennametal Inc,0,0,0,1,0,0,1,0,0
-KMX,Carmax Inc,0,0,1,0,0,1,0,0,0
-KN,Knowles Corp,0,0,0,1,0,0,1,0,0
-KND,Kindred Healthcare,0,0,0,1,0,0,0,1,0
-KNL,Knoll Inc,0,0,0,1,0,0,0,0,0
-KNSL,Kinsale Capital Group Inc,0,0,0,1,0,0,0,0,0
-KNX,Knight-Swift Transporation Inc,0,0,0,1,0,0,1,0,0
-KO,Coca-Cola Company,1,0,1,0,1,1,0,0,0
-KODK,Eastman Kodak,0,0,0,1,0,0,0,0,0
-KOP,Koppers Holdings Inc,0,0,0,1,0,0,0,1,0
-KOPN,Kopin Cp,0,0,0,1,0,0,0,1,0
-KORS,Michael Kors Holdings Ltd,0,0,1,0,0,1,0,0,0
-KOS,Kosmos Energy Ltd,0,0,1,0,0,0,0,0,0
-KPTI,Karyopharm Therapeut,0,0,0,1,0,0,0,0,0
-KR,Kroger Company,0,0,1,0,0,1,0,0,0
-KRA,Kraton Performance Polymers Inc,0,0,0,1,0,0,0,1,0
-KRC,Kilroy Realty Corp,0,0,1,0,0,0,1,0,0
-KREF,KKR Real Estate Finance Trust Inc,0,0,0,1,0,0,0,0,0
-KRG,Kite Realty Group Trust,0,0,0,1,0,0,0,1,0
-KRNY,Kearny Financial,0,0,0,1,0,0,0,0,0
-KRO,Kronos Worldwide Inc,0,0,0,1,0,0,0,0,0
-KS,Kapstone Paper and Packaging Corp,0,0,0,1,0,0,0,1,0
-KSS,Kohl's Corp,0,0,1,0,0,1,0,0,0
-KSU,Kansas City Southern,1,0,1,0,0,1,0,0,0
-KTOS,Kratos Defns,0,0,0,1,0,0,0,0,0
-KTWO,K2M Group Hldngs,0,0,0,1,0,0,0,0,0
-KURA,Kura Oncology,0,0,0,1,0,0,0,0,0
-KVHI,K V H Inds Inc,0,0,0,1,0,0,0,0,0
-KW,Kennedy-Wilson Holdings Inc,0,0,0,1,0,0,0,0,0
-KWR,Quaker Chemical Corp,0,0,0,1,0,0,0,1,0
-L,Loews Corp,0,0,1,0,0,1,0,0,0
-LABL,Multi Color Cp,0,0,0,1,0,0,0,1,0
-LAD,Lithia Motors,0,0,0,1,0,0,0,1,0
-LADR,Ladder Capital Corp,0,0,0,1,0,0,0,0,0
-LAMR,Lamar Advertis A,0,0,1,0,0,0,1,0,0
-LANC,Lancaster Colony Cor,0,0,0,1,0,0,1,0,0
-LAUR,Laureate Education Inc,0,0,0,1,0,0,0,0,0
-LAWS,Lawson Products In,0,0,0,1,0,0,0,0,0
-LAYN,Layne Christensen,0,0,0,1,0,0,0,0,0
-LAZ,Lazard Ltd,0,0,1,0,0,0,0,0,0
-LB,L Brands Inc,0,0,1,0,0,1,0,0,0
-LBAI,Lakeland Bancorp Inc,0,0,0,1,0,0,0,0,0
-LBRDA,Liberty Broadbd A,0,0,1,0,0,0,0,0,0
-LBRDK,Liberty Broadbd C,0,0,1,0,0,0,0,0,0
-LBTYA,Liberty Global Ord A,0,1,0,0,0,0,0,0,0
-LBTYK,Liberty Global Ord C,0,1,0,0,0,0,0,0,0
-LBY,Libbey Inc,0,0,0,1,0,0,0,0,0
-LC,Lendingclub Corp,0,0,0,1,0,0,0,0,0
-LCI,Lannett Co Inc,0,0,0,1,0,0,0,1,0
-LCII,Lci Industries,0,0,0,1,0,0,0,1,0
-LCNB,Lcnb Corp,0,0,0,1,0,0,0,0,0
-LCUT,Lifetime Brands Inc,0,0,0,1,0,0,0,0,0
-LDL,Lydall Inc,0,0,0,1,0,0,0,1,0
-LDOS,Leidos Holdings Inc,0,0,1,0,0,0,1,0,0
-LE,Lands' End Inc,0,0,0,1,0,0,0,0,0
-LEA,Lear Corp,0,0,1,0,0,0,0,0,0
-LECO,Lincoln Elec Hldg,0,0,1,0,0,0,1,0,0
-LEG,Leggett & Platt Inc,0,0,1,0,0,1,0,0,0
-LEN,Lennar Corp,0,0,1,0,0,1,0,0,0
-LEN.B,Lennar Corp,0,0,1,0,0,0,0,0,0
-LEXEA,Liberty Expedia Holdings Inc,0,0,1,0,0,0,0,0,0
-LFGR,Leaf Group Ldt.,0,0,0,1,0,0,0,0,0
-LFUS,Littelfuse Inc,0,0,0,1,0,0,1,0,0
-LGF.A,Lions Gate Entertainment Corp Cl A,0,0,1,0,0,0,0,0,0
-LGF.B,Lions Gate Entertainment Corp Cl B,0,0,1,0,0,0,0,0,0
-LGIH,LGI Homes Inc,0,0,0,1,0,0,0,1,0
-LGND,Ligand Pharm,0,0,0,1,0,0,0,1,0
-LH,Laboratory Corporation of America Holdings,0,0,1,0,0,1,0,0,0
-LHCG,LHC Group Inc,0,0,0,1,0,0,0,1,0
-LHO,Lasalle Hotel Properties,0,0,0,1,0,0,1,0,0
-LII,Lennox International,0,0,1,0,0,0,1,0,0
-LILA,Liberty Lilac Cl A,0,1,0,0,0,0,0,0,0
-LILAK,Liberty Lilac Cl C,0,1,0,0,0,0,0,0,0
-LIND,Lindblad Expd Hld,0,0,0,1,0,0,0,0,0
-LION,Fidelity Southern Cp,0,0,0,1,0,0,0,1,0
-LITE,Lumentum Hld,0,0,0,1,0,0,0,1,0
-LIVN,Livanova Plc Or Sh,0,0,0,1,0,0,1,0,0
-LJPC,La Jolla Pharma,0,0,0,1,0,0,0,0,0
-LKFN,Lakeland Finl Corp,0,0,0,1,0,0,0,0,0
-LKQ,LKQ Corp,0,0,1,0,0,1,0,0,0
-LKSD,Lsc Communications Inc,0,0,0,1,0,0,0,1,0
-LL,Lumber Liquidators Holdings Inc,0,0,0,1,0,0,0,1,0
-LLEX,Lilis Energy Inc,0,0,0,1,0,0,0,0,0
-LLL,L-3 Communications Holdings,0,0,1,0,0,1,0,0,0
-LLNW,Limelight Networks,0,0,0,1,0,0,0,0,0
-LLY,Eli Lilly and Company,0,0,1,0,1,1,0,0,0
-LM,Legg Mason Inc,0,0,1,0,0,0,1,0,0
-LMAT,Lemaitre Vascular,0,0,0,1,0,0,0,1,0
-LMNR,Limoneira Co,0,0,0,1,0,0,0,0,0
-LMNX,Luminex Corp,0,0,0,1,0,0,0,1,0
-LMOS,Lumos Networks Corp,0,0,0,1,0,0,0,1,0
-LMT,Lockheed Martin Corp,0,0,1,0,1,1,0,0,0
-LNC,Lincoln National Corp,0,0,1,0,0,1,0,0,0
-LNCE,Snyders-Lance Inc,0,0,0,1,0,0,1,0,0
-LNDC,Landec Cp,0,0,0,1,0,0,0,0,0
-LNG,Cheniere Energy,0,0,1,0,0,0,0,0,0
-LNN,Lindsay Corp,0,0,0,1,0,0,0,1,0
-LNT,Alliant Energy Corp,0,0,1,0,0,1,0,0,0
-LNTH,Lantheus Holdings,0,0,0,1,0,0,0,1,0
-LOB,Live Oak Bancsh,0,0,0,1,0,0,0,0,0
-LOCO,El Pollo Loco,0,0,0,1,0,0,0,1,0
-LOGM,Logmein Inc,0,0,1,0,0,0,1,0,0
-LOPE,Grand Canyon Educati,0,0,0,1,0,0,0,0,0
-LORL,Loral Space Comm,0,0,0,1,0,0,0,0,0
-LOW,Lowe's Companies,0,0,1,0,1,1,0,0,0
-LOXO,Loxo Oncology CS,0,0,0,1,0,0,0,0,0
-LPG,Dorian Lpg Ltd,0,0,0,1,0,0,0,0,0
-LPI,Laredo Petroleum Holdings Inc,0,0,1,0,0,0,0,0,0
-LPLA,Lpl Financial Hld,0,0,1,0,0,0,0,0,0
-LPNT,Lifepoint Health,0,0,1,0,0,0,1,0,0
-LPSN,Liveperson Inc,0,0,0,1,0,0,0,1,0
-LPT,Liberty Property Trust,0,0,1,0,0,0,1,0,0
-LPX,Louisiana-Pacific Corp,0,0,0,1,0,0,1,0,0
-LQ,La Quinta Holdings Inc,0,0,0,1,0,0,0,0,0
-LQDT,Liquidity Services,0,0,0,1,0,0,0,1,0
-LRCX,Lam Research Corp,0,1,1,0,0,1,0,0,0
-LRN,K12 Inc,0,0,0,1,0,0,0,0,0
-LSCC,Lattice Semicond,0,0,0,1,0,0,0,0,0
-LSI,Life Storage,0,0,1,0,0,0,1,0,0
-LSTR,Landstar System,1,0,1,0,0,0,1,0,0
-LSXMA,Liberty Srs XM CS A,0,0,1,0,0,0,0,0,0
-LSXMK,Liberty Srs XM CS C,0,0,1,0,0,0,0,0,0
-LTC,Ltc Properties,0,0,0,1,0,0,0,1,0
-LTRPA,Liberty Tripadv A,0,0,0,1,0,0,0,0,0
-LTS,Ladenburg Thalmann Financial Inc,0,0,0,1,0,0,0,0,0
-LTXB,Legacytexas Fnl,0,0,0,1,0,0,0,1,0
-LUK,Leucadia National Corp,0,0,1,0,0,1,0,0,0
-LULU,Lululemon Athletica,0,0,1,0,0,0,0,0,0
-LUV,Southwest Airlines Company,1,0,1,0,0,1,0,0,0
-LVNTA,Liberty Vntrs Srs A,0,1,1,0,0,0,0,0,0
-LVS,Las Vegas Sands,0,0,1,0,0,0,0,0,0
-LW,Lamb Weston Holdings Inc,0,0,1,0,0,0,1,0,0
-LWAY,Lifeway Foods Inc,0,0,0,1,0,0,0,0,0
-LXP,Lexington Realty Trust,0,0,0,1,0,0,0,1,0
-LXRX,Lexicon Pharmaceutcl,0,0,0,1,0,0,0,0,0
-LXU,Lsb Industries Inc,0,0,0,1,0,0,0,1,0
-LYB,Lyondellbasell Industries Nv,0,0,1,0,0,1,0,0,0
-LYTS,L S I Industries I,0,0,0,1,0,0,0,0,0
-LYV,Live Nation Entertainment,0,0,1,0,0,0,1,0,0
-LZB,La-Z-Boy Inc,0,0,0,1,0,0,0,1,0
-M,Macy's Inc,0,0,1,0,0,1,0,0,0
-MA,Mastercard Inc,0,0,1,0,1,1,0,0,0
-MAA,Mid-America Apartment Communities,0,0,1,0,0,1,0,0,0
-MAC,Macerich Company,0,0,1,0,0,1,0,0,0
-MACK,Merrimack Pharmaceuticals Inc.,0,0,0,1,0,0,0,0,0
-MAN,Manpower Inc,0,0,1,0,0,0,1,0,0
-MANH,Manhattan Assoc,0,0,1,0,0,0,1,0,0
-MANT,Mantech Intl Cp A,0,0,0,1,0,0,0,1,0
-MAR,Marriot Int Class A,0,1,1,0,0,1,0,0,0
-MAS,Masco Corp,0,0,1,0,0,1,0,0,0
-MASI,Masimo Corp,0,0,0,1,0,0,1,0,0
-MAT,Mattel Inc,0,0,1,0,0,1,0,0,0
-MATW,Matthews Intl Corp,0,0,0,1,0,0,0,1,0
-MATX,Matson Inc,1,0,0,1,0,0,0,1,0
-MB,Mindbody Cls A,0,0,0,1,0,0,0,0,0
-MBCN,Middlefield Banc,0,0,0,1,0,0,0,0,0
-MBFI,MB Financial Inc,0,0,0,1,0,0,1,0,0
-MBI,MBIA Inc,0,0,0,1,0,0,0,0,0
-MBTF,Mbt Financial Corp,0,0,0,1,0,0,0,0,0
-MBUU,Malibu Boats Cmn A,0,0,0,1,0,0,0,0,0
-MBWM,Mercantile Bank Corp,0,0,0,1,0,0,0,0,0
-MC,Moelis,0,0,0,1,0,0,0,0,0
-MCBC,Macatawa Bank Corp,0,0,0,1,0,0,0,0,0
-MCD,McDonald's Corp,1,0,1,0,1,1,0,0,0
-MCF,Contango Oil & Gas Company,0,0,0,1,0,0,0,1,0
-MCFT,Mcbc Holdings,0,0,0,1,0,0,0,0,0
-MCHP,Microchip Technology,0,1,1,0,0,1,0,0,0
-MCK,Mckesson Corp,0,0,1,0,0,1,0,0,0
-MCO,Moody's Corp,0,0,1,0,0,1,0,0,0
-MCRB,Seres Theraptc,0,0,0,1,0,0,0,0,0
-MCRI,Monarch Casino,0,0,0,1,0,0,0,1,0
-MCRN,Milacron Holdings Corp,0,0,0,1,0,0,0,0,0
-MCS,Marcus Corp,0,0,0,1,0,0,0,1,0
-MCY,Mercury General Corp,0,0,1,0,0,0,1,0,0
-MD,Mednax Inc,0,0,1,0,0,0,1,0,0
-MDC,M.D.C. Holdings,0,0,0,1,0,0,0,1,0
-MDCA,Mdc Partners Cl A,0,0,0,1,0,0,0,0,0
-MDCO,Medicines Co,0,0,0,1,0,0,0,1,0
-MDGL,Madrigal Pharmaceuticals Inc,0,0,0,1,0,0,0,0,0
-MDLY,Medley Management Inc,0,0,0,1,0,0,0,0,0
-MDLZ,Mondelez Intl Cmn A,0,1,1,0,1,1,0,0,0
-MDP,Meredith Corp,0,0,0,1,0,0,1,0,0
-MDR,McDermott International,0,0,0,1,0,0,0,1,0
-MDRX,Allscripts Hlthcare,0,0,0,1,0,0,1,0,0
-MDSO,Medidata Solutions,0,0,0,1,0,0,1,0,0
-MDT,Medtronic Inc,0,0,1,0,1,1,0,0,0
-MDU,Mdu Res Group Inc,0,0,1,0,0,0,1,0,0
-MDXG,Mimedx Group Inc,0,0,0,1,0,0,0,1,0
-MED,Medifast Inc,0,0,0,1,0,0,0,1,0
-MEDP,Medpace Holdings Inc,0,0,0,1,0,0,0,0,0
-MEET,The Meet Group,0,0,0,1,0,0,0,0,0
-MEI,Methode Electronics,0,0,0,1,0,0,0,1,0
-MELI,Mercadolibre Inc,0,1,0,0,0,0,0,0,0
-MET,Metlife Inc,0,0,1,0,1,1,0,0,0
-METC,Ramaco Resources Inc,0,0,0,1,0,0,0,0,0
-MFA,MFA Financial Inc,0,0,1,0,0,0,0,0,0
-MFSF,Mutualfirst Finl Inc,0,0,0,1,0,0,0,0,0
-MG,Mistras Group Inc,0,0,0,1,0,0,0,0,0
-MGEE,Mge Energy Inc,0,0,0,1,0,0,0,0,0
-MGEN,Miragen Therapeutics Inc,0,0,0,1,0,0,0,0,0
-MGI,Moneygram Intl,0,0,0,1,0,0,0,0,0
-MGLN,Magellan Health,0,0,0,1,0,0,0,1,0
-MGM,MGM Resorts International,0,0,1,0,0,1,0,0,0
-MGNX,Macrogenics,0,0,0,1,0,0,0,0,0
-MGPI,MGP Ingredients Inc,0,0,0,1,0,0,0,0,0
-MGRC,Mcgrath Rentcorp,0,0,0,1,0,0,0,0,0
-MHK,Mohawk Industries,0,0,1,0,0,1,0,0,0
-MHLD,Maiden Holdings Ltd,0,0,0,1,0,0,0,1,0
-MHO,M/I Homes,0,0,0,1,0,0,0,1,0
-MIC,Macquarie Infrastructure Company Trust,0,0,1,0,0,0,0,0,0
-MIDD,Middleby Corp,0,0,1,0,0,0,0,0,0
-MIK,The Michaels Comp,0,0,1,0,0,0,1,0,0
-MINI,Mobile Mini Inc,0,0,0,1,0,0,0,1,0
-MITK,Mitek Systems Inc,0,0,0,1,0,0,0,0,0
-MITT,Ag Mortgage Investment Trust,0,0,0,1,0,0,0,0,0
-MJCO,Majesco,0,0,0,1,0,0,0,0,0
-MKC,Mccormick & Company Inc,0,0,1,0,0,1,0,0,0
-MKL,Markel Corp,0,0,1,0,0,0,0,0,0
-MKSI,Mks Instruments Inc,0,0,0,1,0,0,0,1,0
-MKTX,Marketaxess Holdings,0,0,1,0,0,0,1,0,0
-MLAB,Mesa Labs Inc,0,0,0,1,0,0,0,0,0
-MLHR,Miller Herman Inc,0,0,0,1,0,0,1,0,0
-MLI,Mueller Industries,0,0,0,1,0,0,0,1,0
-MLM,Martin Marietta Materials,0,0,1,0,0,1,0,0,0
-MLP,Maui Land & Pineapple Company,0,0,0,1,0,0,0,0,0
-MLR,Miller Industries,0,0,0,1,0,0,0,0,0
-MLVF,Malvern Bncp,0,0,0,1,0,0,0,0,0
-MMC,Marsh & Mclennan Companies,0,0,1,0,0,1,0,0,0
-MMI,Marcus & Millichap,0,0,0,1,0,0,0,0,0
-MMM,3M Company,1,0,1,0,1,1,0,0,0
-MMS,Maximus Inc,0,0,0,1,0,0,1,0,0
-MMSI,Merit Medical Sys,0,0,0,1,0,0,0,1,0
-MNK,Mallinckrodt Plc Ordinary Share,0,0,1,0,0,0,1,0,0
-MNOV,Medicinova Inc,0,0,0,1,0,0,0,0,0
-MNR,Monmouth Real Estate Investment Corp,0,0,0,1,0,0,0,0,0
-MNRO,Monro Muffler Brak,0,0,0,1,0,0,0,1,0
-MNST,Monster Beverage Cp,0,1,1,0,0,1,0,0,0
-MNTA,Momenta Pharma,0,0,0,1,0,0,0,1,0
-MO,Altria Group,0,0,1,0,1,1,0,0,0
-MOBL,Mobileiron Inc,0,0,0,1,0,0,0,0,0
-MOD,Modine Manufacturing Company,0,0,0,1,0,0,0,0,0
-MODN,Model N Inc,0,0,0,1,0,0,0,0,0
-MOFG,Midwestone Fnl Gp,0,0,0,1,0,0,0,0,0
-MOG.A,Moog Inc,0,0,0,1,0,0,0,1,0
-MOH,Molina Healthcare Inc,0,0,0,1,0,0,1,0,0
-MON,Monsanto Company,0,0,1,0,1,1,0,0,0
-MORN,Morningstar Inc,0,0,1,0,0,0,0,0,0
-MOS,Mosaic Company,0,0,1,0,0,1,0,0,0
-MOV,Movado Group Inc,0,0,0,1,0,0,0,1,0
-MPAA,Motorcar Parts Amer,0,0,0,1,0,0,0,1,0
-MPC,Marathon Petroleum Corp,0,0,1,0,0,1,0,0,0
-MPO,Midstates Petroleum Company Inc,0,0,0,1,0,0,0,0,0
-MPW,Medical Properties Trust,0,0,1,0,0,0,1,0,0
-MPWR,Monolithic Power Sys,0,0,0,1,0,0,1,0,0
-MPX,Marine Products Corp,0,0,0,1,0,0,0,0,0
-MRC,Mrc Global Inc,0,0,0,1,0,0,0,0,0
-MRCY,Mercury Sys Inc,0,0,0,1,0,0,0,1,0
-MRK,Merck & Company,1,0,1,0,1,1,0,0,0
-MRLN,Marlin Business Serv,0,0,0,1,0,0,0,0,0
-MRO,Marathon Oil Corp,0,0,1,0,0,1,0,0,0
-MRSN,Mersana Therapeutics Inc,0,0,0,1,0,0,0,0,0
-MRT,Medequities Realty Trust Inc,0,0,0,1,0,0,0,0,0
-MRTN,Marten Transport L,0,0,0,1,0,0,0,1,0
-MRVL,Marvell Tech Group,0,0,1,0,0,0,0,0,0
-MS,Morgan Stanley,0,0,1,0,1,1,0,0,0
-MSA,Msa Safety Inc,0,0,0,1,0,0,1,0,0
-MSBI,Midland Sts BNC,0,0,0,1,0,0,0,0,0
-MSCC,Microsemi Corp,0,0,1,0,0,0,1,0,0
-MSCI,MSCI Inc,0,0,1,0,0,0,1,0,0
-MSEX,Middlesex Water Co,0,0,0,1,0,0,0,0,0
-MSFG,Mainsource Finl Grp,0,0,0,1,0,0,0,0,0
-MSFT,Microsoft Corp,1,1,1,0,1,1,0,0,0
-MSG,The Madison Square Garden Comp,0,0,1,0,0,0,0,0,0
-MSGN,Msg Networks Inc,0,0,0,1,0,0,0,0,0
-MSI,Motorola Solutions,0,0,1,0,0,1,0,0,0
-MSL,Midsouth Bancorp,0,0,0,1,0,0,0,0,0
-MSM,Msc Industrial Direct Company,0,0,1,0,0,0,1,0,0
-MSTR,Microstrategy Cl A,0,0,0,1,0,0,0,1,0
-MTB,M&T Bank Corp,0,0,1,0,0,1,0,0,0
-MTCH,Match Group Inc CS,0,0,1,0,0,0,0,0,0
-MTD,Mettler-Toledo International,0,0,1,0,0,1,0,0,0
-MTDR,Matador Resources Company,0,0,0,1,0,0,1,0,0
-MTG,Mgic Investment Corp,0,0,0,1,0,0,0,0,0
-MTGE,American Cap Mtg Inv,0,0,0,1,0,0,0,0,0
-MTH,Meritage Corp,0,0,0,1,0,0,0,1,0
-MTN,Vail Resorts,0,0,1,0,0,0,0,0,0
-MTNB,Matinas Biopharma Hl,0,0,0,1,0,0,0,0,0
-MTOR,Arvinmeritor,0,0,0,1,0,0,0,0,0
-MTRN,Materion Corp,0,0,0,1,0,0,0,1,0
-MTRX,Matrix Service Co,0,0,0,1,0,0,0,1,0
-MTSC,M T S Systems Cp,0,0,0,1,0,0,0,1,0
-MTSI,Macom Technology S,0,0,0,1,0,0,0,0,0
-MTW,Manitowoc Company,0,0,0,1,0,0,0,0,0
-MTX,Minerals Technologies Inc,0,0,0,1,0,0,1,0,0
-MTZ,Mastec Inc,0,0,0,1,0,0,0,0,0
-MU,Micron Technology,0,1,1,0,0,1,0,0,0
-MULE,Mulesoft Inc. Class A,0,0,0,1,0,0,0,0,0
-MUR,Murphy Oil Corp,0,0,1,0,0,0,1,0,0
-MUSA,Murphy USA Inc,0,0,1,0,0,0,1,0,0
-MVIS,Microvision,0,0,0,1,0,0,0,0,0
-MWA,Mueller Water Products,0,0,0,1,0,0,0,0,0
-MXIM,Maxim Integrated,0,1,1,0,0,0,0,0,0
-MXL,Maxlinear Inc,0,0,0,1,0,0,0,1,0
-MXWL,Maxwell Technologies,0,0,0,1,0,0,0,0,0
-MYE,Myers Industries,0,0,0,1,0,0,0,1,0
-MYGN,Myriad Genetics Inc,0,0,0,1,0,0,0,1,0
-MYL,Mylan Nv Ord Shs,0,1,1,0,0,1,0,0,0
-MYOK,Myokardia Inc Cm ST,0,0,0,1,0,0,0,0,0
-MYRG,MYR Group Inc,0,0,0,1,0,0,0,1,0
-NANO,Nanometrics Inc,0,0,0,1,0,0,0,1,0
-NAT,Nordic American Tanker Shipping Ltd,0,0,0,1,0,0,0,0,0
-NATH,Nathan's Famous In,0,0,0,1,0,0,0,0,0
-NATI,Natl Instruments Cor,0,0,1,0,0,0,1,0,0
-NATR,Nature S Sunshine,0,0,0,1,0,0,0,0,0
-NAV,Navistar International Corp,0,0,0,1,0,0,0,0,0
-NAVG,Navigators Grp Inc,0,0,0,1,0,0,0,1,0
-NAVI,Navient Cp,0,0,1,0,0,1,0,0,0
-NBHC,National Bank Holdings Corp,0,0,0,1,0,0,0,1,0
-NBIX,Neurocrine Bioscienc,0,0,1,0,0,0,0,0,0
-NBL,Noble Energy Inc,0,0,1,0,0,1,0,0,0
-NBN,Northeast Bncp,0,0,0,1,0,0,0,0,0
-NBR,Nabors Industries,0,0,1,0,0,0,1,0,0
-NBTB,NBT Bancorp Inc,0,0,0,1,0,0,0,1,0
-NC,Nacco Industries,0,0,0,1,0,0,0,0,0
-NCBS,Nicolet Bnkshr,0,0,0,1,0,0,0,0,0
-NCI,Navigant Consulting,0,0,0,1,0,0,0,1,0
-NCLH,Norwegian Cruise Ord,0,1,1,0,0,1,0,0,0
-NCMI,National Cinemedia,0,0,0,1,0,0,0,0,0
-NCOM,National Commerce,0,0,0,1,0,0,0,0,0
-NCR,NCR Corp,0,0,1,0,0,0,1,0,0
-NCS,NCI Building Systems,0,0,0,1,0,0,0,0,0
-NCSM,Ncs Multistage Holdings Inc,0,0,0,1,0,0,0,0,0
-NDAQ,Nasdaq Inc,0,0,1,0,0,1,0,0,0
-NDLS,Noodles & Co Cla,0,0,0,1,0,0,0,0,0
-NDSN,Nordson Corp,0,0,1,0,0,0,1,0,0
-NE,Noble Corp,0,0,0,1,0,0,0,1,0
-NEE,Nextera Energy,1,0,1,0,1,1,0,0,0
-NEM,Newmont Mining Corp,0,0,1,0,0,1,0,0,0
-NEO,Neogenomics Inc,0,0,0,1,0,0,0,0,0
-NEOG,Neogen Cp,0,0,0,1,0,0,0,1,0
-NEOS,Neos Therapeutics,0,0,0,1,0,0,0,0,0
-NERV,Minerva Neuroscie,0,0,0,1,0,0,0,0,0
-NEU,Newmarket Corp,0,0,1,0,0,0,1,0,0
-NEWM,New Media Investment Group Inc,0,0,0,1,0,0,0,1,0
-NEWR,New Relic Inc,0,0,0,1,0,0,0,0,0
-NEWS,Newstar Financial,0,0,0,1,0,0,0,0,0
-NFBK,Northfield Bncrp Del,0,0,0,1,0,0,0,1,0
-NFG,National Fuel Gas Company,0,0,1,0,0,0,1,0,0
-NFLX,Netflix Inc,0,1,1,0,0,1,0,0,0
-NFX,Newfield Exploration Company,0,0,1,0,0,1,0,0,0
-NGHC,National General Hld,0,0,0,1,0,0,0,0,0
-NGS,Natural Gas Services Group,0,0,0,1,0,0,0,0,0
-NGVC,Natural Grocers By Vitamin Cottage Inc,0,0,0,1,0,0,0,0,0
-NGVT,Ingevity Corp,0,0,0,1,0,0,0,1,0
-NH,Nanthealth Inc,0,0,0,1,0,0,0,0,0
-NHC,National Healthcare Corp,0,0,0,1,0,0,0,0,0
-NHI,National Health Investors,0,0,0,1,0,0,0,0,0
-NHTC,Natural Hlth Trd,0,0,0,1,0,0,0,0,0
-NI,NiSource Inc,1,0,1,0,0,1,0,0,0
-NJR,Newjersey Resources Corp,0,0,0,1,0,0,1,0,0
-NK,Nantkwest Inc CS,0,0,0,1,0,0,0,0,0
-NKE,Nike Inc,1,0,1,0,1,1,0,0,0
-NKSH,Natl Bankshares Inc,0,0,0,1,0,0,0,0,0
-NKTR,Nektar Therapeutics,0,0,0,1,0,0,0,1,0
-NL,NL Industries,0,0,0,1,0,0,0,0,0
-NLNK,Newlink Genetics Cor,0,0,0,1,0,0,0,0,0
-NLS,Nautilus Group,0,0,0,1,0,0,0,1,0
-NLSN,Nielsen Holdings Plc,0,0,1,0,0,1,0,0,0
-NLY,Annaly Capital Management Inc,0,0,1,0,0,0,0,0,0
-NM,Navios Maritime Holdings Inc,0,0,0,1,0,0,0,0,0
-NMIH,Nmi Holdings Cmn A,0,0,0,1,0,0,0,1,0
-NNA,Navios Maritime Acquisition Corp,0,0,0,1,0,0,0,0,0
-NNBR,NN Inc,0,0,0,1,0,0,0,0,0
-NNI,Nelnet Inc,0,0,0,1,0,0,0,0,0
-NNN,National Retail Properties,0,0,1,0,0,0,1,0,0
-NOC,Northrop Grumman Corp,0,0,1,0,0,1,0,0,0
-NODK,Ni Holdings Inc.,0,0,0,1,0,0,0,0,0
-NOV,National-Oilwell,0,0,1,0,0,1,0,0,0
-NOVT,Novanta Inc,0,0,0,1,0,0,0,0,0
-NOW,Servicenow Inc,0,0,1,0,0,0,0,0,0
-NP,Neenah Paper,0,0,0,1,0,0,0,1,0
-NPK,National Presto Industries,0,0,0,1,0,0,0,1,0
-NPO,Enpro Industries,0,0,0,1,0,0,0,1,0
-NPTN,Neophotonics Corp,0,0,0,1,0,0,0,0,0
-NR,Newpark Resources,0,0,0,1,0,0,0,1,0
-NRCIA,National Resh Cla,0,0,0,1,0,0,0,0,0
-NRE,Northstar Realty Europe Corp. C,0,0,0,1,0,0,0,0,0
-NRG,NRG Energy,0,0,1,0,0,1,0,0,0
-NRIM,Northrim Bancorp Inc,0,0,0,1,0,0,0,0,0
-NRZ,New Residential Investment Corp,0,0,1,0,0,0,0,0,0
-NSA,National Storage Affiliates Tru,0,0,0,1,0,0,0,1,0
-NSC,Norfolk Southern Corp,1,0,1,0,0,1,0,0,0
-NSIT,Insight Enterpr,0,0,0,1,0,0,0,1,0
-NSM,Nationstar Mortgage Holdngs I,0,0,0,1,0,0,0,0,0
-NSP,Insperity Inc,0,0,0,1,0,0,0,1,0
-NSSC,Napco Sec Tech Inc,0,0,0,1,0,0,0,0,0
-NSTG,Nanostring Tech,0,0,0,1,0,0,0,0,0
-NTAP,Netapp Inc,0,0,1,0,0,1,0,0,0
-NTB,Bank of Butterfield Ltd,0,0,0,1,0,0,0,0,0
-NTCT,Netscout Systems I,0,0,0,1,0,0,1,0,0
-NTES,Netease Inc Ads,0,1,0,0,0,0,0,0,0
-NTGR,Netgear Inc,0,0,0,1,0,0,0,1,0
-NTLA,Intellia Thera CS,0,0,0,1,0,0,0,0,0
-NTNX,Nutanix Inc,0,0,0,1,0,0,0,0,0
-NTRA,Natera Inc,0,0,0,1,0,0,0,0,0
-NTRI,Nutrisystem Inc,0,0,0,1,0,0,0,1,0
-NTRS,Northern Trust Corp,0,0,1,0,0,1,0,0,0
-NUAN,Nuance Communicatns,0,0,1,0,0,0,0,0,0
-NUE,Nucor Corp,0,0,1,0,0,1,0,0,0
-NUS,Nu Skin Enterprises,0,0,1,0,0,0,1,0,0
-NUVA,Nuvasive Inc,0,0,0,1,0,0,1,0,0
-NVAX,Novavax Inc,0,0,0,1,0,0,0,0,0
-NVCR,Novocure Ltd Ord Sh,0,0,0,1,0,0,0,0,0
-NVDA,Nvidia Corp,0,1,1,0,0,1,0,0,0
-NVEC,Nve Corp,0,0,0,1,0,0,0,0,0
-NVEE,Nv5 Global,0,0,0,1,0,0,0,0,0
-NVLN,Novelion Therapeutics Inc,0,0,0,1,0,0,0,0,0
-NVR,NVR Inc,0,0,1,0,0,0,1,0,0
-NVRO,Nevro Corp,0,0,0,1,0,0,0,0,0
-NVTA,Invitae Corp,0,0,0,1,0,0,0,0,0
-NWBI,Northwest Bancshares,0,0,0,1,0,0,0,1,0
-NWE,Northwestern Corp,0,0,0,1,0,0,1,0,0
-NWFL,Norwood Financial Cp,0,0,0,1,0,0,0,0,0
-NWHM,New Home Co Llc,0,0,0,1,0,0,0,0,0
-NWL,Newell Rubbermaid Inc,0,0,1,0,0,1,0,0,0
-NWLI,Natl Wstrn Life Gp A,0,0,0,1,0,0,0,0,0
-NWN,Northwest Natural Gas Company,0,0,0,1,0,0,0,1,0
-NWPX,Northwest Pipe Co,0,0,0,1,0,0,0,0,0
-NWS,News Cp Cl B Cmn ST,0,0,1,0,0,1,0,0,0
-NWSA,News Cp Cl A Cmn ST,0,0,1,0,0,1,0,0,0
-NX,Quanex Building Products Corp,0,0,0,1,0,0,0,1,0
-NXEO,Nexeo Solutions Inc,0,0,0,1,0,0,0,0,0
-NXPI,Nxp Semiconductors,0,0,1,0,0,0,0,0,0
-NXRT,Nexpoint Residential Trust Inc,0,0,0,1,0,0,0,0,0
-NXST,Nexstar Broadcasting,0,0,0,1,0,0,0,0,0
-NXTM,Nxstage Medical Inc,0,0,0,1,0,0,0,0,0
-NYCB,New York Community Bancorp,0,0,1,0,0,0,1,0,0
-NYL.A,NRG Yield Inc Class A,0,0,0,1,0,0,0,0,0
-NYLD,NRG Yield Inc,0,0,0,1,0,0,0,0,0
-NYMT,New York Mtge Trust,0,0,0,1,0,0,0,0,0
-NYMX,Nymox Pharm Corp,0,0,0,1,0,0,0,0,0
-NYNY,Empire Resorts Inc,0,0,0,1,0,0,0,0,0
-NYT,New York Times Company,0,0,0,1,0,0,1,0,0
-O,Realty Income Corp,0,0,1,0,0,1,0,0,0
-OA,Orbital Atk Inc,0,0,1,0,0,0,1,0,0
-OAS,Oasis Petroleum Inc,0,0,0,1,0,0,0,0,0
-OBLN,Obalon Therapeutics Inc,0,0,0,1,0,0,0,0,0
-OC,Owens Corning Inc,0,0,1,0,0,0,0,0,0
-OCFC,Oceanfirst Finl Corp,0,0,0,1,0,0,0,0,0
-OCLR,Oclaro Inc,0,0,0,1,0,0,0,1,0
-OCN,Ocwen Financial Corp,0,0,0,1,0,0,0,0,0
-OCUL,Ocular Therapeut,0,0,0,1,0,0,0,0,0
-OCX,Oncocyte Corp,0,0,0,1,0,0,0,0,0
-ODC,Oil-Dri Corporation of America,0,0,0,1,0,0,0,0,0
-ODFL,Old Dominion Freig,0,0,1,0,0,0,1,0,0
-ODP,Office Depot,0,0,0,1,0,0,1,0,0
-OFC,Corporate Office Properties,0,0,1,0,0,0,1,0,0
-OFED,Oconee Fed Fin Corp,0,0,0,1,0,0,0,0,0
-OFG,Oriental Financial Group,0,0,0,1,0,0,0,1,0
-OFIX,Orthofix Intl Nv,0,0,0,1,0,0,0,1,0
-OFLX,Omega Flex Inc,0,0,0,1,0,0,0,0,0
-OGE,Oge Energy Corp,0,0,1,0,0,0,1,0,0
-OGS,One Gas Inc,0,0,0,1,0,0,1,0,0
-OHI,Omega Healthcare Investors,0,0,1,0,0,0,1,0,0
-OI,Owens-Illinois,0,0,1,0,0,0,1,0,0
-OII,Oceaneering International,0,0,1,0,0,0,1,0,0
-OIS,Oil States International,0,0,0,1,0,0,0,1,0
-OKE,Oneok Inc,0,0,1,0,0,1,0,0,0
-OKTA,Okta Inc. Class A,0,0,0,1,0,0,0,0,0
-OLBK,Old Line Bancshs MD,0,0,0,1,0,0,0,0,0
-OLED,Universal Display,0,0,1,0,0,0,0,0,0
-OLLI,Ollies Bargain CS,0,0,0,1,0,0,0,1,0
-OLN,Olin Corp,0,0,1,0,0,0,1,0,0
-OLP,One Liberty Properties,0,0,0,1,0,0,0,0,0
-OMAM,Om Asset Management Ltd,0,0,0,1,0,0,0,0,0
-OMC,Omnicom Group Inc,0,0,1,0,0,1,0,0,0
-OMCL,Omnicell Inc,0,0,0,1,0,0,0,1,0
-OME,Omega Protein Corp,0,0,0,1,0,0,0,0,0
-OMER,Omeros Corp,0,0,0,1,0,0,0,0,0
-OMF,Onemain Holdings Inc,0,0,1,0,0,0,0,0,0
-OMI,Owens & Minor,0,0,0,1,0,0,1,0,0
-OMN,Omnova Solutions Inc,0,0,0,1,0,0,0,0,0
-OMNT,Ominto Inc,0,0,0,1,0,0,0,0,0
-ON,On Semiconductor,0,0,1,0,0,0,0,0,0
-ONB,Old National Bncp,0,0,0,1,0,0,0,1,0
-ONCE,Spark Therap,0,0,0,1,0,0,0,0,0
-ONDK,On Deck Capital Inc,0,0,0,1,0,0,0,0,0
-ONVO,Organovo Holdings,0,0,0,1,0,0,0,0,0
-OOMA,Ooma Inc,0,0,0,1,0,0,0,0,0
-OPB,Opus Bank,0,0,0,1,0,0,0,1,0
-OPK,Opko Health Inc,0,0,1,0,0,0,0,0,0
-OPOF,Old Point Finl Cp,0,0,0,1,0,0,0,0,0
-OPY,Oppenheimer Holdings,0,0,0,1,0,0,0,0,0
-ORA,Ormat Technologies,0,0,0,1,0,0,0,0,0
-ORBC,Orbcomm Inc,0,0,0,1,0,0,0,0,0
-ORC,Orchid Island Capital Inc,0,0,0,1,0,0,0,0,0
-ORCL,Oracle Corp,0,0,1,0,1,1,0,0,0
-ORI,Old Republic International Corp,0,0,1,0,0,0,1,0,0
-ORIT,Oritani Financial,0,0,0,1,0,0,0,1,0
-ORLY,O'Reilly Automotive,0,1,1,0,0,1,0,0,0
-ORM,Owens Realty Mortgage Inc,0,0,0,1,0,0,0,0,0
-ORN,Orion Group Holdings Inc,0,0,0,1,0,0,0,1,0
-ORRF,Orrstown Finl Svcs,0,0,0,1,0,0,0,0,0
-OSBC,Old Second Bancorp,0,0,0,1,0,0,0,0,0
-OSG,Overseas Shipholding Group Inc,0,0,0,1,0,0,0,0,0
-OSIS,O S I Systems Inc,0,0,0,1,0,0,0,1,0
-OSK,Oshkosh Truck Corp,0,0,1,0,0,0,1,0,0
-OSTK,Overstock.Com Inc,0,0,0,1,0,0,0,0,0
-OSUR,Orasure Tech Inc,0,0,0,1,0,0,0,1,0
-OTIC,Otonomy Inc,0,0,0,1,0,0,0,0,0
-OTTR,Otter Tail Corp,0,0,0,1,0,0,0,0,0
-OUT,Outfront Media Inc,0,0,1,0,0,0,0,0,0
-OVBC,Ohio Valley Banc Cp,0,0,0,1,0,0,0,0,0
-OVID,Ovid Therapeutics Inc,0,0,0,1,0,0,0,0,0
-OXFD,Oxford Immunotec,0,0,0,1,0,0,0,0,0
-OXM,Oxford Industries,0,0,0,1,0,0,0,1,0
-OXY,Occidental Petroleum Corp,0,0,1,0,1,1,0,0,0
-OZRK,Bank of The Ozarks,0,0,1,0,0,0,1,0,0
-P,Pandora Media Inc,0,0,1,0,0,0,0,0,0
-PACB,Pacific Biosciences,0,0,0,1,0,0,0,0,0
-PACW,Pacwest Bancorp,0,0,1,0,0,0,1,0,0
-PAG,Penske Automotive Group,0,0,1,0,0,0,0,0,0
-PAH,Platform Specialty Products Corp,0,0,1,0,0,0,0,0,0
-PAHC,Phibro Anl Htlh A,0,0,0,1,0,0,0,1,0
-PANW,Palo Alto Networks Inc,0,0,1,0,0,0,0,0,0
-PARR,Par Petroleum Corp,0,0,0,1,0,0,0,1,0
-PATK,Patrick Inds Inc,0,0,0,1,0,0,0,1,0
-PAY,Verifone Systems,0,0,0,1,0,0,1,0,0
-PAYC,Paycom Software Inc,0,0,0,1,0,0,0,0,0
-PAYX,Paychex Inc,0,1,1,0,0,1,0,0,0
-PB,Prosperity Bancshares,0,0,1,0,0,0,1,0,0
-PBCT,People's United Finl,0,0,1,0,0,1,0,0,0
-PBF,PBF Energy Inc,0,0,1,0,0,0,1,0,0
-PBH,Prestige Brand Holdings,0,0,0,1,0,0,1,0,0
-PBI,Pitney Bowes Inc,0,0,1,0,0,0,1,0,0
-PBIP,Prudential Bancorp,0,0,0,1,0,0,0,0,0
-PBNC,Paragon Commercial Corp,0,0,0,1,0,0,0,0,0
-PBPB,Potbelly Corp,0,0,0,1,0,0,0,0,0
-PBYI,Puma Biotechnology,0,0,0,1,0,0,0,0,0
-PCAR,Paccar Inc,0,1,1,0,0,1,0,0,0
-PCG,Pacific Gas & Electric Co,1,0,1,0,0,1,0,0,0
-PCH,Potlatch Cp,0,0,0,1,0,0,1,0,0
-PCLN,Priceline Group,0,1,1,0,1,1,0,0,0
-PCMI,PCM Inc,0,0,0,1,0,0,0,0,0
-PCO,Pendrell Corp,0,0,0,1,0,0,0,0,0
-PCRX,Pacira Pharm Inc,0,0,0,1,0,0,0,0,0
-PCSB,Pcsb Financial Corp,0,0,0,1,0,0,0,0,0
-PCTY,Paylocity Hldng Corp,0,0,0,1,0,0,0,0,0
-PCYG,Park City Group,0,0,0,1,0,0,0,0,0
-PCYO,Pure Cycle Corp,0,0,0,1,0,0,0,0,0
-PDCE,Pdc Energy Inc,0,0,0,1,0,0,0,1,0
-PDCO,Patterson Companies,0,0,1,0,0,1,0,0,0
-PDFS,Pdf Solutions Inc,0,0,0,1,0,0,0,0,0
-PDLI,Pdl Biopharma Inc,0,0,0,1,0,0,0,0,0
-PDM,Piedmont Office Realty Trust,0,0,1,0,0,0,0,0,0
-PDVW,Pdvwireless,0,0,0,1,0,0,0,0,0
-PE,Parsley Energy,0,0,1,0,0,0,0,0,0
-PEB,Pebblebrook Hotel Trust,0,0,0,1,0,0,0,0,0
-PEBK,Peoples Bancorp Nc,0,0,0,1,0,0,0,0,0
-PEBO,Peoples Bancorp Inc,0,0,0,1,0,0,0,0,0
-PEG,Public Service Enterprise Group Inc,1,0,1,0,0,1,0,0,0
-PEGA,Pegasystems Inc,0,0,0,1,0,0,0,0,0
-PEGI,Pattern Energy Cl A,0,0,0,1,0,0,0,0,0
-PEI,Pennsylvania Real Estate Investment,0,0,0,1,0,0,0,1,0
-PEIX,Pacific Ethanol Inc,0,0,0,1,0,0,0,0,0
-PEN,Penumbra Inc,0,0,0,1,0,0,0,0,0
-PENN,Penn Natl Gaming Inc,0,0,0,1,0,0,0,1,0
-PEP,Pepsico Inc,0,0,1,0,1,1,0,0,0
-PERY,Perry Ellis Int,0,0,0,1,0,0,0,1,0
-PES,Pioneer Energy Services Corp,0,0,0,1,0,0,0,1,0
-PETQ,Petiq Inc. Class A,0,0,0,1,0,0,0,0,0
-PETS,Petmed Express Inc,0,0,0,1,0,0,0,1,0
-PETX,Aratana Theraptcs,0,0,0,1,0,0,0,0,0
-PF,Pinnacle Foods Inc,0,0,1,0,0,0,0,0,0
-PFBC,Preferred Bank La,0,0,0,1,0,0,0,0,0
-PFBI,Premier Finl Bncp,0,0,0,1,0,0,0,0,0
-PFE,Pfizer Inc,1,0,1,0,1,1,0,0,0
-PFG,Principal Financial Group Inc,0,0,1,0,0,1,0,0,0
-PFGC,Performance Food Group Co,0,0,0,1,0,0,0,0,0
-PFIS,Peoples Finl Svcs Co,0,0,0,1,0,0,0,0,0
-PFPT,Proofpoint Inc,0,0,0,1,0,0,0,0,0
-PFS,Provident Financial Services,0,0,0,1,0,0,0,1,0
-PFSI,Pennymac Financial Services In,0,0,0,1,0,0,0,0,0
-PG,Procter & Gamble Company,1,0,1,0,1,1,0,0,0
-PGC,Peapack Gladstone FI,0,0,0,1,0,0,0,0,0
-PGEM,Ply Gem Holdings Inc,0,0,0,1,0,0,0,0,0
-PGNX,Progenics Pharmaceut,0,0,0,1,0,0,0,1,0
-PGR,Progressive Corp,0,0,1,0,0,1,0,0,0
-PGRE,Paramount Group Inc,0,0,1,0,0,0,0,0,0
-PGTI,Pgt Inc,0,0,0,1,0,0,0,1,0
-PH,Parker-Hannifin Corp,0,0,1,0,0,1,0,0,0
-PHH,Phh Corp,0,0,0,1,0,0,0,0,0
-PHIIK,PHI Inc Non-Voting,0,0,0,1,0,0,0,0,0
-PHM,Pultegroup,0,0,1,0,0,1,0,0,0
-PHX,Panhandle Royalty Company,0,0,0,1,0,0,0,0,0
-PI,Impinj Inc,0,0,0,1,0,0,0,0,0
-PICO,Pico Holdings Inc,0,0,0,1,0,0,0,0,0
-PII,Polaris Industries Inc,0,0,1,0,0,0,1,0,0
-PINC,Premier Inc Cl A,0,0,1,0,0,0,0,0,0
-PIR,Pier 1 Imports,0,0,0,1,0,0,0,0,0
-PIRS,Pieris Pharma,0,0,0,1,0,0,0,0,0
-PJC,Piper Jaffray Companies,0,0,0,1,0,0,0,1,0
-PJT,Pjt Partners Inc Class A,0,0,0,1,0,0,0,0,0
-PK,Park Hotels & Resorts Inc,0,0,1,0,0,0,0,0,0
-PKBK,Parke Bancorp Inc,0,0,0,1,0,0,0,0,0
-PKD,Parker Drilling Company,0,0,0,1,0,0,0,0,0
-PKE,Park Electrochemical Corp,0,0,0,1,0,0,0,1,0
-PKG,Packaging Corporation of America,0,0,1,0,0,1,0,0,0
-PKI,Perkinelmer,0,0,1,0,0,1,0,0,0
-PKOH,Park Ohio Hldg Cp,0,0,0,1,0,0,0,0,0
-PLAB,Photronics Inc,0,0,0,1,0,0,0,1,0
-PLAY,Dave & Buster's Ente,0,0,0,1,0,0,0,1,0
-PLCE,Children's Place Inc,0,0,0,1,0,0,0,1,0
-PLD,Prologis Inc,0,0,1,0,0,1,0,0,0
-PLNT,Planet Fitness,0,0,0,1,0,0,0,0,0
-PLOW,Douglas Dynamics,0,0,0,1,0,0,0,0,0
-PLPC,Preformed Line Prd,0,0,0,1,0,0,0,0,0
-PLPM,Planet Payment,0,0,0,1,0,0,0,0,0
-PLSE,Pulse Biosciences CS,0,0,0,1,0,0,0,0,0
-PLT,Plantronics,0,0,0,1,0,0,1,0,0
-PLUG,Plug Power Inc,0,0,0,1,0,0,0,0,0
-PLUS,Eplus Inc,0,0,0,1,0,0,0,1,0
-PLXS,Plexus Cp,0,0,0,1,0,0,0,1,0
-PM,Philip Morris International Inc,0,0,1,0,1,1,0,0,0
-PMBC,Pacific Mercantile,0,0,0,1,0,0,0,0,0
-PMC,Pharmerica Corp,0,0,0,1,0,0,0,1,0
-PMT,Pennymac Mortgage Investment Trust,0,0,0,1,0,0,0,0,0
-PMTS,CPI Card Group,0,0,0,1,0,0,0,0,0
-PNC,PNC Bank,0,0,1,0,0,1,0,0,0
-PNFP,Pinnacle Finl Ptnrs,0,0,1,0,0,0,1,0,0
-PNK,Pinnacle Entmt,0,0,0,1,0,0,0,0,0
-PNM,PNM Resources Inc,0,0,0,1,0,0,1,0,0
-PNR,Pentair Ltd,0,0,1,0,0,1,0,0,0
-PNW,Pinnacle West Capital Corp,0,0,1,0,0,1,0,0,0
-PODD,Insulet Corp,0,0,0,1,0,0,0,0,0
-POL,Polyone Corp,0,0,0,1,0,0,1,0,0
-POOL,Pool Corp,0,0,1,0,0,0,1,0,0
-POR,Portland General Electric Company,0,0,0,1,0,0,0,0,0
-POST,Post Holdings Inc,0,0,1,0,0,0,1,0,0
-POWI,Power Integratn,0,0,0,1,0,0,0,1,0
-POWL,Powell Inds Inc,0,0,0,1,0,0,0,1,0
-PPBI,Pacific Premier Bncp,0,0,0,1,0,0,0,1,0
-PPC,Pilgrim's Pride,0,0,1,0,0,0,0,0,0
-PPG,PPG Industries,0,0,1,0,0,1,0,0,0
-PPL,PPL Corp,0,0,1,0,0,1,0,0,0
-PRA,Pro-Assurance Corp,0,0,1,0,0,0,0,1,0
-PRAA,Pra Group Inc,0,0,0,1,0,0,0,1,0
-PRAH,Pra Health,0,0,0,1,0,0,0,0,0
-PRFT,Perficient Inc,0,0,0,1,0,0,0,1,0
-PRGO,Perrigo Company,0,0,1,0,0,1,0,0,0
-PRGS,Progress Software,0,0,0,1,0,0,0,1,0
-PRI,Primerica Inc,0,0,0,1,0,0,1,0,0
-PRIM,Primoris Services Cp,0,0,0,1,0,0,0,0,0
-PRK,Park National Corp,0,0,0,1,0,0,0,0,0
-PRLB,Proto Labs Inc,0,0,0,1,0,0,0,1,0
-PRMW,Primo Water Corporat,0,0,0,1,0,0,0,0,0
-PRO,Pros Holdings,0,0,0,1,0,0,0,0,0
-PROV,Provident Financial,0,0,0,1,0,0,0,0,0
-PRSC,Providence Svc Cp,0,0,0,1,0,0,0,1,0
-PRTA,Prothena Corp,0,0,0,1,0,0,0,0,0
-PRTK,Paratek Pharma Inc,0,0,0,1,0,0,0,0,0
-PRTY,Party City Holdco Inc,0,0,0,1,0,0,0,0,0
-PRU,Prudential Financial Inflation Retail,0,0,1,0,0,1,0,0,0
-PSA,Public Storage,0,0,1,0,0,1,0,0,0
-PSB,Business Parks,0,0,0,1,0,0,0,1,0
-PSDO,Presidio Inc.,0,0,0,1,0,0,0,0,0
-PSMT,Pricesmart Inc,0,0,0,1,0,0,0,0,0
-PSTB,Park Sterling Corpor,0,0,0,1,0,0,0,0,0
-PSTG,Pure Storage Inc,0,0,0,1,0,0,0,0,0
-PSX,Phillips 66,0,0,1,0,0,1,0,0,0
-PTC,Ptc Inc,0,0,1,0,0,0,1,0,0
-PTCT,Ptc Therapeutics,0,0,0,1,0,0,0,0,0
-PTEN,Patterson-Uti Energy,0,0,1,0,0,0,1,0,0
-PTGX,Protagonist Therapeutics Inc,0,0,0,1,0,0,0,0,0
-PTLA,Portola Pharma,0,0,0,1,0,0,0,0,0
-PUB,Peoples Utah,0,0,0,1,0,0,0,0,0
-PUMP,Propetro Holding Corp.,0,0,0,1,0,0,0,0,0
-PVAC,Penn Va Corp,0,0,0,1,0,0,0,0,0
-PVBC,Provident Bancorp CS,0,0,0,1,0,0,0,0,0
-PVH,Phillips-Van Heusen Corp,0,0,1,0,0,1,0,0,0
-PWOD,Penns Woods Bancorp,0,0,0,1,0,0,0,0,0
-PWR,Quanta Services,0,0,1,0,0,1,0,0,0
-PX,Praxair,0,0,1,0,0,1,0,0,0
-PXD,Pioneer Natural Resources Co,0,0,1,0,0,1,0,0,0
-PXLW,Pixelworks Inc,0,0,0,1,0,0,0,0,0
-PYPL,Paypal Holdings,0,1,1,0,1,1,0,0,0
-PZN,Pzena Investment Management Inc,0,0,0,1,0,0,0,0,0
-PZZA,Papa John's Intl,0,0,0,1,0,0,1,0,0
-Q,Quintiles Transitional Holdings,0,0,1,0,0,1,0,0,0
-QADA,Qad Inc,0,0,0,1,0,0,0,0,0
-QCOM,Qualcomm Inc,0,1,1,0,1,1,0,0,0
-QCP,Quality Care Properties Inc,0,0,0,1,0,0,1,0,0
-QCRH,Qcr Holdings Inc,0,0,0,1,0,0,0,0,0
-QDEL,Quidel Cp,0,0,0,1,0,0,0,0,0
-QEP,Qep Resources,0,0,1,0,0,0,1,0,0
-QGEN,Qiagen N.V.,0,0,1,0,0,0,0,0,0
-QHC,Quorum Health Corp,0,0,0,0,0,0,0,1,0
-QLYS,Qualys Inc,0,0,0,1,0,0,0,1,0
-QNST,Quinstreet Inc,0,0,0,1,0,0,0,1,0
-QRVO,Qorvo Inc,0,0,1,0,0,1,0,0,0
-QSII,Quality Systems Inc,0,0,0,1,0,0,0,1,0
-QTM,Quantum Corp,0,0,0,1,0,0,0,0,0
-QTNA,Quantenna Communications Inc,0,0,0,1,0,0,0,0,0
-QTNT,Quotient Limited Ord,0,0,0,1,0,0,0,0,0
-QTS,Qts Realty Trust Inc,0,0,0,1,0,0,0,0,0
-QTWO,Q2 Holdings Inc,0,0,0,1,0,0,0,0,0
-QUAD,Quad Graphics Inc,0,0,0,1,0,0,0,0,0
-QUOT,Quotient Technology Inc,0,0,0,1,0,0,0,0,0
-QVCA,Liberty Int Qvc Sr A,0,1,1,0,0,0,0,0,0
-R,Ryder System,1,0,1,0,0,0,1,0,0
-RAD,Rite Aid Corp,0,0,1,0,0,0,0,0,0
-RAIL,Freightcar America,0,0,0,1,0,0,0,0,0
-RARE,Ultragenyx Pharmaceu,0,0,0,1,0,0,0,0,0
-RARX,Ra Pharmaceuticals Inc,0,0,0,1,0,0,0,0,0
-RAS,Rait Financial Trust,0,0,0,1,0,0,0,0,0
-RATE,Bankrate Inc,0,0,0,1,0,0,0,0,0
-RAVN,Raven Industries Inc,0,0,0,1,0,0,0,1,0
-RBB,Rbb Bancorp,0,0,0,1,0,0,0,0,0
-RBC,Regal-Beloit Corp,0,0,1,0,0,0,1,0,0
-RBCAA,Republic Bancorp Inc,0,0,0,1,0,0,0,0,0
-RCII,Rent-A-Center Inc,0,0,0,1,0,0,0,1,0
-RCL,Royal Caribbean Cruises Ltd,0,0,1,0,0,1,0,0,0
-RCM,R1 Rcm Inc,0,0,0,1,0,0,0,0,0
-RDC,Rowan Companies,0,0,0,1,0,0,1,0,0
-RDFN,Redfin Corp,0,0,0,1,0,0,0,0,0
-RDI,Reading Intl Cl A,0,0,0,1,0,0,0,0,0
-RDN,Radian Group Inc,0,0,0,1,0,0,0,0,0
-RDNT,Radnet Inc,0,0,0,1,0,0,0,0,0
-RDUS,Radius Health,0,0,0,1,0,0,0,0,0
-RE,Everest Re Group,0,0,1,0,0,1,0,0,0
-RECN,Resources Connect,0,0,0,1,0,0,0,1,0
-REG,Regency Centers Corp,0,0,1,0,0,1,0,0,0
-REGI,Renewable Energy,0,0,0,1,0,0,0,0,0
-REGN,Regeneron Pharmaceutical,0,1,1,0,0,1,0,0,0
-REI,Ring Energy Inc,0,0,0,1,0,0,0,0,0
-REIS,Reis Inc,0,0,0,1,0,0,0,0,0
-REN,Resolute Energy Corp,0,0,0,1,0,0,0,0,0
-REPH,Recro Pharma Inc,0,0,0,1,0,0,0,0,0
-RES,RPC Inc,0,0,1,0,0,0,0,0,0
-RESI,Altisource Residential Corporat,0,0,0,1,0,0,0,0,0
-RETA,Reata Pharma Cla,0,0,0,1,0,0,0,0,0
-REV,Revlon Inc,0,0,0,1,0,0,0,0,0
-REVG,Rev Group Inc,0,0,0,1,0,0,0,0,0
-REX,Rex American Resources Corp,0,0,0,1,0,0,0,1,0
-REXR,Rexford Industrial Realty Inc,0,0,0,1,0,0,0,0,0
-RF,Regions Financial Corp,0,0,1,0,0,1,0,0,0
-RGA,Reinsurance Group of America Inc,0,0,1,0,0,0,1,0,0
-RGC,Regal Entertainment Group,0,0,1,0,0,0,0,0,0
-RGCO,Rgc Resources Inc,0,0,0,1,0,0,0,0,0
-RGEN,Repligen Cp,0,0,0,1,0,0,0,1,0
-RGLD,Royal Gold Inc,0,0,1,0,0,0,1,0,0
-RGNX,Regenxbio Inc,0,0,0,1,0,0,0,0,0
-RGR,Sturm Ruger & Company,0,0,0,1,0,0,0,1,0
-RGS,Regis Corp,0,0,0,1,0,0,0,1,0
-RH,Restoration Hardware Holdings,0,0,0,1,0,0,0,1,0
-RHI,Robert Half International Inc,0,0,1,0,0,1,0,0,0
-RHP,Gaylord Entertainment Company,0,0,0,1,0,0,0,0,0
-RHT,Red Hat Inc,0,0,1,0,0,1,0,0,0
-RICE,Rice Energy Inc,0,0,1,0,0,0,0,0,0
-RICK,RCI Hospitality Hold,0,0,0,1,0,0,0,0,0
-RIG,Transocean Inc,0,0,1,0,0,0,1,0,0
-RIGL,Rigel Pharmaceutical,0,0,0,1,0,0,0,0,0
-RILY,B. Riley Financl,0,0,0,1,0,0,0,0,0
-RJF,Raymond James Financial,0,0,1,0,0,1,0,0,0
-RL,Ralph Lauren Corp,0,0,1,0,0,1,0,0,0
-RLGT,Radiant Logistics,0,0,0,1,0,0,0,0,0
-RLGY,Realogy Holdings Corp,0,0,1,0,0,0,0,0,0
-RLH,Westcoast Hospitality Corp,0,0,0,1,0,0,0,0,0
-RLI,Rli Corp,0,0,0,1,0,0,0,1,0
-RLJ,Rlj Lodging Trust,0,0,0,1,0,0,0,0,0
-RM,Regional Managment Corp,0,0,0,1,0,0,0,0,0
-RMAX,Re/Max Holdings Inc,0,0,0,1,0,0,0,1,0
-RMBS,Rambus Inc,0,0,0,1,0,0,0,1,0
-RMD,Resmed Inc,0,0,1,0,0,1,0,0,0
-RMR,The Rmr Grp A,0,0,0,1,0,0,0,0,0
-RMTI,Rockwell Medical In,0,0,0,1,0,0,0,0,0
-RNET,Rignet Inc,0,0,0,1,0,0,0,0,0
-RNG,Ringcentral Inc,0,0,0,1,0,0,0,0,0
-RNGR,Ranger Energy Services Inc. Class A,0,0,0,1,0,0,0,0,0
-RNR,Renaissancere Holdings Ltd,0,0,1,0,0,0,1,0,0
-RNST,Renasant Corp,0,0,0,1,0,0,0,0,0
-RNWK,Realnetworks Inc,0,0,0,1,0,0,0,0,0
-ROCK,Gibraltar Ind Inc,0,0,0,1,0,0,0,1,0
-ROG,Rogers Corp,0,0,0,1,0,0,0,1,0
-ROIC,Retail Opp Invts Cp,0,0,0,1,0,0,0,1,0
-ROK,Rockwell Automation Inc,0,0,1,0,0,1,0,0,0
-ROL,Rollins Inc,0,0,1,0,0,0,1,0,0
-ROLL,RBC Bearings Incorp,0,0,0,1,0,0,0,0,0
-ROP,Roper Industries,0,0,1,0,0,1,0,0,0
-ROSE,Rosehill Resources Inc,0,0,0,1,0,0,0,0,0
-ROST,Ross Stores Inc,0,1,1,0,0,1,0,0,0
-ROX,Castle Brands,0,0,0,1,0,0,0,0,0
-RP,Realpage Inc,0,0,0,1,0,0,0,0,0
-RPAI,Retail Properties of America,0,0,1,0,0,0,0,0,0
-RPD,Rapid7 Inc,0,0,0,1,0,0,0,0,0
-RPM,RPM International Inc,0,0,1,0,0,0,1,0,0
-RPT,Ramco-Gershenson Properties Trust,0,0,0,1,0,0,0,1,0
-RPXC,Rpx Corp,0,0,0,1,0,0,0,0,0
-RRC,Range Resources Corp,0,0,1,0,0,1,0,0,0
-RRD,Donnelley [R.R.] & Sons Co.,0,0,0,1,0,0,0,1,0
-RRGB,Red Robin Gourm,0,0,0,1,0,0,0,1,0
-RRR,Rd Rock Rsrts Cla,0,0,0,1,0,0,0,0,0
-RRTS,Roadrunner Transportation Systems Inc,0,0,0,1,0,0,0,1,0
-RS,Reliance Steel & Aluminum Company,0,0,1,0,0,0,1,0,0
-RSG,Republic Services,0,0,1,0,0,1,0,0,0
-RSO,Resource Capital,0,0,0,1,0,0,0,0,0
-RSPP,Rsp Permian Inc,0,0,1,0,0,0,0,0,0
-RST,Rosetta Stone,0,0,0,1,0,0,0,0,0
-RSYS,Radisys Cp,0,0,0,1,0,0,0,0,0
-RT,Ruby Tuesday,0,0,0,1,0,0,0,1,0
-RTEC,Rudolph Technologies,0,0,0,1,0,0,0,1,0
-RTIX,Rti Surgical Inc,0,0,0,1,0,0,0,0,0
-RTN,Raytheon Company,0,0,1,0,1,1,0,0,0
-RTRX,Retrophin Inc,0,0,0,1,0,0,0,0,0
-RUBI,The Rubicon Project Inc,0,0,0,1,0,0,0,0,0
-RUN,Sunrun Inc,0,0,0,1,0,0,0,0,0
-RUSHA,Rush Entpr Cl A,0,0,0,1,0,0,0,0,0
-RUSHB,Rush Entpr Cl B,0,0,0,1,0,0,0,0,0
-RUTH,Ruth's Hospitality,0,0,0,1,0,0,0,1,0
-RVLT,Revolution Lgt Tc,0,0,0,1,0,0,0,0,0
-RVNC,Revance Therapeutics,0,0,0,1,0,0,0,0,0
-RVSB,Riverview Bancorp,0,0,0,1,0,0,0,0,0
-RWT,Redwood Trust,0,0,0,1,0,0,0,0,0
-RXDX,Ignyta Inc,0,0,0,1,0,0,0,0,0
-RXN,Rexnord Corp,0,0,0,1,0,0,0,0,0
-RYAM,Rayonier Advanced Materials Inc,0,0,0,1,0,0,0,1,0
-RYI,Ryerson Holding Corp,0,0,0,1,0,0,0,0,0
-RYN,Rayonier Inc REIT,0,0,1,0,0,0,1,0,0
-S,Sprint Corp,0,0,1,0,0,0,0,0,0
-SABR,Sabre Corp,0,0,1,0,0,0,1,0,0
-SAFE,Safety Income and Growth Inc,0,0,0,1,0,0,0,0,0
-SAFM,Sanderson Farms In,0,0,0,1,0,0,1,0,0
-SAFT,Safety Ins Group Inc,0,0,0,1,0,0,0,1,0
-SAGE,Sage Therapeutic Com,0,0,0,1,0,0,0,0,0
-SAH,Sonic Automotive,0,0,0,1,0,0,0,1,0
-SAIA,Saia Inc,0,0,0,1,0,0,0,1,0
-SAIC,Science Applications Internatio,0,0,0,1,0,0,1,0,0
-SALM,Salem Media Grp Inc,0,0,0,1,0,0,0,0,0
-SALT,Scorpio Bulkers Inc,0,0,0,1,0,0,0,0,0
-SAM,Boston Beer Company,0,0,0,1,0,0,1,0,0
-SAMG,Silvercrest Ast Cm A,0,0,0,1,0,0,0,0,0
-SANM,Sanmina Corp,0,0,0,1,0,0,0,1,0
-SASR,Sandy Spring Bancorp,0,0,0,1,0,0,0,0,0
-SATS,Echostar Corp,0,0,1,0,0,0,0,0,0
-SAVE,Spirit Airlines Inc,0,0,1,0,0,0,0,0,0
-SB,Safe Bulkers Inc,0,0,0,1,0,0,0,0,0
-SBAC,SBA Communications,0,0,1,0,0,1,0,0,0
-SBBP,Strongbridge Bio Ord,0,0,0,1,0,0,0,0,0
-SBCF,Seacoast Banking Cp,0,0,0,1,0,0,0,0,0
-SBCP,Sunshine Bancorp,0,0,0,1,0,0,0,0,0
-SBGI,Sinclair Brdcst A,0,0,0,1,0,0,0,0,0
-SBH,Sally Beauty Holdings,0,0,1,0,0,0,1,0,0
-SBNY,Signature Bank,0,0,1,0,0,0,1,0,0
-SBOW,Silverbow Resources Inc,0,0,0,1,0,0,0,0,0
-SBRA,Sabra REIT,0,0,0,1,0,0,1,0,0
-SBSI,Southside Bancshares,0,0,0,1,0,0,0,1,0
-SBUX,Starbucks Corp,0,1,1,0,1,1,0,0,0
-SC,Santander Consumer USA Holdings,0,0,1,0,0,0,0,0,0
-SCCO,Southern Peru Copper Corp,0,0,1,0,0,0,0,0,0
-SCG,Scana Corp,0,0,1,0,0,1,0,0,0
-SCHL,Scholastic Cp,0,0,0,1,0,0,0,1,0
-SCHN,Schnitzer Steel A,0,0,0,1,0,0,0,0,0
-SCHW,The Charles Schwab Corp,0,0,1,0,0,1,0,0,0
-SCI,Service Corporation International,0,0,1,0,0,0,1,0,0
-SCL,Stepan Company,0,0,0,1,0,0,0,1,0
-SCMP,Sucampo Pharma Inc,0,0,0,1,0,0,0,1,0
-SCS,Steelcase Inc,0,0,0,1,0,0,0,0,0
-SCSC,Scansource Inc,0,0,0,1,0,0,0,1,0
-SCVL,Shoe Carnival Inc,0,0,0,1,0,0,0,1,0
-SCWX,Secureworks Corp CS,0,0,0,1,0,0,0,0,0
-SD,Sandridge Energy Inc,0,0,0,1,0,0,0,0,0
-SEAS,Seaworld Entertainment Inc Co,0,0,0,1,0,0,0,0,0
-SEB,Seaboard Corp,0,0,1,0,0,0,0,0,0
-SEDG,Solaredge Tech,0,0,0,0,0,0,0,1,0
-SEE,Sealed Air Corp,0,0,1,0,0,1,0,0,0
-SEIC,Sei Investments Co,0,0,1,0,0,0,1,0,0
-SELB,Selecta Biosciences,0,0,0,1,0,0,0,0,0
-SEM,Select Medical Holdings Corp,0,0,0,1,0,0,0,1,0
-SEMG,Semgroup Corp,0,0,0,1,0,0,0,0,0
-SENEA,Seneca Foods Cp A,0,0,0,1,0,0,0,1,0
-SERV,Servicemaster Global Holdings I,0,0,1,0,0,0,0,0,0
-SF,Stifel Financial Corp,0,0,0,1,0,0,1,0,0
-SFBS,Servisfirst Bancs,0,0,0,1,0,0,0,1,0
-SFE,Safeguard Scientifics,0,0,0,1,0,0,0,0,0
-SFL,Ship Finance International,0,0,0,1,0,0,0,0,0
-SFLY,Shutterfly Inc,0,0,0,1,0,0,0,1,0
-SFM,Sprouts Farmers Mark,0,0,1,0,0,0,1,0,0
-SFNC,Simmons First Natl,0,0,0,1,0,0,0,1,0
-SFR,Starwood Waypoint Homes,0,0,0,1,0,0,0,0,0
-SFS,Smart,0,0,0,1,0,0,0,0,0
-SFST,Southern First Bancs,0,0,0,1,0,0,0,0,0
-SGA,Saga Communications,0,0,0,1,0,0,0,0,0
-SGC,Superior Uniform Grp,0,0,0,1,0,0,0,0,0
-SGEN,Seattle Genetics Inc,0,0,1,0,0,0,0,0,0
-SGH,Smart Global Holdings Inc,0,0,0,1,0,0,0,0,0
-SGMO,Sangamo Therapeutics,0,0,0,1,0,0,0,0,0
-SGMS,Scientific Games,0,0,0,1,0,0,0,1,0
-SGRY,Surgery Partners CS,0,0,0,1,0,0,0,0,0
-SGY,Stone Energy Corp,0,0,0,1,0,0,0,0,0
-SGYP,Synergy Pharma,0,0,0,1,0,0,0,0,0
-SHAK,Shake Shack Inc,0,0,0,1,0,0,0,1,0
-SHBI,Shore Bancshares Inc,0,0,0,1,0,0,0,0,0
-SHEN,Shenandoah Telecom,0,0,0,1,0,0,0,0,0
-SHLD,Sears Hldgs Corp,0,0,0,1,0,0,0,0,0
-SHLM,Schulman A Inc,0,0,0,1,0,0,0,1,0
-SHLO,Shiloh Inds Inc,0,0,0,1,0,0,0,0,0
-SHO,Sunstone Hotel Investors,0,0,0,1,0,0,0,0,0
-SHOO,Steven Maddens Ltd,0,0,0,1,0,0,0,1,0
-SHPG,Shire Plc Ads,0,1,0,0,0,0,0,0,0
-SHW,Sherwin-Williams Company,0,0,1,0,0,1,0,0,0
-SIEN,Sientra Inc,0,0,0,1,0,0,0,0,0
-SIFI,Si Financial Grp MD,0,0,0,1,0,0,0,0,0
-SIG,Signet Jewelers Ltd,0,0,1,0,0,1,0,0,0
-SIGI,Selective Ins Group,0,0,0,1,0,0,0,1,0
-SIGM,Sigma Designs Inc,0,0,0,1,0,0,0,0,0
-SIR,Select Income REIT,0,0,0,1,0,0,0,0,0
-SIRI,Sirius XM Holdings I,0,1,1,0,0,0,0,0,0
-SITE,Siteone Landscape Supply,0,0,0,1,0,0,0,0,0
-SIVB,Svb Financial Grp,0,0,1,0,0,0,1,0,0
-SIX,Six Flags Entertainment Corp,0,0,1,0,0,0,1,0,0
-SJI,South Jersey Industries,0,0,0,1,0,0,0,1,0
-SJM,J.M. Smucker Company,0,0,1,0,0,1,0,0,0
-SJW,SJW Corp,0,0,0,1,0,0,0,0,0
-SKT,Tanger Factory Outlet Centers,0,0,1,0,0,0,1,0,0
-SKX,Skechers U.S.A.,0,0,1,0,0,0,1,0,0
-SKYW,Skywest Inc,0,0,0,1,0,0,0,1,0
-SLAB,Silicon Labs Inc,0,0,0,1,0,0,1,0,0
-SLB,Schlumberger N.V.,0,0,1,0,1,1,0,0,0
-SLCA,U.S. Silica Holdings Inc,0,0,0,1,0,0,0,1,0
-SLD,Sutherland Asset Management Corp MD,0,0,0,1,0,0,0,0,0
-SLG,SL Green Realty Corp,0,0,1,0,0,1,0,0,0
-SLGN,Silgan Holdings,0,0,1,0,0,0,1,0,0
-SLM,SLM Corp,0,0,1,0,0,0,1,0,0
-SLP,Simulations Plus Inc,0,0,0,1,0,0,0,0,0
-SM,Sm Energy Company,0,0,1,0,0,0,1,0,0
-SMBC,Southern Mo Bancorp,0,0,0,1,0,0,0,0,0
-SMBK,Smartfinancial Cm ST,0,0,0,1,0,0,0,0,0
-SMCI,Super Micro Computer,0,0,0,1,0,0,0,1,0
-SMG,Scotts Miracle-Gro Company,0,0,1,0,0,0,1,0,0
-SMHI,Seacor Marine Holdings Inc,0,0,0,1,0,0,0,0,0
-SMMF,Summit Financial Gp,0,0,0,1,0,0,0,0,0
-SMP,Standard Motor Products,0,0,0,1,0,0,0,1,0
-SMTC,Semtech Corp,0,0,0,1,0,0,0,1,0
-SN,Sanchez Energy Corp,0,0,0,1,0,0,0,0,0
-SNA,Snap-On Inc,0,0,1,0,0,1,0,0,0
-SNBC,Sun Bancorp Inc,0,0,0,1,0,0,0,0,0
-SNBR,Sleep Number Corporation,0,0,0,0,0,0,0,1,0
-SNC,State Natl Co,0,0,0,1,0,0,0,0,0
-SNCR,Synchronoss Technolo,0,0,0,1,0,0,0,1,0
-SND,Smart Sand Inc,0,0,0,1,0,0,0,0,0
-SNDR,Schneider National Inc,0,0,0,1,0,0,0,0,0
-SNDX,Syndax Pharma,0,0,0,1,0,0,0,0,0
-SNH,Senior Housing Properties Trust,0,0,1,0,0,0,1,0,0
-SNHY,Sun Hydraulics Cor,0,0,0,1,0,0,0,0,0
-SNI,Scripps Ntwrks Int A,0,0,1,0,0,1,0,0,0
-SNNA,Sienna Biopharmaceuticals Inc.,0,0,0,1,0,0,0,0,0
-SNPS,Synopsys Inc,0,0,1,0,0,1,0,0,0
-SNR,New Senior Investment Group Inc,0,0,0,1,0,0,0,0,0
-SNV,Synovus Financial Corp,0,0,1,0,0,0,1,0,0
-SNX,Synnex Corp,0,0,0,1,0,0,1,0,0
-SO,Southern Company,1,0,1,0,1,1,0,0,0
-SOI,Solaris Oilfield Infrastructure Inc. Class A,0,0,0,1,0,0,0,0,0
-SON,Sonoco Products Company,0,0,1,0,0,0,1,0,0
-SONA,Southern National Bk,0,0,0,1,0,0,0,0,0
-SONC,Sonic Cp,0,0,0,1,0,0,0,1,0
-SONS,Sonus Networks Inc,0,0,0,1,0,0,0,0,0
-SP,SP Plus Corp,0,0,0,1,0,0,0,0,0
-SPA,Sparton Corp,0,0,0,1,0,0,0,0,0
-SPAR,Spartan Motors Inc,0,0,0,1,0,0,0,0,0
-SPB,Spectrum Brands Holdings,0,0,1,0,0,0,0,0,0
-SPG,Simon Property Group,0,0,1,0,1,1,0,0,0
-SPGI,S&P Global Inc,0,0,1,0,0,1,0,0,0
-SPKE,Spark Energy,0,0,0,1,0,0,0,0,0
-SPLK,Splunk Inc,0,0,1,0,0,0,0,0,0
-SPN,Superior Energy Services,0,0,0,1,0,0,1,0,0
-SPOK,Spok Holdings Inc,0,0,0,1,0,0,0,1,0
-SPPI,Spectrum Pharma Inc,0,0,0,1,0,0,0,1,0
-SPR,Spirit Aerosystems Holdings,0,0,1,0,0,0,0,0,0
-SPSC,Sps Commerce Inc,0,0,0,1,0,0,0,1,0
-SPTN,Spartannash Company,0,0,0,1,0,0,0,1,0
-SPWH,Sportsman's Wareh,0,0,0,1,0,0,0,0,0
-SPWR,Sunpower Corp,0,0,0,1,0,0,0,0,0
-SPXC,SPX Corp,0,0,0,1,0,0,0,1,0
-SQ,Square,0,0,1,0,0,0,0,0,0
-SQBG,Sequential Brands,0,0,0,1,0,0,0,0,0
-SR,Spire Inc,0,0,0,1,0,0,0,1,0
-SRC,Spirit Realty Capital Inc,0,0,1,0,0,0,0,0,0
-SRCE,1st Source Corp,0,0,0,1,0,0,0,0,0
-SRCI,Src Energy Inc,0,0,0,1,0,0,0,1,0
-SRCL,Stericycle Inc,0,0,1,0,0,1,0,0,0
-SRDX,Surmodics Inc,0,0,0,1,0,0,0,1,0
-SRE,Sempra Energy,0,0,1,0,0,1,0,0,0
-SREV,Servicesrce Intl Inc,0,0,0,1,0,0,0,0,0
-SRG,Seritage Growth Properties Cla,0,0,0,1,0,0,0,0,0
-SRI,Stoneridge Inc,0,0,0,1,0,0,0,0,0
-SRPT,Sarepta Therapeutics,0,0,0,1,0,0,0,0,0
-SRT,Startek Inc,0,0,0,1,0,0,0,0,0
-SSB,South State Cp,0,0,0,1,0,0,0,0,0
-SSD,Simpson Manufacturing Company,0,0,0,1,0,0,0,1,0
-SSNC,SS&C Technologies,0,0,1,0,0,0,0,0,0
-SSNI,Silver Spring Networks Inc Co,0,0,0,1,0,0,0,0,0
-SSP,E.W. Scripps Company,0,0,0,1,0,0,0,1,0
-SSTK,Shutterstock Inc,0,0,0,1,0,0,0,1,0
-SSYS,Stratasys Ltd,0,0,0,1,0,0,0,0,0
-ST,Sensata Technologies Holding N.V.,0,0,1,0,0,0,0,0,0
-STAA,Staar Surgical Co,0,0,0,1,0,0,0,0,0
-STAG,STI Inc,0,0,0,1,0,0,0,0,0
-STAR,Istar Financial Inc,0,0,0,1,0,0,0,0,0
-STAY,Extended Stay America Inc,0,0,1,0,0,0,0,0,0
-STBA,S&T Bancorp Inc,0,0,0,1,0,0,0,1,0
-STBZ,State Bank Finl Corp,0,0,0,1,0,0,0,0,0
-STC,Stewart Information Services Corp,0,0,0,1,0,0,0,1,0
-STE,Steris Corp,0,0,1,0,0,0,1,0,0
-STFC,State Auto Finl Corp,0,0,0,1,0,0,0,0,0
-STI,Suntrust Banks,0,0,1,0,0,1,0,0,0
-STL,Sterling Bancorp,0,0,0,1,0,0,1,0,0
-STLD,Steel Dynamics Inc,0,0,1,0,0,0,1,0,0
-STML,Stemline Therapeutic,0,0,0,1,0,0,0,0,0
-STMP,Stamps.Com Inc,0,0,0,1,0,0,0,1,0
-STNG,Scorpio Tankers Inc,0,0,0,1,0,0,0,0,0
-STOR,Store Capital Corpstore Capital,0,0,1,0,0,0,0,0,0
-STRA,Strayer Education,0,0,0,1,0,0,0,1,0
-STRL,Sterling Constructio,0,0,0,1,0,0,0,0,0
-STRP,Straight Path Communications In,0,0,0,1,0,0,0,0,0
-STRS,Stratus Pptys Inc,0,0,0,1,0,0,0,0,0
-STT,State Street Corp,0,0,1,0,0,1,0,0,0
-STWD,Starwood Property Trust,0,0,1,0,0,0,0,0,0
-STX,Seagate Tech Ord Shs,0,1,0,0,0,1,0,0,0
-STZ,Constellation Brands Inc,0,0,1,0,0,1,0,0,0
-SUI,Sun Communities,0,0,1,0,0,0,0,0,0
-SUM,Summit Materials Inc,0,0,0,1,0,0,0,0,0
-SUP,Superior Industries International,0,0,0,1,0,0,0,1,0
-SUPN,Supernus Pharm,0,0,0,1,0,0,0,1,0
-SVU,Supervalu Inc,0,0,0,1,0,0,0,1,0
-SWK,Stanley Black & Decker Inc,0,0,1,0,0,1,0,0,0
-SWKS,Skyworks Solutions,0,1,1,0,0,1,0,0,0
-SWM,Schweitzer-Mauduit International,0,0,0,1,0,0,0,1,0
-SWN,Southwestern Energy Company,0,0,1,0,0,0,1,0,0
-SWX,Southwest Gas Corp,0,0,0,1,0,0,1,0,0
-SXC,Suncoke Energy Inc,0,0,0,1,0,0,0,1,0
-SXI,Standex International Corp,0,0,0,1,0,0,0,1,0
-SXT,Sensient Technologies Corp,0,0,0,1,0,0,1,0,0
-SYBT,Stock Yards Bancorp,0,0,0,1,0,0,0,0,0
-SYF,Synchrony Financial,0,0,1,0,0,1,0,0,0
-SYK,Stryker Corp,0,0,1,0,0,1,0,0,0
-SYKE,Sykes Enterprises,0,0,0,1,0,0,0,1,0
-SYMC,Symantec Corp,0,1,1,0,0,1,0,0,0
-SYNA,Synaptics Inc,0,0,0,1,0,0,1,0,0
-SYNT,Syntel Inc,0,0,0,1,0,0,0,0,0
-SYRS,Syros Pharmaceuticals,0,0,0,1,0,0,0,0,0
-SYX,Systemax Inc,0,0,0,1,0,0,0,0,0
-SYY,Sysco Corp,0,0,1,0,0,1,0,0,0
-T,AT&T Inc,0,0,1,0,1,1,0,0,0
-TACO,Del Taco Rest,0,0,0,1,0,0,0,0,0
-TAHO,Tahoe Res Inc,0,0,1,0,0,0,0,0,0
-TAP,Molson Coors Brewing Company,0,0,1,0,0,1,0,0,0
-TAST,Carrols Rstrnt Group,0,0,0,1,0,0,0,0,0
-TAX,Liberty Tax Cl A,0,0,0,1,0,0,0,0,0
-TBBK,The Bancorp Inc,0,0,0,1,0,0,0,0,0
-TBI,Trueblue Inc,0,0,0,1,0,0,0,1,0
-TBK,Triumph Bancorp,0,0,0,1,0,0,0,0,0
-TBNK,Territorial Bancorp,0,0,0,1,0,0,0,0,0
-TBPH,Theravance Bio Ord,0,0,0,1,0,0,0,0,0
-TCBI,Texas Capital Bncsh,0,0,0,1,0,0,1,0,0
-TCBK,Trico Bancshares,0,0,0,1,0,0,0,0,0
-TCF,TCF Financial Corp,0,0,1,0,0,0,1,0,0
-TCFC,The Community Fin Cp,0,0,0,1,0,0,0,0,0
-TCI,Transcontinental Realty Investors,0,0,0,1,0,0,0,0,0
-TCMD,Tactile Systems Technology Inc,0,0,0,1,0,0,0,0,0
-TCO,Taubman Centers,0,0,1,0,0,0,1,0,0
-TCS,The Container Store Group Inc,0,0,0,1,0,0,0,0,0
-TCX,Tucows Inc Cl A,0,0,0,1,0,0,0,0,0
-TDC,Teradata Corp,0,0,1,0,0,0,1,0,0
-TDG,Transdigm Group Inc,0,0,1,0,0,1,0,0,0
-TDOC,Teladoc Inc,0,0,0,1,0,0,0,0,0
-TDS,Telephone and Data Systems,0,0,1,0,0,0,1,0,0
-TDY,Teledyne Technologies Inc,0,0,1,0,0,0,1,0,0
-TEAM,Atlassian Cls A Ord,0,0,1,0,0,0,0,0,0
-TECD,Tech Data Cp,0,0,0,1,0,0,1,0,0
-TECH,Bio-Techne Cp,0,0,1,0,0,0,1,0,0
-TEL,Te Connectivity Ltd,0,0,0,0,0,1,0,0,0
-TELL,Tellurian Inc. New,0,0,0,1,0,0,0,0,0
-TEN,Tenneco Automotive,0,0,0,1,0,0,0,0,0
-TER,Teradyne Inc,0,0,1,0,0,0,1,0,0
-TERP,Terraform Power Inc,0,0,0,1,0,0,0,0,0
-TESO,Tesco Corp,0,0,0,1,0,0,0,1,0
-TEX,Terex Corp,0,0,1,0,0,0,1,0,0
-TFSL,Tfs Financial Corp,0,0,1,0,0,0,0,0,0
-TFX,Teleflex Inc,0,0,1,0,0,0,1,0,0
-TG,Tredegar Corp,0,0,0,1,0,0,0,1,0
-TGH,Textainer Group Holdings,0,0,0,1,0,0,0,0,0
-TGI,Triumph Group,0,0,0,1,0,0,0,1,0
-TGNA,Tegna Inc,0,0,1,0,0,0,1,0,0
-TGT,Target Corp,0,0,1,0,1,1,0,0,0
-TGTX,Tg Therapeuticscmn,0,0,0,1,0,0,0,0,0
-THC,Tenet Healthcare Corp,0,0,0,1,0,0,1,0,0
-THFF,First Finl Corp [In],0,0,0,1,0,0,0,0,0
-THG,The Hanover Insurance Group,0,0,1,0,0,0,1,0,0
-THO,Thor Industries,0,0,1,0,0,0,1,0,0
-THR,Thermon Group Holdings Inc,0,0,0,1,0,0,0,0,0
-THRM,Gentherm Inc,0,0,0,1,0,0,0,1,0
-THS,Treehouse Foods,0,0,1,0,0,0,1,0,0
-TIER,Tier REIT,0,0,0,1,0,0,0,0,0
-TIF,Tiffany & Co,0,0,1,0,0,1,0,0,0
-TILE,Interface Inc,0,0,0,1,0,0,0,1,0
-TIME,Time Inc,0,0,0,1,0,0,0,1,0
-TIPT,Tiptree Fncl Cl A,0,0,0,1,0,0,0,0,0
-TIS,Orchids Paper Products Company,0,0,0,1,0,0,0,0,0
-TISI,Team Inc,0,0,0,1,0,0,0,1,0
-TITN,Titan Machinery Inc,0,0,0,1,0,0,0,0,0
-TIVO,Tivo Corp,0,0,0,1,0,0,0,1,0
-TJX,TJX Companies,0,0,1,0,0,1,0,0,0
-TK,Teekay Shipping Corp,0,0,0,1,0,0,0,0,0
-TKR,Timken Company,0,0,1,0,0,0,1,0,0
-TLGT,Teligent,0,0,0,1,0,0,0,0,0
-TLRD,Tailored Brands Inc,0,0,0,1,0,0,0,1,0
-TLYS,Tilly's Inc,0,0,0,1,0,0,0,0,0
-TMHC,Taylor Morrison Home Corporatio,0,0,0,1,0,0,0,0,0
-TMK,Torchmark Corp,0,0,1,0,0,1,0,0,0
-TMO,Thermo Fisher Scientific Inc,0,0,1,0,0,1,0,0,0
-TMP,Tompkinstrustco,0,0,0,1,0,0,0,1,0
-TMST,Timken Steel Corp,0,0,0,1,0,0,0,1,0
-TMUS,T-Mobile US,0,1,1,0,0,0,0,0,0
-TNAV,Telenav Inc,0,0,0,1,0,0,0,0,0
-TNC,Tennant Company,0,0,0,1,0,0,0,1,0
-TNET,Trinet Group Inc,0,0,0,1,0,0,0,0,0
-TNK,Teekay Tankers Ltd,0,0,0,1,0,0,0,0,0
-TNTR,Tintri Inc,0,0,0,1,0,0,0,0,0
-TOCA,Tocagen Inc,0,0,0,1,0,0,0,0,0
-TOL,Toll Brothers Inc,0,0,1,0,0,0,1,0,0
-TOWN,Towne Bank,0,0,0,1,0,0,0,0,0
-TOWR,Tower International,0,0,0,1,0,0,0,0,0
-TPB,Turning Point Brands,0,0,0,1,0,0,0,0,0
-TPC,Tutor Perini Corp,0,0,0,1,0,0,0,0,0
-TPH,Tri Pointe Homes Inc,0,0,0,1,0,0,1,0,0
-TPHS,Trinity Pl Hldgs Inc,0,0,0,1,0,0,0,0,0
-TPIC,Tpi Composites Inc,0,0,0,1,0,0,0,0,0
-TPR,Tapestry Inc,0,0,0,0,0,1,0,0,0
-TPRE,Third Point Reinsurance Ltd. Co,0,0,0,1,0,0,0,1,0
-TPX,Tempur-Pedic International Inc,0,0,1,0,0,0,1,0,0
-TR,Tootsie Roll Industries,0,0,0,1,0,0,1,0,0
-TRC,Tejon Ranch Company,0,0,0,1,0,0,0,0,0
-TRC-,Tejon Ranch Co Rights Offering,0,0,0,1,0,0,0,0,0
-TRCB,Two River Bncrp,0,0,0,1,0,0,0,0,0
-TRCO,Tribune Media Corp,0,0,1,0,0,0,0,0,0
-TREC,Trecora Resources,0,0,0,1,0,0,0,0,0
-TREE,Lendingtree Inc,0,0,0,1,0,0,0,1,0
-TREX,Trex Company,0,0,0,1,0,0,0,1,0
-TRGP,Targa Resources,0,0,1,0,0,0,0,0,0
-TRHC,Tabula Rasa Healthcare Inc,0,0,0,1,0,0,0,0,0
-TRIP,Tripadvisor Inc,0,0,1,0,0,1,0,0,0
-TRK,Speedway Motorsports,0,0,0,1,0,0,0,0,0
-TRMB,Trimble Navigation,0,0,1,0,0,0,1,0,0
-TRMK,Trustmark Corp,0,0,0,1,0,0,1,0,0
-TRN,Trinity Industries,0,0,1,0,0,0,1,0,0
-TRNC,Tronc Inc,0,0,0,1,0,0,0,0,0
-TRNO,Terreno Realty Corp,0,0,0,1,0,0,0,0,0
-TROW,T Rowe Price Group,0,0,1,0,0,1,0,0,0
-TROX,Tronox Inc,0,0,0,1,0,0,0,0,0
-TRS,Trimas Corp,0,0,0,1,0,0,0,0,0
-TRST,Trustco Bank Corp NY,0,0,0,1,0,0,0,1,0
-TRTN,Triton International Ltd,0,0,0,1,0,0,0,0,0
-TRTX,Tpg Re Finance Trust Inc,0,0,0,1,0,0,0,0,0
-TRU,Transunion,0,0,1,0,0,0,0,0,0
-TRUE,Truecar Inc,0,0,0,1,0,0,0,0,0
-TRUP,Trupanion Inc,0,0,0,1,0,0,0,0,0
-TRV,The Travelers Companies Inc,1,0,1,0,0,1,0,0,0
-TRVN,Trevena Inc,0,0,0,1,0,0,0,0,0
-TSBK,Timberland Bancorp,0,0,0,1,0,0,0,0,0
-TSC,Tristate Capital Hld,0,0,0,1,0,0,0,0,0
-TSCO,Tractor Supply Co,0,1,1,0,0,1,0,0,0
-TSE,Trinseo S.A.,0,0,0,1,0,0,0,0,0
-TSLA,Tesla Inc,0,1,1,0,0,0,0,0,0
-TSN,Tyson Foods,0,0,1,0,0,1,0,0,0
-TSQ,Townsquare Media Llc,0,0,0,1,0,0,0,0,0
-TSRO,Tesaro Inc,0,0,1,0,0,0,0,0,0
-TSS,Total System Services,0,0,1,0,0,1,0,0,0
-TTC,Toro Company,0,0,1,0,0,0,1,0,0
-TTD,Trade Desk Inc,0,0,0,1,0,0,0,0,0
-TTEC,Teletech Hldgs,0,0,0,1,0,0,0,1,0
-TTEK,Tetra Tech Inc,0,0,0,1,0,0,0,1,0
-TTGT,Techtarget Inc,0,0,0,1,0,0,0,0,0
-TTI,Tetra Technologies,0,0,0,1,0,0,0,1,0
-TTMI,TTM Technologies I,0,0,0,1,0,0,0,1,0
-TTPH,Tetraphase Pharmaceu,0,0,0,1,0,0,0,0,0
-TTS,Tile Shop Hldgs,0,0,0,1,0,0,0,1,0
-TTWO,Take-Two Interacti,0,0,1,0,0,0,1,0,0
-TUP,Tupperware Corp,0,0,1,0,0,0,1,0,0
-TUSK,Mammoth Energy Services Inc,0,0,0,1,0,0,0,0,0
-TVPT,Travelport Worldwide Ltd,0,0,0,1,0,0,0,0,0
-TVTY,Tivity Health,0,0,0,1,0,0,0,1,0
-TWI,Titan International,0,0,0,1,0,0,0,1,0
-TWIN,Twin Disc Inc,0,0,0,1,0,0,0,0,0
-TWLO,Twilio,0,0,0,1,0,0,0,0,0
-TWNK,Hostess Brands Inc,0,0,0,1,0,0,0,0,0
-TWO,Two Harbors Investments Corp,0,0,1,0,0,0,0,0,0
-TWOU,2U Inc,0,0,0,1,0,0,0,0,0
-TWTR,Twitter Inc,0,0,1,0,0,0,0,0,0
-TWX,Time Warner Inc,0,0,1,0,1,1,0,0,0
-TXMD,Therapeuticsmd Inc,0,0,0,1,0,0,0,0,0
-TXN,Texas Instruments,0,1,1,0,1,1,0,0,0
-TXRH,Texas Roadhouse Inc,0,0,0,1,0,0,1,0,0
-TXT,Textron Inc,0,0,1,0,0,1,0,0,0
-TYL,Tyler Technologies,0,0,1,0,0,0,1,0,0
-TYPE,Monotype Imag. Hold.,0,0,0,1,0,0,0,1,0
-UA,Under Armour Inc Class C Comm,0,0,1,0,0,1,0,0,0
-UAA,Under Armour,0,0,1,0,0,1,0,0,0
-UAL,United Continental Holdings,1,0,1,0,0,1,0,0,0
-UBA,Urstadt Biddle Properties Inc,0,0,0,1,0,0,0,1,0
-UBFO,United Security Bcsh,0,0,0,1,0,0,0,0,0
-UBNK,United Fin Bncp New,0,0,0,1,0,0,0,0,0
-UBNT,Ubiquiti Networks I,0,0,0,1,0,0,0,0,0
-UBSH,Union Bankshares Cp,0,0,0,1,0,0,0,0,0
-UBSI,United Bkshs Inc,0,0,0,1,0,0,1,0,0
-UCBI,United Comm Banks,0,0,0,1,0,0,0,1,0
-UCFC,United Community Fnl,0,0,0,1,0,0,0,0,0
-UCTT,Ultra Clean Holdings,0,0,0,1,0,0,0,0,0
-UDR,United Dominion Realty Trust,0,0,1,0,0,1,0,0,0
-UE,Urban Edge Properties,0,0,0,1,0,0,1,0,0
-UEC,Uranium Energy,0,0,0,1,0,0,0,0,0
-UEIC,Universal Elect In,0,0,0,1,0,0,0,1,0
-UFCS,United Fire Group I,0,0,0,1,0,0,0,1,0
-UFI,Unifi Inc,0,0,0,1,0,0,0,1,0
-UFPI,Universal Forest Prd,0,0,0,1,0,0,0,1,0
-UFPT,U F P Tech Inc,0,0,0,1,0,0,0,0,0
-UFS,Domtar Corp,0,0,1,0,0,0,1,0,0
-UGI,Ugi Corp,0,0,1,0,0,0,1,0,0
-UHAL,A M E R C O,0,0,1,0,0,0,0,0,0
-UHS,Universal Health Services,0,0,1,0,0,1,0,0,0
-UHT,Universal Health Realty Income Trust,0,0,0,1,0,0,0,1,0
-UIHC,United Insurance Hld,0,0,0,1,0,0,0,1,0
-UIS,Unisys Corp,0,0,0,1,0,0,0,0,0
-ULH,Universal Logis Hldg,0,0,0,1,0,0,0,0,0
-ULTA,Ulta Salon Cosmetic,0,1,1,0,0,1,0,0,0
-ULTI,Ultimate Software,0,0,1,0,0,0,1,0,0
-UMBF,Ump Financial Corp,0,0,0,1,0,0,1,0,0
-UMH,Umh Properties,0,0,0,1,0,0,0,0,0
-UMPQ,Umpqua Holdings Corp,0,0,0,1,0,0,1,0,0
-UNB,Union Bankshares Inc,0,0,0,1,0,0,0,0,0
-UNF,Unifirst Corp,0,0,0,1,0,0,0,1,0
-UNFI,United Nat Foods I,0,0,0,1,0,0,1,0,0
-UNH,Unitedhealth Group Inc,1,0,1,0,1,1,0,0,0
-UNIT,Uniti Group Inc,0,0,1,0,0,0,1,0,0
-UNM,Unumprovident Corp,0,0,1,0,0,1,0,0,0
-UNP,Union Pacific Corp,1,0,1,0,1,1,0,0,0
-UNT,Unit Corp,0,0,0,1,0,0,0,1,0
-UNTY,Unity Bancorp Inc,0,0,0,1,0,0,0,0,0
-UNVR,Univar Inc,0,0,1,0,0,0,0,0,0
-UPL,Ultra Petroleum Corp.,0,0,0,1,0,0,0,0,0
-UPLD,Upland Software Inc,0,0,0,1,0,0,0,0,0
-UPS,United Parcel Service,1,0,1,0,1,1,0,0,0
-URBN,Urban Outfitters Inc,0,0,1,0,0,0,1,0,0
-URI,United Rentals,0,0,1,0,0,1,0,0,0
-USAT,USA Technologies Inc,0,0,0,1,0,0,0,0,0
-USB,U.S. Bancorp,0,0,1,0,1,1,0,0,0
-USCR,U S Concrete Inc,0,0,0,1,0,0,0,1,0
-USD,Ultra Semiconductors Proshares,0,0,1,1,0,0,0,0,0
-USFD,US Foods Holding,0,0,1,0,0,0,0,0,0
-USG,USG Corp,0,0,1,0,0,0,0,0,0
-USLM,U S Lime & Mineral,0,0,0,1,0,0,0,0,0
-USM,United States Cellular Corp,0,0,1,0,0,0,0,0,0
-USNA,Usana Health Sciences Inc,0,0,0,1,0,0,0,0,0
-USPH,U.S. Physical Therapy,0,0,0,1,0,0,0,1,0
-UTHR,United Therapeutic,0,0,1,0,0,0,1,0,0
-UTL,Unitil Corp,0,0,0,1,0,0,0,0,0
-UTMD,Utah Medical Prod,0,0,0,1,0,0,0,0,0
-UTX,United Technologies Corp,1,0,1,0,1,1,0,0,0
-UVE,Universal Insurance Holdings Inc,0,0,0,1,0,0,0,1,0
-UVSP,Univest Corp of Penn,0,0,0,1,0,0,0,0,0
-UVV,Universal Corp,0,0,0,1,0,0,0,1,0
-V,Visa Inc,1,0,1,0,1,1,0,0,0
-VAC,Marriot Vacations Worldwide Cor,0,0,0,1,0,0,0,1,0
-VALU,Value Line Inc,0,0,0,1,0,0,0,0,0
-VAR,Varian Medical Systems,0,0,1,0,0,1,0,0,0
-VBIV,Vbi Vaccines Inc CS,0,0,0,1,0,0,0,0,0
-VBTX,Veritex Holdings,0,0,0,1,0,0,0,0,0
-VC,Visteon Corp,0,0,1,0,0,0,0,0,0
-VCRA,Vocera Communications Inc,0,0,0,1,0,0,0,0,0
-VCYT,Veracyte Inc,0,0,0,1,0,0,0,0,0
-VDSI,Vasco Data Security,0,0,0,1,0,0,0,1,0
-VEC,Vectrus Inc,0,0,0,1,0,0,0,0,0
-VECO,Veeco Instrument,0,0,0,1,0,0,0,1,0
-VEEV,Veeva Systems Inc,0,0,1,0,0,0,0,0,0
-VER,Vereit Inc,0,0,1,0,0,0,0,0,0
-VERI,Veritone Inc,0,0,0,1,0,0,0,0,0
-VFC,V.F. Corp,0,0,1,0,0,1,0,0,0
-VG,Vonage Holdings,0,0,0,1,0,0,0,1,0
-VGR,Vector Group Ltd,0,0,0,1,0,0,0,0,0
-VHC,Virnetx Holding Corp,0,0,0,1,0,0,0,0,0
-VHI,Valhi Inc,0,0,0,1,0,0,0,0,0
-VIA,Viacom Inc Cl A,0,0,1,0,0,0,0,0,0
-VIAB,Viacom Inc Cl B,0,1,1,0,0,1,0,0,0
-VIAV,Viavi Solutions,0,0,0,1,0,0,0,1,0
-VICR,Vicor Cp,0,0,0,1,0,0,0,1,0
-VIRT,Virtu Financial Cm A,0,0,0,1,0,0,0,0,0
-VIVE,Viveve Medical,0,0,0,1,0,0,0,0,0
-VIVO,Meridian Bioscience,0,0,0,1,0,0,0,1,0
-VLGEA,Village Super Mkt,0,0,0,1,0,0,0,0,0
-VLO,Valero Energy Corp,0,0,1,0,0,1,0,0,0
-VLY,Valley National Bancorp,0,0,0,1,0,0,1,0,0
-VMC,Vulcan Materials Company,0,0,1,0,0,1,0,0,0
-VMI,Valmont Industries,0,0,1,0,0,0,1,0,0
-VMW,Vmware Inc,0,0,1,0,0,0,0,0,0
-VNDA,Vanda Pharmaceutical,0,0,0,1,0,0,0,0,0
-VNO,Vornado Realty Trust,0,0,1,0,0,1,0,0,0
-VNTV,Vantiv Inc,0,0,1,0,0,0,0,0,0
-VOD,Vodafone Grp Plc Ads,0,1,0,0,0,0,0,0,0
-VOXX,Voxx Intl Corp,0,0,0,1,0,0,0,0,0
-VOYA,VOYA Financial Inc,0,0,1,0,0,0,0,0,0
-VPG,Vishay Precision Group,0,0,0,1,0,0,0,0,0
-VR,Validus Holdings,0,0,1,0,0,0,0,0,0
-VRA,Vera Bradley,0,0,0,1,0,0,0,1,0
-VRAY,Viewray Inc Cm ST,0,0,0,1,0,0,0,0,0
-VREX,Varex Imaging Corp,0,0,0,1,0,0,0,1,0
-VRNS,Varonis Systems Inc,0,0,0,1,0,0,0,0,0
-VRNT,Verint Systems Inc,0,0,0,1,0,0,0,0,0
-VRS,Verso Corp,0,0,0,1,0,0,0,0,0
-VRSK,Verisk Analytics Inc,0,1,1,0,0,1,0,0,0
-VRSN,Verisign Inc,0,0,1,0,0,1,0,0,0
-VRTS,Virtus Inv Prts,0,0,0,1,0,0,0,1,0
-VRTU,Virtusa Corp,0,0,0,1,0,0,0,1,0
-VRTV,Veritiv Corp,0,0,0,1,0,0,0,1,0
-VRTX,Vertex Pharmaceutic,0,1,1,0,0,1,0,0,0
-VSAR,Versartis Inc,0,0,0,1,0,0,0,0,0
-VSAT,Viasat Inc,0,0,0,1,0,0,1,0,0
-VSEC,V S E Cp,0,0,0,1,0,0,0,0,0
-VSH,Vishay Intertechnology,0,0,0,1,0,0,1,0,0
-VSI,Vitamin Shoppe Inc,0,0,0,1,0,0,0,1,0
-VSLR,Vivint Solar Inc,0,0,0,1,0,0,0,0,0
-VSM,Versum Materials Inc,0,0,1,0,0,0,1,0,0
-VST,Vistra Energy Corp.,0,0,1,0,0,0,0,0,0
-VSTO,Vista Outdoor Inc,0,0,0,1,0,0,0,1,0
-VTR,Ventas Inc,0,0,1,0,0,1,0,0,0
-VTVT,Vtv Theraptcs Cl A,0,0,0,1,0,0,0,0,0
-VVC,Vectren Corp,0,0,1,0,0,0,1,0,0
-VVI,Viad Corp,0,0,0,1,0,0,0,1,0
-VVV,Valvoline Inc,0,0,1,0,0,0,1,0,0
-VWR,Vwr Corp,0,0,1,0,0,0,0,0,0
-VYGR,Voyager Therapeut,0,0,0,1,0,0,0,0,0
-VZ,Verizon Communications Inc,1,0,1,0,1,1,0,0,0
-W,Wayfair Inc,0,0,1,0,0,0,0,0,0
-WAAS,Aquaventure Holdings Ltd,0,0,0,1,0,0,0,0,0
-WAB,Wabtec Corp,0,0,1,0,0,0,1,0,0
-WABC,Westamerica Bancorp,0,0,0,1,0,0,0,1,0
-WAFD,Washington Federal,0,0,0,1,0,0,1,0,0
-WAGE,Wageworks Inc,0,0,0,1,0,0,0,1,0
-WAIR,Wesco Aircraft Holdings Inc,0,0,0,1,0,0,0,0,0
-WAL,Western Alliance Bancorporation,0,0,1,0,0,0,0,0,0
-WASH,Washington TR Bncorp,0,0,0,1,0,0,0,0,0
-WAT,Waters Corp,0,0,1,0,0,1,0,0,0
-WATT,Energous Corp,0,0,0,1,0,0,0,0,0
-WBA,Walgreens Boots Alliance,0,1,1,0,1,1,0,0,0
-WBC,Wabco Holdings Inc,0,0,1,0,0,0,0,0,0
-WBS,Webster Financial Corp,0,0,1,0,0,0,1,0,0
-WBT,Welbilt Inc,0,0,1,0,0,0,0,0,0
-WCC,Wesco International,0,0,1,0,0,0,0,0,0
-WCG,Wellcare Group,0,0,1,0,0,0,1,0,0
-WD,Walker & Dunlop,0,0,0,1,0,0,0,1,0
-WDAY,Workday Inc,0,0,1,0,0,0,0,0,0
-WDC,Western Digital Cp,0,1,1,0,0,1,0,0,0
-WDFC,W D 40 Co,0,0,0,1,0,0,0,1,0
-WDR,Waddell & Reed Financial,0,0,0,1,0,0,0,1,0
-WEB,Web.Com Group Inc,0,0,0,1,0,0,0,0,0
-WEC,Wisconsin Energy Corp,0,0,1,0,0,1,0,0,0
-WEN,Wendys Company,0,0,1,0,0,0,1,0,0
-WERN,Werner Enterprise,0,0,0,1,0,0,1,0,0
-WETF,Wisdomtree Invstmnts,0,0,0,1,0,0,0,1,0
-WEX,Wex Inc,0,0,1,0,0,0,1,0,0
-WEYS,Weyco Gp Inc,0,0,0,1,0,0,0,0,0
-WFBI,Washingtonfirst Bk,0,0,0,1,0,0,0,0,0
-WFC,Wells Fargo & Company,0,0,1,0,1,1,0,0,0
-WFT,Weatherford International Ltd,0,0,1,0,0,0,0,0,0
-WG,Willbros Group,0,0,0,1,0,0,0,0,0
-WGL,WGL Holdings Inc,0,0,0,1,0,0,1,0,0
-WGO,Winnebago Industries,0,0,0,1,0,0,0,1,0
-WHG,Westwood Holdings Group Inc,0,0,0,1,0,0,0,0,0
-WHR,Whirlpool Corp,0,0,1,0,0,1,0,0,0
-WIFI,Boingo Wireless Inc,0,0,0,1,0,0,0,0,0
-WIN,Windstream Hldgs Inc,0,0,0,1,0,0,0,0,0
-WINA,Winmark Corp,0,0,0,1,0,0,0,0,0
-WING,Wingstop Inc,0,0,0,1,0,0,0,1,0
-WIRE,Encore Wire Cp,0,0,0,1,0,0,0,1,0
-WK,Workiva Llc,0,0,0,1,0,0,0,0,0
-WLB,Westmoreland Coal,0,0,0,1,0,0,0,0,0
-WLDN,Willdan Group Inc,0,0,0,1,0,0,0,0,0
-WLFC,Willis Lease Fin C,0,0,0,1,0,0,0,0,0
-WLH,William Lyon Homes,0,0,0,1,0,0,0,1,0
-WLK,Westlake Chemical Corp,0,0,1,0,0,0,0,0,0
-WLL,Whiting Petroleum Corp,0,0,1,0,0,0,0,0,0
-WLTW,Willis Towers Wts,0,0,1,0,0,1,0,0,0
-WM,Waste Management,0,0,1,0,0,1,0,0,0
-WMB,Williams Companies,0,0,1,0,0,1,0,0,0
-WMC,Western Asset Mortgage Capital,0,0,0,1,0,0,0,0,0
-WMGI,Wright Med Grp Nv,0,0,0,1,0,0,0,0,0
-WMIH,Wmih Corp.,0,0,0,1,0,0,0,0,0
-WMK,Weis Markets,0,0,0,1,0,0,0,0,0
-WMS,Advanced Drainage Systems Inc,0,0,0,1,0,0,0,0,0
-WMT,Wal-Mart Stores,1,0,1,0,1,1,0,0,0
-WNC,Wabash National Corp,0,0,0,1,0,0,0,1,0
-WNEB,Western New England Bancorp Inc,0,0,0,1,0,0,0,0,0
-WOR,Worthington Industries,0,0,0,1,0,0,1,0,0
-WOW,Wideopenwest Inc,0,0,0,1,0,0,0,0,0
-WPC,W.P. Carey & Co. Llc,0,0,1,0,0,0,0,0,0
-WPG,Washington Prime Group Inc,0,0,0,1,0,0,1,0,0
-WPX,Wpx Energy Inc,0,0,1,0,0,0,1,0,0
-WR,Westar Energy,0,0,1,0,0,0,1,0,0
-WRB,W.R. Berkley Corp,0,0,1,0,0,0,1,0,0
-WRD,Wildhorse Resour,0,0,0,1,0,0,0,0,0
-WRE,Washington Real Estate Investment,0,0,0,1,0,0,0,0,0
-WRI,Weingarten Realty Investors,0,0,1,0,0,0,1,0,0
-WRK,Westrock Company,0,0,1,0,0,1,0,0,0
-WRLD,World Acceptance Cp,0,0,0,1,0,0,0,1,0
-WSBC,Wesbanco Inc,0,0,0,1,0,0,0,0,0
-WSBF,Waterstone Financial,0,0,0,1,0,0,0,0,0
-WSFS,WSFS Financial Corp,0,0,0,1,0,0,0,0,0
-WSM,Williams-Sonoma,0,0,1,0,0,0,1,0,0
-WSO,Watsco Inc,0,0,1,0,0,0,1,0,0
-WSR,Whitestone REIT,0,0,0,1,0,0,0,1,0
-WST,West Pharmaceutical Services,0,0,1,0,0,0,1,0,0
-WTBA,West Bancorporation,0,0,0,1,0,0,0,0,0
-WTFC,Wintrust Finl Corp,0,0,0,1,0,0,1,0,0
-WTI,W&T Offshore,0,0,0,1,0,0,0,0,0
-WTM,White Mountains Insurance Group,0,0,1,0,0,0,0,0,0
-WTR,Aqua America,0,0,1,0,0,0,1,0,0
-WTS,Watts Water Technologies,0,0,0,1,0,0,0,1,0
-WTTR,Select Energy Services Inc,0,0,0,1,0,0,0,0,0
-WTW,Weight Watchers International Inc,0,0,0,1,0,0,0,0,0
-WU,Western Union Company,0,0,1,0,0,1,0,0,0
-WVE,Wave Life Sci Ord Sh,0,0,0,1,0,0,0,0,0
-WWD,Woodward Inc,0,0,0,1,0,0,1,0,0
-WWE,World Wrestling Entertainment,0,0,0,1,0,0,0,1,0
-WWW,Wolverine World Wide,0,0,0,1,0,0,0,1,0
-WY,Weyerhaeuser Company,0,0,1,0,0,1,0,0,0
-WYN,Wyndham Worldwide Corp,0,0,1,0,0,1,0,0,0
-WYNN,Wynn Resorts Ltd,0,1,1,0,0,1,0,0,0
-X,United States Steel Corp,0,0,1,0,0,0,1,0,0
-XBIT,Xbiotech Inc,0,0,0,1,0,0,0,0,0
-XBKS,Xenith Bankshares Inc New,0,0,0,1,0,0,0,0,0
-XCRA,Xcerra Corp,0,0,0,1,0,0,0,0,0
-XEC,Cimarex Energy Co,0,0,1,0,0,1,0,0,0
-XEL,XCEL Energy Inc,0,0,1,0,0,1,0,0,0
-XENT,Intersect Ent,0,0,0,1,0,0,0,0,0
-XHR,Xenia Hotels & Resorts Inc,0,0,0,1,0,0,0,0,0
-XL,XL Company Switzerland Gmbh,0,0,1,0,0,1,0,0,0
-XLNX,Xilinx Inc,0,1,1,0,0,1,0,0,0
-XLRN,Acceleron Pharma,0,0,0,1,0,0,0,0,0
-XNCR,Xencor Inc,0,0,0,1,0,0,0,0,0
-XOG,Extraction Oil & Gas Inc,0,0,1,0,0,0,0,0,0
-XOM,Exxon Mobil Corp,1,0,1,0,1,1,0,0,0
-XON,Intrexon Corp,0,0,1,0,0,0,0,0,0
-XONE,The Exone Company,0,0,0,1,0,0,0,0,0
-XOXO,Xoxo Group Inc,0,0,0,1,0,0,0,1,0
-XPER,Xperi Corp,0,0,0,1,0,0,0,1,0
-XPO,Express-1 Expedited Solutions,0,0,1,0,0,0,0,0,0
-XRAY,Dentsply Sirona Inc,0,1,1,0,0,1,0,0,0
-XRX,Xerox Corp,0,0,1,0,0,1,0,0,0
-XYL,Xylem Inc,0,0,1,0,0,1,0,0,0
-Y,Alleghany Corp,0,0,1,0,0,0,1,0,0
-YELP,Yelp Inc,0,0,0,1,0,0,0,0,0
-YEXT,Yext Inc,0,0,0,1,0,0,0,0,0
-YORW,York Water Co,0,0,0,1,0,0,0,0,0
-YRCW,YRC Worldwide,0,0,0,1,0,0,0,0,0
-YUM,Yum! Brands,0,0,1,0,0,1,0,0,0
-YUMC,Yum China Holdings Inc,0,0,1,0,0,0,0,0,0
-Z,Zillow Group Cl C,0,0,1,0,0,0,0,0,0
-ZAGG,Zagg Inc,0,0,0,1,0,0,0,0,0
-ZAYO,Zayo Group Holdings Inc,0,0,1,0,0,0,0,0,0
-ZBH,Zimmer Biomet Holdings,0,0,1,0,0,1,0,0,0
-ZBRA,Zebra Technologies,0,0,1,0,0,0,1,0,0
-ZEN,Zendesk Inc,0,0,0,1,0,0,0,0,0
-ZEUS,Olympic Steel Inc,0,0,0,1,0,0,0,1,0
-ZG,Zillow Grp Inc Cl A,0,0,1,0,0,0,0,0,0
-ZGNX,Zogenix Inc,0,0,0,1,0,0,0,0,0
-ZION,Zions Bancorporation,0,0,1,0,0,1,0,0,0
-ZIOP,Ziopharm Oncology In,0,0,0,1,0,0,0,0,0
-ZIXI,Zix Corp,0,0,0,1,0,0,0,0,0
-ZNGA,Zynga Inc Cl A,0,0,1,0,0,0,0,0,0
-ZOES,Zoe's Kitchen Inc,0,0,0,1,0,0,0,0,0
-ZTS,Zoetis Inc Class A,0,0,1,0,0,1,0,0,0
-ZUMZ,Zumiez Inc,0,0,0,1,0,0,0,1,0
-ZYNE,Zynerba Pharma CS,0,0,0,1,0,0,0,0,0
+Symbol,Name,WatchList,DowComposite,NasdaqComposite,Russel1K,S&P500,S&P400
+A,Agilent Technologies,,,,1.0,1.0,
+AAL,American Airlines Gp,,1.0,1.0,1.0,1.0,
+AAON,Aaon Inc,,,1.0,,,
+AAP,Advance Auto Parts Inc,,,,1.0,1.0,
+AAPL,Apple Inc,,1.0,1.0,1.0,1.0,
+AAWW,Atlas Air Ww,,,1.0,,,
+AAXN,Axon Inc,,,1.0,1.0,,1.0
+ABBV,Abbvie Inc,,,,1.0,1.0,
+ABC,Amerisourcebergen Corp,,,,1.0,1.0,
+ABCB,Ameris Bancorp,,,1.0,,,
+ABMD,Abiomed Inc,,,1.0,1.0,1.0,
+ABNB,Airbnb Inc,1.0,,,,,
+ABT,Abbott Laboratories,,,,1.0,1.0,
+ACAD,Acadia Pharmaceutica,,,1.0,1.0,,
+ACC,American Campus Communities Inc,,,,1.0,,1.0
+ACCD,Accolade Inc,,,1.0,,,
+ACET,Adicet Bio Inc,,,1.0,,,
+ACGL,Arch Capital Grp Ltd,,,1.0,1.0,,
+ACHC,Acadia Healthcr Company,,,1.0,1.0,,1.0
+ACI,Albertsons Companies Inc Cl A,,,,1.0,,
+ACIA,Acacia Communica,,,1.0,,,
+ACIW,Aci Worldwide Inc,,,1.0,,,1.0
+ACM,Aecom Technology Corp,,,,1.0,,1.0
+ACMR,Acm Research Inc,,,1.0,,,
+ACN,Accenture Plc,,,,1.0,1.0,
+ACRS,Aclaris Therapts,,,1.0,,,
+ACRX,Acelrx Pharmaceutica,,,1.0,,,
+ADBE,Adobe Systems Inc,,,1.0,1.0,1.0,
+ADI,Analog Devices,,,1.0,1.0,1.0,
+ADM,Archer Daniels Midland,,,,1.0,1.0,
+ADNT,Adient Plc,,,,,,1.0
+ADP,Automatic Data Procs,,,1.0,1.0,1.0,
+ADPT,Adaptive Biotechnologies Corp,,,1.0,1.0,,
+ADS,Alliance Data Systems Corp,,,,1.0,,1.0
+ADSK,Autodesk Inc,,,1.0,1.0,1.0,
+ADT,ADT Inc,,,,1.0,,
+ADUS,Addus Homecare Corp,,,1.0,,,
+ADVM,Adverum Biotechnlgs,,,1.0,,,
+AEE,Ameren Corp,,,,1.0,1.0,
+AEGN,Aegion Corp,,,1.0,,,
+AEIS,Advanced Energy,,,1.0,,,
+AEO,American Eagle Outfitters,,,,,,1.0
+AEP,American Electric Power Company,,1.0,1.0,1.0,1.0,
+AES,The Aes Corp,,1.0,,1.0,1.0,
+AFG,American Financial Group,,,,1.0,,1.0
+AFIN,American Finance Trust Inc Cl A,,,1.0,,,
+AFL,Aflac Inc,,,,1.0,1.0,
+AFYA,Afya Ltd Cl A,,,1.0,,,
+AGCO,Agco Corp,,,,1.0,,1.0
+AGFS,Agrofresh Solutions,,,1.0,,,
+AGIO,Agios Pharmaceuticals,,,1.0,1.0,,
+AGNC,American Capital Age,,,1.0,1.0,,
+AGO,Assured Guaranty Ltd,,,,1.0,,
+AGR,Avangrid Inc,,,,1.0,,
+AHCO,Adapthealth Corp Cl. A,,,1.0,,,
+AI,C3.ai Inc,1.0,,,,,
+AIG,American International Group,,,,1.0,1.0,
+AIMC,Altra Indtl Mtn,,,1.0,,,
+AIV,Apartment Investment and Management,,,,1.0,,
+AIZ,Assurant Inc,,,,1.0,1.0,
+AJG,Arthur J. Gallagher & Company,,,,1.0,1.0,
+AKAM,Akamai Technologies,,,1.0,1.0,1.0,
+AKRO,Akero Therapeutics Inc,,,1.0,,,
+AL,Air Lease Corp Cl A,,,,1.0,,
+ALB,Albemarle Corp,,,,1.0,1.0,
+ALE,Allete Inc,,,,,,1.0
+ALEC,Alector Inc,,,1.0,,,
+ALGM,Allegro Microsystems Inc,,,1.0,,,
+ALGN,Align Technology,,,1.0,1.0,1.0,
+ALGT,Allegiant Travel Com,,,1.0,,,
+ALK,Alaska Air Group,,1.0,,1.0,1.0,
+ALKS,Alkermes Plc,,,1.0,1.0,,
+ALL,Allstate Corp,,,,1.0,1.0,
+ALLE,Allegion Plc,,,,1.0,1.0,
+ALLK,Allakos Inc,,,1.0,,,
+ALLO,Allogene Therapeutics Inc,,,1.0,,,
+ALLY,Ally Financial,,,,1.0,,
+ALNY,Alnylam Pharmaceuticals,,,1.0,1.0,,
+ALRM,Alarm.com,,,1.0,,,
+ALRN,Aileron Therapeutics Inc,,,1.0,,,
+ALSN,Allison Transmission Holdings,,,,1.0,,
+ALTA,Altabancorp,,,1.0,,,
+ALTM,Altus Midstream Company,,,1.0,,,
+ALTR,Altair Engineering Inc Cl A,,,1.0,,,
+ALVR,Allovir Inc,,,1.0,,,
+ALXN,Alexion Pharm Inc,,,1.0,1.0,1.0,
+ALXO,Alx Oncology Holdings Inc,,,1.0,,,
+AM,Antero Midstream Corp,,,,1.0,,1.0
+AMAT,Applied Materials,,,1.0,1.0,1.0,
+AMBA,Ambarella Inc,,,1.0,,,
+AMCR,Amcor Plc,,,,1.0,1.0,
+AMCX,Amc Networks Cl A,,,,,,1.0
+AMD,Adv Micro Devices,,,1.0,1.0,1.0,
+AME,Amtek Inc,,,,1.0,1.0,
+AMED,Amedisys Inc,,,1.0,1.0,,1.0
+AMG,Affiliated Managers Group,,,,1.0,,1.0
+AMGN,Amgen Inc,,1.0,1.0,1.0,1.0,
+AMH,American Homes 4 Rent,,,,1.0,,
+AMKR,Amkor Technology,,,1.0,,,
+AMP,Ameriprise Financial Services,,,,1.0,1.0,
+AMPH,Amphastar Pharma,,,1.0,,,
+AMRN,Amarin Corp Ads,,,1.0,,,
+AMRS,Amyris Inc,1.0,,,,,
+AMSF,Amerisafe Inc,,,1.0,,,
+AMT,American Tower Corp,,,,1.0,1.0,
+AMTI,Applied Molecular Transport Inc,,,1.0,,,
+AMWD,Amer Woodmark Cp,,,1.0,,,
+AMZN,Amazon.com Inc,,,1.0,1.0,1.0,
+AN,Autonation Inc,,,,1.0,,1.0
+ANAT,Amer Natl Insurance,,,1.0,1.0,,
+ANET,Arista Networks Inc,,,,1.0,1.0,
+ANSS,Ansys Inc,,,1.0,1.0,1.0,
+ANTM,Anthem Inc,,,,1.0,1.0,
+AON,AON Plc,,,,1.0,1.0,
+AOS,Smith A.O. Corp,,,,1.0,1.0,
+APA,Apache Corp,,,1.0,1.0,1.0,
+APD,Air Products and Chemicals,,,,1.0,1.0,
+APH,Amphenol Corp,,,,1.0,1.0,
+APHA,Aphria Inc,,,1.0,,,
+APLE,Apple Hospitality REIT Inc,,,,1.0,,
+APLS,Apellis Pharmaceuticals Inc,,,1.0,,,
+APO,Apollo Global Management Llc C,,,,1.0,,
+APPF,Appfolio Cl A,,,1.0,,,
+APPN,Appian Corp Cl A,,,1.0,,,
+APPS,Digital Turbine,,,1.0,,,
+APTV,Aptiv Plc,,,,1.0,1.0,
+ARCB,Arcbest Corp,,,1.0,,,
+ARCE,Arco Platform Ltd Cl A,,,1.0,,,
+ARCT,Arcturus Therapeutics Ltd,,,1.0,,,
+ARD,Ardagh Group S.A.,,,,1.0,,
+ARE,Alexandria Real Estate Equities,,,,1.0,1.0,
+ARES,Ares Management LP,,,,1.0,,
+ARGX,Argenx Se Ads,,,1.0,,,
+ARLP,Alliance Resource Pt,,,1.0,,,
+ARMK,Aramark Holdings Corp,,,,1.0,,
+ARNA,Arena Pharmaceuticals,,,1.0,,,
+ARRY,Array Technologies Inc,,,1.0,,,
+ARVN,Arvinas Inc,,,1.0,,,
+ARW,Arrow Electronics,,,,1.0,,1.0
+ARWR,Arrowhead Pharma,,,1.0,,,1.0
+ASB,Associated Banc-Corp,,,,1.0,,1.0
+ASGN,On Assignment,,,,,,1.0
+ASH,Ashland Global Holdings Inc,,,,1.0,,1.0
+ASML,Asml Hld NY Reg,,,1.0,,,
+ASND,Ascendis Pharma Ads,,,1.0,,,
+ASRT,Assertio Therapeutics Inc,,,1.0,,,
+ASTE,Astec Inds Inc,,,1.0,,,
+ATGE,Adtalem Global Education Inc,,,,,,1.0
+ATH,Athene Holding Ltd,,,,1.0,,
+ATNI,Atn International,,,1.0,,,
+ATNX,Athenex Inc,,,1.0,,,
+ATO,Atmos Energy Corp,,,,1.0,1.0,
+ATR,Aptargroup,,,,1.0,,1.0
+ATRA,Atara Biotherap,,,1.0,,,
+ATRC,Atricure Inc,,,1.0,,,
+ATRI,Atrion Corp,,,1.0,,,
+ATSG,Air Transport,,,1.0,,,
+ATUS,Altice USA Inc Cl A,,,,1.0,,
+ATVI,Activision Blizzard,,,1.0,1.0,1.0,
+AUB,Atlantic Union Bancshares Corp,,,1.0,,,
+AUPH,Aurinia Pharm Ord,,,1.0,,,
+AVAV,Aerovironment Inc,,,1.0,,,
+AVB,Avalonbay Communities,,,,1.0,1.0,
+AVGO,Broadcom Ltd,,,1.0,1.0,1.0,
+AVIR,Atea Pharmaceuticals Inc,,,1.0,,,
+AVLR,Avalara Inc,,,,1.0,,
+AVNS,Avanos Medical Inc,,,,,,1.0
+AVNT,Avient Corp,,,,,,1.0
+AVRO,Avrobio Inc,,,1.0,,,
+AVT,Avnet Inc,,,1.0,1.0,,1.0
+AVTR,Avantor Inc,,,,1.0,,
+AVY,Avery Dennison Corp,,,,1.0,1.0,
+AWI,Armstrong World Industries Inc,,,,1.0,,
+AWK,American Water Works,,1.0,,1.0,1.0,
+AXNX,Axonics Modulation Technologies Inc,,,1.0,,,
+AXP,American Express Company,,1.0,,1.0,1.0,
+AXS,Axis Capital Holdings,,,,1.0,,
+AXSM,Axsome Thera,,,1.0,,,
+AXTA,Axalta Coating Systems Ltd,,,,1.0,,
+AY,Atlantica Yield Plc,,,1.0,,,
+AYI,Acuity Brands Inc,,,,1.0,,1.0
+AYX,Alteryx Inc,,,,1.0,,
+AZEK,The Azek Company Inc Cl A,,,,1.0,,
+AZN,Astrazeneca Plc,,,1.0,,,
+AZO,Autozone,,,,1.0,1.0,
+AZPN,Aspen Technology,,,1.0,1.0,,
+BA,Boeing Company,,1.0,,1.0,1.0,
+BABA,Alibaba Group Holding Limited,1.0,,,,,
+BAC,Bank of America Corp,,,,1.0,1.0,
+BAH,Booz Allen Hamilton Holding Corp,,,,1.0,,
+BAND,Bandwidth Inc,,,1.0,,,
+BANF,Bancfirst Corp,,,1.0,,,
+BANR,Banner Corp,,,1.0,,,
+BATRK,Liberty Braves CS C,,,1.0,,,
+BAX,Baxter International Inc,,,,1.0,1.0,
+BBBY,Bed Bath & Beyond,,,1.0,,,
+BBIO,Bridgebio Pharma Inc,,,1.0,,,
+BBY,Best Buy Company,,,,1.0,1.0,
+BC,Brunswick Corp,,,,1.0,,1.0
+BCO,Brink's Company,,,,,,1.0
+BCPC,Balchem Cp,,,1.0,,,
+BDC,Belden Inc,,,,,,1.0
+BDGE,Bridge Bancorp Inc,,,1.0,,,
+BDN,Brandywine Realty Trust,,,,1.0,,
+BDTX,Black Diamond Therapeutics Inc,,,1.0,,,
+BDX,Becton Dickinson and Company,,,,1.0,1.0,
+BEAM,Beam Therapeutics Inc,,,1.0,,,
+BEAT,Biotelemetry Inc,,,1.0,,,
+BECN,Beacon Roofing Suppl,,,1.0,,,
+BEN,Franklin Resources,,,,1.0,1.0,
+BERY,Berry Global Group,,,,1.0,,
+BF.A,Brown Forman Inc Cl A,,,,1.0,,
+BF.B,Brown Forman Inc Cl B,,,,1.0,1.0,
+BFAM,Bright Horizons Family Solutions Inc,,,,1.0,,
+BG,Bunge Ltd,,,,1.0,,
+BGNE,Beigene Ltd Ads,,,1.0,,,
+BHF,Brighthouse Financial Inc,,,1.0,1.0,,1.0
+BIDU,Baidu Inc,,,1.0,,,
+BIGC,Bigcommerce Holdings Inc,,,1.0,1.0,,
+BIIB,Biogen Inc,,,1.0,1.0,1.0,
+BILI,Bilibili Inc ADR,,,1.0,,,
+BILL,Bill.com Holdings Inc,,,,1.0,,
+BIO,Bio-Rad Laboratories,,,,1.0,1.0,
+BJ,Bj's Wholesale Club Holdings Inc,,,,,,1.0
+BK,Bank of New York Mellon Corp,,,,1.0,1.0,
+BKEP,Blueknight Energy LP,,,1.0,,,
+BKH,Black Hills Corp,,,,,,1.0
+BKI,Black Knight Inc,,,,1.0,,
+BKNG,Booking Holdings Inc,,,1.0,1.0,1.0,
+BKR,Baker Hughes A Ge CO Cl A,,,,1.0,1.0,
+BL,Blackline Inc,,,1.0,,,
+BLCM,Bellicum Pharma Comm,,,1.0,,,
+BLD,Topbuild Corp,,,,,,1.0
+BLDP,Ballard Power Sys,,,1.0,,,
+BLDR,Builders Firstsource,,,1.0,,,1.0
+BLI,Berkeley Lights Inc,,,1.0,1.0,,
+BLK,Blackrock,,,,1.0,1.0,
+BLKB,Blackbaud Inc,,,1.0,,,1.0
+BLL,Ball Corp,,,,1.0,1.0,
+BLMN,Bloomin' Brands Inc,,,1.0,,,
+BLUE,Bluebird Bio,,,1.0,1.0,,
+BMCH,Bmc Stock Holdings,,,1.0,,,
+BMRN,Biomarin Pharmaceuticals,,,1.0,1.0,,
+BMY,Bristol-Myers Squibb Company,,,,1.0,1.0,
+BNTX,Biontech Se ADR,,,1.0,,,
+BOH,Bank of Hawaii Corp,,,,1.0,,1.0
+BOKF,Bok Financial Corp,,,1.0,1.0,,
+BPFH,Boston Pvt Finl Hld,,,1.0,,,
+BPMC,Blueprint Medicines Corp,,,1.0,,,
+BPOP,Popular Inc,,,1.0,1.0,,
+BPY,Brookfield Property Partners L,,,1.0,,,
+BPYU,Brookfield Property REIT Inc,,,,1.0,,
+BR,Broadridge Financial Solutions Llc,,,,1.0,1.0,
+BRID,Bridgford Foods Cp,,,1.0,,,
+BRK.B,Berkshire Hathaway Cl B,,,,1.0,1.0,
+BRKL,Brookline Bancorp,,,1.0,,,
+BRKR,Bruker Corp,,,1.0,1.0,,
+BRKS,Brooks Automation,,,1.0,,,
+BRO,Brown & Brown,,,,1.0,,1.0
+BRX,Brixmor Property Group Inc,,,,1.0,,1.0
+BSX,Boston Scientific Corp,,,,1.0,1.0,
+BSY,Bentley Systems Incorporated Cl B,,,1.0,,,
+BTAI,Bioxcel Therapeutics Inc,,,1.0,,,
+BURL,Burlington Stores Inc,,,,1.0,,
+BUSE,First Busey Corp,,,1.0,,,
+BWA,Borgwarner Inc,,,,1.0,1.0,
+BWXT,Bwx Technologies Inc,,,,1.0,,
+BXP,Boston Properties,,,,1.0,1.0,
+BXS,Bancorpsouth Inc,,,,,,1.0
+BYD,Boyd Gaming Corp,,,,,,1.0
+BYND,Beyond Meat Inc,,,1.0,1.0,,
+BZUN,Baozun Inc Ads,,,1.0,,,
+C,Citigroup Inc,,,,1.0,1.0,
+CABO,Cable One Inc,,,,1.0,,1.0
+CAC,Camden Natl Cp,,,1.0,,,
+CACC,Credit Acceptance,,,1.0,1.0,,
+CACI,Caci International,,,,1.0,,1.0
+CAG,Conagra Brands Inc,,,,1.0,1.0,
+CAH,Cardinal Health,,,,1.0,1.0,
+CAKE,Cheesecake Fact,,,1.0,,,
+CALM,Cal-Maine Foods IN,,,1.0,,,
+CAR,Avis Budget Group,,1.0,1.0,,,1.0
+CARG,Cargurus Inc Cl A,,,1.0,,,
+CARR,Carrier Global Corp [Carr/I],,,,1.0,1.0,
+CASH,Meta Financial Group,,,1.0,,,
+CASS,Cass Information Sys,,,1.0,,,
+CASY,Casey's General Stor,,,1.0,1.0,,1.0
+CAT,Caterpillar Inc,,1.0,,1.0,1.0,
+CATY,Cathay Genl Bncp,,,1.0,,,1.0
+CB,Chubb Ltd,,,,1.0,1.0,
+CBOE,CBOE Global Markets Inc,,,,1.0,1.0,
+CBPO,China Biologic Produ,,,1.0,,,
+CBRE,CBRE Group Inc,,,,1.0,1.0,
+CBRL,Cracker Barrel,,,1.0,,,1.0
+CBSH,Commerce Bancshares,,,1.0,1.0,,1.0
+CBT,Cabot Corp,,,,1.0,,1.0
+CC,Chemours Company,,,,1.0,,1.0
+CCI,Crown Castle International Corp,,,,1.0,1.0,
+CCK,Crown Cork & Seal Company,,,,1.0,,
+CCL,Carnival Corp,,,,1.0,1.0,
+CCLP,CSI Compressco,,,1.0,,,
+CCMP,Cabot Microelectron,,,1.0,,,1.0
+CCOI,Cogent Comm Hlds,,,1.0,,,
+CCXI,Chemocentryx Inc,,,1.0,,,
+CDAY,Ceridian Hcm Holding Inc,,,,1.0,,1.0
+CDK,Cdk Global Inc,,,1.0,1.0,,1.0
+CDLX,Cardlytics Inc,,,1.0,,,
+CDNA,Caredx Inc,,,1.0,,,
+CDNS,Cadence Design Sys,,,1.0,1.0,1.0,
+CDW,CDW Corp,,,1.0,1.0,1.0,
+CE,Celanese Corp,,,,1.0,1.0,
+CELH,Celsius Holdings Inc,,,1.0,,,
+CENTA,Central Garden & Pet,,,1.0,,,
+CERN,Cerner Corp,,,1.0,1.0,1.0,
+CERS,Cerus Corp,,,1.0,,,
+CF,Cf Industries Holdings,,,,1.0,1.0,
+CFFN,Capitol Fed Finl Inc,,,1.0,,,
+CFG,Citizens Financial Group Inc/Ri,,,,1.0,1.0,
+CFR,Cullen/Frost Bankers,,,,1.0,,1.0
+CFX,Colfax Corp,,,,1.0,,1.0
+CG,The Carlyle Group,,,1.0,1.0,,
+CGNX,Cognex Cp,,,1.0,1.0,,1.0
+CHCO,City Holding Company,,,1.0,,,
+CHD,Church & Dwight Company,,,,1.0,1.0,
+CHDN,Churchill Downs IN,,,1.0,,,1.0
+CHE,Chemed Inc,,,,1.0,,1.0
+CHGG,Chegg Inc,,,,1.0,,
+CHH,Choice Hotels International,,,,1.0,,1.0
+CHKP,Check Point Software,,,1.0,,,
+CHNG,Change Healthcare Inc,,,1.0,1.0,,
+CHRS,Coherus Bio,,,1.0,,,
+CHRW,C.H. Robinson Ww,,1.0,1.0,1.0,1.0,
+CHTR,Charter Communicatio,,,1.0,1.0,1.0,
+CHX,Championx Corp,,,,,,1.0
+CI,Cigna Corp,,,,1.0,1.0,
+CIEN,Ciena Corp,,,,1.0,,1.0
+CIGI,Colliers Intl Grp IN,,,1.0,,,
+CINF,Cincinnati Financial,,,1.0,1.0,1.0,
+CIT,Cit Group Inc,,,,,,1.0
+CL,Colgate-Palmolive Company,,,,1.0,1.0,
+CLGX,Corelogic,,,,1.0,,1.0
+CLH,Clean Harbors,,,,1.0,,1.0
+CLR,Continental Resources,,,,1.0,,
+CLX,Clorox Company,,,,1.0,1.0,
+CMA,Comerica Inc,,,,1.0,1.0,
+CMC,Commercial Metals Company,,,,,,1.0
+CMCO,Columbus Mckinnon,,,1.0,,,
+CMCSA,Comcast Corp A,,,1.0,1.0,1.0,
+CMD,Cantel Medical,,,,,,1.0
+CME,CME Group Inc,,,1.0,1.0,1.0,
+CMG,Chipotle Mexican Grill,,,,1.0,1.0,
+CMI,Cummins Inc,,,,1.0,1.0,
+CMP,Compass Minerals Intl Inc,,,,,,1.0
+CMPR,Cimpress N.V. Ord,,,1.0,,,
+CMS,Cms Energy Corp,,,,1.0,1.0,
+CNA,Cna Financial Corp,,,,1.0,,
+CNC,Centene Corp,,,,1.0,1.0,
+CNK,Cinemark Holdings Inc,,,,,,1.0
+CNO,Cno Financial Group,,,,,,1.0
+CNOB,Connectone Bancorp,,,1.0,,,
+CNP,Centerpoint Energy Inc,,1.0,,1.0,1.0,
+CNSL,Consolidated Communications Holdings Inc,,,1.0,,,
+CNST,Constellation Pharmaceuticals Inc,,,1.0,,,
+CNX,CNX Resources Corp,,,,,,1.0
+CNXN,PC Connection Inc,,,1.0,,,
+COF,Capital One Financial Corp,,,,1.0,1.0,
+COG,Cabot Oil & Gas Corp,,,,1.0,1.0,
+COHR,Coherent Inc,,,1.0,1.0,,1.0
+COKE,Coca Cola Bot Cons,,,1.0,,,
+COLB,Columbia Banking Sys,,,1.0,,,
+COLD,Americold Realty Trust,,,,1.0,,
+COLM,Columbia Sprtswr,,,1.0,1.0,,1.0
+COMM,Commscope Holding Company,,,1.0,1.0,,
+CONE,Cyrusone Inc,,,1.0,1.0,,1.0
+COO,Cooper Companies,,,,1.0,1.0,
+COOP,Mr.Cooper Group Inc,,,1.0,,,
+COP,Conocophillips,,,,1.0,1.0,
+COR,Coresite Realty Corp,,,,1.0,,1.0
+CORE,Core Mark Holding,,,1.0,,,
+CORT,Corcept Therapeutics,,,1.0,,,
+COST,Costco Wholesale,,,1.0,1.0,1.0,
+COTY,Coty Inc,,,,1.0,,1.0
+COUP,Coupa Software Inc,,,1.0,1.0,,
+CPA,Copa Holdings S.A.,,,,1.0,,
+CPB,Campbell Soup Company,,,,1.0,1.0,
+CPRI,Capri Holdings Ltd,,,,1.0,,
+CPRT,Copart Inc,,,1.0,1.0,1.0,
+CPT,Camden Property Trust,,,,1.0,,1.0
+CR,Crane Company,,,,1.0,,1.0
+CREE,Cree Inc,,,1.0,1.0,,1.0
+CRI,Carter's Inc,,,,1.0,,1.0
+CRL,Charles River Laboratories Intl,,,,1.0,,1.0
+CRM,Salesforce.com Inc,,1.0,,1.0,1.0,
+CRNC,Cerence Inc,,,1.0,,,
+CRON,Cronos Group Inc,,,1.0,,,
+CROX,Crocs Inc,,,1.0,,,
+CRSP,Crispr Therapeutics Ag,,,1.0,,,
+CRSR,Corsair Gaming Inc,,,1.0,,,
+CRTO,Criteo S.A. Ads,,,1.0,,,
+CRTX,Cortexyme Inc,,,1.0,,,
+CRUS,Cirrus Logic Inc,,,1.0,1.0,,1.0
+CRVL,Corvel Cp,,,1.0,,,
+CRWD,Crowdstrike Holdings Inc,,,1.0,1.0,,
+CSCO,Cisco Systems Inc,,1.0,1.0,1.0,1.0,
+CSGP,Costar Group Inc,,,1.0,1.0,,
+CSGS,C S G Sys Intl,,,1.0,,,
+CSII,Cardiovascular Syst,,,1.0,,,
+CSIQ,Canadian Solar Inc,,,1.0,,,
+CSL,Carlisle Companies Inc,,,,1.0,,1.0
+CSOD,Cornerstone Ondemand,,,1.0,,,
+CSTE,Caesarstone Sdot-Yam,,,1.0,,,
+CSX,CSX Corp,,1.0,1.0,1.0,1.0,
+CTAS,Cintas Corp,,,1.0,1.0,1.0,
+CTBI,Community TR Bancp,,,1.0,,,
+CTLT,Catalent Inc,,,,1.0,1.0,
+CTRE,Caretrust REIT Inc,,,1.0,,,
+CTSH,Cognizant Tech Sol,,,1.0,1.0,1.0,
+CTVA,Corteva Inc,,,,1.0,1.0,
+CTXS,Citrix Systems Inc,,,1.0,1.0,1.0,
+CUBE,Cubesmart,,,,1.0,,
+CUZ,Cousins Properties Inc,,,,1.0,,1.0
+CVAC,Curevac N.V.,,,1.0,,,
+CVBF,Cvb Financial Corp,,,1.0,,,
+CVCO,Cavco Inds Inc,,,1.0,,,
+CVET,Covetrus Inc,,,1.0,,,
+CVGW,Calavo Growers Inc,,,1.0,,,
+CVLT,Commvault Systems,,,1.0,,,1.0
+CVNA,Carvana CO Cl A,,,,1.0,,
+CVS,CVS Corp,,,,1.0,1.0,
+CVX,Chevron Corp,,1.0,,1.0,1.0,
+CW,Curtiss-Wright Corp,,,,1.0,,1.0
+CWST,Casella Waste Sys,,,1.0,,,
+CXO,Concho Resources Inc,,,,1.0,1.0,
+CYBR,Cyberark Soft Ord,,,1.0,,,
+CYCN,Cyclerion Therapeutics Inc,,,1.0,,,
+CYRX,Cryoport Inc,,,1.0,,,
+CYTK,Cytokinetics,,,1.0,,,
+CZR,Caesars Entertainment Inc,,,1.0,,,1.0
+D,Dominion Resources,,1.0,,1.0,1.0,
+DAL,Delta Air Lines Inc,,1.0,,1.0,1.0,
+DAN,Dana Inc,,,,,,1.0
+DAR,Darling International Inc,,,,,,1.0
+DASH,DoorDash Inc,1.0,,,,,
+DBX,Dropbox Inc,,,1.0,1.0,,
+DCI,Donaldson Company,,,,1.0,,1.0
+DCPH,Deciphera Pharmaceuticals Inc,,,1.0,,,
+DCT,Duck Creek Technologies Inc,,,1.0,1.0,,
+DD,Du Pont De.Nemours Inc,,,,1.0,1.0,
+DDOG,Datadog Inc Cl A,,,1.0,1.0,,
+DE,Deere & Company,,,,1.0,1.0,
+DECK,Deckers Outdoor Corp,,,,,,1.0
+DEI,Douglas Emmett,,,,1.0,,1.0
+DELL,Dell Technologies Inc,,,,1.0,,
+DFS,Discover Financial Services,,,,1.0,1.0,
+DG,Dollar General Corp,,,,1.0,1.0,
+DGX,Quest Diagnostics Inc,,,,1.0,1.0,
+DHC,Diversified Healthcare Trust,,,1.0,,,
+DHI,D.R. Horton,,,,1.0,1.0,
+DHIL,Diamond Hill Inv,,,1.0,,,
+DHR,Danaher Corp,,,,1.0,1.0,
+DIOD,Diodes Inc,,,1.0,,,
+DIS,Walt Disney Company,,1.0,,1.0,1.0,
+DISCA,Discovery Comm A,,,1.0,1.0,1.0,
+DISCK,Discovery Comm Inc,,,1.0,1.0,1.0,
+DISH,Dish Network Corp,,,1.0,1.0,1.0,
+DKNG,Draftkings Inc,,,1.0,,,
+DKS,Dick's Sporting Goods Inc,,,,1.0,,1.0
+DLB,Dolby Laboratories,,,,1.0,,
+DLR,Digital Realty Trust,,,,1.0,1.0,
+DLTR,Dollar Tree Inc,,,1.0,1.0,1.0,
+DNB,Dun & Bradstreet Holdings Inc,,,,1.0,,
+DNLI,Denali Therapeutics Inc,,,1.0,,,
+DOC,Physicians Realty Trust,,,,,,1.0
+DOCU,Docusign Inc,,,1.0,1.0,,
+DOMO,Domo Inc Cl B,,,1.0,,,
+DOOO,Brp Inc,,,1.0,,,
+DORM,Dorman Products Inc,,,1.0,,,
+DOV,Dover Corp,,,,1.0,1.0,
+DOW,Dow Inc,,1.0,,1.0,1.0,
+DOX,Amdocs Ltd Ord,,,1.0,1.0,,
+DPZ,Domino's Pizza Inc,,,,1.0,1.0,
+DRE,Duke Realty Corp,,,,1.0,1.0,
+DRI,Darden Restaurants,,,,1.0,1.0,
+DRNA,Dicerna Pharmaceutic,,,1.0,,,
+DSGX,Descartes Sys Group,,,1.0,,,
+DT,Dynatrace Inc,,,,1.0,,
+DTE,Dte Energy Company,,,,1.0,1.0,
+DUK,Duke Energy Corp,,1.0,,1.0,1.0,
+DVA,Davita Healthcare Partners Inc,,,,1.0,1.0,
+DVN,Devon Energy Corp,,,,1.0,1.0,
+DXC,Dxc Technology Company,,,,1.0,1.0,
+DXCM,Dexcom,,,1.0,1.0,1.0,
+DY,Dycom Industries,,,,,,1.0
+EA,Electronic Arts Inc,,,1.0,1.0,1.0,
+EAF,Graftech International Ltd,,,,1.0,,
+EBAY,Ebay Inc,,,1.0,1.0,1.0,
+EBC,Eastern Bankshares Inc,,,1.0,,,
+EBS,Emergent Biosolutions,,,,,,1.0
+EBSB,Meridian Bncp,,,1.0,,,
+EBTC,Enterprise Bancorp,,,1.0,,,
+ECL,Ecolab Inc,,,,1.0,1.0,
+ECOL,US Ecology Inc,,,1.0,,,
+ECOR,Electrocore Inc,,,1.0,,,
+ECPG,Encore Capital Group,,,1.0,,,
+ED,Consolidated Edison Company of New York,,1.0,,1.0,1.0,
+EDIT,Editas Medicine,,,1.0,,,
+EEFT,Euronet Worldwide,,,1.0,1.0,,
+EFSC,Enterprises Finl Svc,,,1.0,,,
+EFX,Equifax Inc,,,,1.0,1.0,
+EGBN,Eagle Bancorp Inc,,,1.0,,,
+EGOV,Nic Inc,,,1.0,,,
+EGP,Eastgroup Properties,,,,,,1.0
+EHC,Encompass Health Corp,,,,1.0,,1.0
+EHTH,Ehealth Inc,,,1.0,,,
+EIDX,Eidos Therapeutics Inc,,,1.0,,,
+EIX,Edison International,,1.0,,1.0,1.0,
+EL,Estee Lauder Companies,,,,1.0,1.0,
+ELAN,Elanco Animal Health Inc,,,,1.0,,
+ELOX,Eloxx Pharmaceuticals Inc,,,1.0,,,
+ELS,Equity Lifestyle Properties,,,,1.0,,
+EME,Emcor Group,,,,,,1.0
+EMN,Eastman Chemical Company,,,,1.0,1.0,
+EMR,Emerson Electric Company,,,,1.0,1.0,
+ENPH,Enphase Energy Inc,,,1.0,1.0,,1.0
+ENR,Energizer Holdings Inc,,,,1.0,,1.0
+ENS,Enersys Inc,,,,,,1.0
+ENSG,The Ensign Group IN,,,1.0,,,
+ENTA,Enanta Pharmaceutica,,,1.0,,,
+ENTG,Entegris Inc,,,1.0,1.0,,
+EOG,Eog Resources,,,,1.0,1.0,
+EPAM,Epam Systems Inc,,,,1.0,,
+EPAY,Bottomline Tech IN,,,1.0,,,
+EPC,Edgewell Personal Care,,,,,,1.0
+EPR,Entertainment Properties Trust,,,,1.0,,1.0
+EPZM,Epizyme Inc,,,1.0,,,
+EQC,Equity Commonwealth,,,,1.0,,
+EQH,Axa Equitable Holdings Inc,,,,1.0,,
+EQIX,Equinix Inc,,,1.0,1.0,1.0,
+EQR,Equity Residential,,,,1.0,1.0,
+EQT,Eqt Corp,,,,1.0,,1.0
+ERIC,Ericsson ADR,,,1.0,,,
+ERIE,Erie Indemnity Company,,,1.0,1.0,,
+ES,Eversource Energy,,,,1.0,1.0,
+ESGR,Enstar Group Ltd,,,1.0,,,
+ESI,Element Solutions Inc,,,,1.0,,
+ESLT,Elbit Systems Ltd,,,1.0,,,
+ESNT,Essent Group Ltd,,,,,,1.0
+ESPR,Esperion Theraptc,,,1.0,,,
+ESRT,Empire State Realty Trust Inc,,,,1.0,,
+ESS,Essex Property Trust,,,,1.0,1.0,
+ESTC,Elastic N.V.,,,,1.0,,
+ETN,Eaton Corp,,,,1.0,1.0,
+ETR,Entergy Corp,,,,1.0,1.0,
+ETRN,Equitrans Midstream Corp,,,,1.0,,1.0
+ETSY,Etsy Inc,,,1.0,1.0,1.0,
+EV,Eaton Vance Corp,,,,1.0,,1.0
+EVBG,Everbridge Inc,,,1.0,1.0,,
+EVOP,Evo Payments Inc Cl A,,,1.0,,,
+EVR,Evercore Partners Inc,,,,1.0,,1.0
+EVRG,Evergy Inc,,,,1.0,1.0,
+EW,Edwards Lifesciences Corp,,,,1.0,1.0,
+EWBC,East West Bancorp,,,1.0,1.0,,1.0
+EXAS,Exact Sciences Cor,,,1.0,1.0,,
+EXC,Exelon Corp,,1.0,1.0,1.0,1.0,
+EXEL,Exelixis Inc,,,1.0,1.0,,1.0
+EXLS,Exlservice Holdings,,,1.0,,,
+EXP,Eagle Materials Inc,,,,1.0,,1.0
+EXPD,Expeditors Intl,,1.0,1.0,1.0,1.0,
+EXPE,Expedia Group Inc,,,1.0,1.0,1.0,
+EXPI,Exp Realty International,,,1.0,,,
+EXPO,Exponent Inc,,,1.0,,,
+EXR,Extra Space Storage Inc,,,,1.0,1.0,
+EYE,National Vision Holdings Inc,,,1.0,,,
+EYEG,Eyegate Pharma,,,1.0,,,
+F,Ford Motor Company,,,,1.0,1.0,
+FAF,First American Corp,,,,1.0,,1.0
+FANG,Diamondback Energy,,,1.0,1.0,1.0,
+FANH,Fanhua Inc,,,1.0,,,
+FARO,Faro Tech Inc,,,1.0,,,
+FAST,Fastenal Company,,,1.0,1.0,1.0,
+FATE,Fate Therapeutics,,,1.0,,,
+FB,Facebook Inc,,,1.0,1.0,1.0,
+FBHS,Fortune Brands Home & Security,,,,1.0,1.0,
+FBNC,First Bancorp [Nc],,,1.0,,,
+FBRX,Forte Biosciences Inc,,,1.0,,,
+FCFS,First Cash Fin Svcs,,,1.0,,,1.0
+FCN,Fti Consulting,,,,1.0,,1.0
+FCNCA,First Citizens Bancs,,,1.0,1.0,,
+FCX,Freeport-Mcmoran Inc,,,,1.0,1.0,
+FDS,Factset Research Systems Inc,,,,1.0,,1.0
+FDX,Fedex Corp,,1.0,,1.0,1.0,
+FE,Firstenergy Corp,,1.0,,1.0,1.0,
+FELE,Franklin Electric Company,,,1.0,,,
+FEYE,Fireeye Inc,,,1.0,1.0,,
+FFBC,First Finl Bncp [Oh],,,1.0,,,
+FFIC,Flushing Finl Corp,,,1.0,,,
+FFIN,First Finl Bkshs Inc,,,1.0,,,1.0
+FFIV,F5 Networks Inc,,,1.0,1.0,1.0,
+FGEN,Fibrogen Inc CS,,,1.0,,,
+FHB,First Hawaiian Inc,,,1.0,1.0,,
+FHI,Federated Investors,,,,,,1.0
+FHN,First Horizon Corp,,,,1.0,,1.0
+FIBK,First Interstate Ban,,,1.0,,,
+FICO,Fair Isaac and Company Inc,,,,1.0,,1.0
+FIS,Fidelity National Information Services,,,,1.0,1.0,
+FISV,Fiserv Inc,,,1.0,1.0,1.0,
+FITB,Fifth Third Bncp,,,1.0,1.0,1.0,
+FIVE,Five Below Inc,,,1.0,1.0,,1.0
+FIVN,Five9 Inc,,,1.0,1.0,,
+FIZZ,Natl Beverage Cp,,,1.0,,,
+FL,Footlocker Inc,,,,1.0,,1.0
+FLEX,Flextronics Intl Ltd,,,1.0,,,
+FLIC,First of Long Isla,,,1.0,,,
+FLIR,Flir Systems Inc,,,1.0,1.0,1.0,
+FLO,Flowers Foods,,,,1.0,,1.0
+FLR,Fluor Corp,,,,,,1.0
+FLS,Flowserve Corp,,,,1.0,1.0,
+FLT,Fleetcor Technologies,,,,1.0,1.0,
+FLWS,1-800-Flowers.com,,,1.0,,,
+FMAO,Farmers & Merch Banc,,,1.0,,,
+FMBI,First Midwest Bncp,,,1.0,,,
+FMC,FMC Corp,,,,1.0,1.0,
+FMTX,Forma Therapeutics Holdings Inc,,,1.0,,,
+FNB,F.N.B. Corp,,,,1.0,,1.0
+FND,Floor & Decor Holdings Inc,,,,1.0,,
+FNF,Fidelity National Financial,,,,1.0,,
+FNLC,First Bancorp Inc,,,1.0,,,
+FOCS,Focus Financial Partners Inc Cl A,,,1.0,,,
+FOLD,Amicus Therapeutics,,,1.0,,,
+FORM,Formfactor Inc,,,1.0,,,
+FORR,Forrester Resrch,,,1.0,,,
+FOX,Fox Corp Cl B,,,1.0,1.0,1.0,
+FOXA,Fox Corp Cl A,,,1.0,1.0,1.0,
+FOXF,Fox Factory Cp,,,1.0,,,1.0
+FPRX,Five Prime Thera,,,1.0,,,
+FR,First Industrial Realty Trust,,,,1.0,,1.0
+FRC,First Republic Bank,,,,1.0,1.0,
+FRG,Franchise Group Inc,,,1.0,,,
+FRHC,Freedom Holding Corp,,,1.0,,,
+FRME,First Merchants Corp,,,1.0,,,
+FROG,Jfrog Ltd,,,1.0,,,
+FRPT,Freshpet Inc CS,,,1.0,,,
+FRT,Federal Realty Investment Trust,,,,1.0,1.0,
+FRTA,Forterra Inc,,,1.0,,,
+FSLR,First Solar Inc,,,1.0,1.0,,1.0
+FSLY,Fastly Inc,,,,1.0,,
+FSV,Firstsrvce Sub VT Sh,,,1.0,,,
+FTDR,Frontdoor Inc,,,1.0,1.0,,
+FTI,Technipfmc Plc,,,,,1.0,
+FTNT,Fortinet Inc,,,1.0,1.0,1.0,
+FTV,Fortive Corp,,,,1.0,1.0,
+FULT,Fulton Financial Cor,,,1.0,,,1.0
+FUTU,Futu Holdings Ltd,,,1.0,,,
+FWONA,Liberty Media F1 Series A,,,,1.0,,
+FWONK,Liberty Media F1 Series K,,,1.0,1.0,,
+FWRD,Foward Air Corp,,,1.0,,,
+G,Genpact Ltd,,,,1.0,,
+GABC,German Amer Bncp Inc,,,1.0,,,
+GASS,Stealthgas Inc,,,1.0,,,
+GATX,GATX Corp,,,,,,1.0
+GBCI,Glacier Bancorp Inc,,,1.0,,,1.0
+GBT,Global Blood Ther,,,1.0,1.0,,
+GD,General Dynamics Corp,,,,1.0,1.0,
+GDDY,Godaddy Inc,,,,1.0,,
+GDEN,Golden Entmt,,,1.0,,,
+GDS,Gds Holdings Ltd,,,1.0,,,
+GE,General Electric Company,,,,1.0,1.0,
+GEF,Greif Bros. Corp,,,,,,1.0
+GEOS,Geospace Technologie,,,1.0,,,
+GGG,Graco Inc,,,,1.0,,1.0
+GH,Guardant Health Inc,,,1.0,1.0,,
+GHC,Graham Holdings Company,,,,1.0,,1.0
+GILD,Gilead Sciences Inc,,,1.0,1.0,1.0,
+GIS,General Mills,,,,1.0,1.0,
+GL,Globe Life Inc,,,,1.0,1.0,
+GLNG,Golar Lng Ltd,,,1.0,,,
+GLOB,Globant S.A.,,,,1.0,,
+GLPG,Galapagos NV,,,1.0,,,
+GLPI,Gaming & Leisure,,,1.0,1.0,,
+GLUU,Glu Mobile Inc,,,1.0,,,
+GLW,Corning Inc,,,,1.0,1.0,
+GLYC,Glycomimetics Inc,,,1.0,,,
+GM,General Motors Company,,,,1.0,1.0,
+GMED,Globus Medical Inc,,,,1.0,,1.0
+GNRC,Generac Holdings Inc,,,,1.0,,1.0
+GNTX,Gentex Corp,,,1.0,1.0,,1.0
+GNW,Genworth Financial Inc,,,,,,1.0
+GO,Grocery Outlet Holding Corp,,,1.0,1.0,,1.0
+GOCO,Gohealth Inc Cl A,,,,1.0,,
+GOGL,Golden Ocean Gp,,,1.0,,,
+GOOD,Gladstone Comml,,,1.0,,,
+GOOG,Alphabet Cl C,,,1.0,1.0,1.0,
+GOOGL,Alphabet Cl A,,,1.0,1.0,1.0,
+GOSS,Gossamer Bio Inc,,,1.0,,,
+GPC,Genuine Parts Company,,,,1.0,1.0,
+GPK,Graphic Packaging Holding Company,,,,1.0,,
+GPN,Global Payments Inc,,,,1.0,1.0,
+GPS,Gap Inc,,,,1.0,1.0,
+GRA,W.R. Grace & Company,,,,1.0,,
+GRBK,Green Brick Partners,,,1.0,,,
+GRFS,Grifols S.A.,,,1.0,,,
+GRMN,Garmin Ltd,,,1.0,1.0,1.0,
+GRUB,Grubhub Inc,,,,1.0,,1.0
+GS,Goldman Sachs Group,,1.0,,1.0,1.0,
+GSBC,Great Southern Bncp,,,1.0,,,
+GSHD,Goosehead Insurance Inc Cl A,,,1.0,,,
+GSM,Ferroglobe Plc Os,,,1.0,,,
+GT,Goodyear Tire Rubber,,,1.0,,,1.0
+GTES,Gates Industrial Corp Plc,,,,1.0,,
+GTLS,Chart Industries IN,,,1.0,,,
+GTYH,Gty Technology Holdings Inc,,,1.0,,,
+GWPH,Gw Pharma ADR,,,1.0,,,
+GWRE,Guidewire Software Inc,,,,1.0,,
+GWW,W.W. Grainger,,,,1.0,1.0,
+H,Hyatt Hotels Corp,,,,1.0,,
+HAE,Haemonetics Corp,,,,1.0,,1.0
+HAIN,Hain Celestial Group,,,1.0,1.0,,1.0
+HAL,Halliburton Company,,,,1.0,1.0,
+HALO,Halozyme Therapeutic,,,1.0,,,1.0
+HAS,Hasbro Inc,,,1.0,1.0,1.0,
+HBAN,Huntington Bcshs,,,1.0,1.0,1.0,
+HBI,Hanesbrands Inc,,,,1.0,1.0,
+HBMD,Howard Bancorp MD,,,1.0,,,
+HCA,Hca Holdings Inc,,,,1.0,1.0,
+HCAT,Health Catalyst Inc,,,1.0,,,
+HCM,Hutchison China Ads,,,1.0,,,
+HCSG,Healthcare Svcs Gp,,,1.0,,,1.0
+HD,Home Depot,,1.0,,1.0,1.0,
+HDS,HD Supply Hlds Cmm,,,1.0,1.0,,
+HE,Hawaiian Electric Industries,,,,1.0,,1.0
+HEI,Heico Corp,,,,1.0,,
+HEI.A,Heico Cp Cl A,,,,1.0,,
+HELE,Helen of Troy Ltd,,,1.0,,,1.0
+HES,Hess Corp,,,,1.0,1.0,
+HFC,Hollyfrontier Corp,,,,1.0,1.0,
+HFFG,HF Foods Group Inc,,,1.0,,,
+HHC,Howard Hughes Corp,,,,1.0,,
+HIG,Hartford Financial Services Group,,,,1.0,1.0,
+HII,Huntington Ingalls Industries,,,,1.0,1.0,
+HIW,Highwoods Properties,,,,1.0,,1.0
+HLF,Herbalife Ltd,,,,1.0,,
+HLIO,Helios Technologies Inc,,,1.0,,,
+HLNE,Hamilton Lane Inc Cl A,,,1.0,,,
+HLT,Hilton Inc,,,,1.0,1.0,
+HMST,Homestreet Inc,,,1.0,,,
+HMSY,Hms Hlds Cp,,,1.0,,,
+HNI,Hon Industries Inc,,,,,,1.0
+HOG,Harley-Davidson Inc,,,,1.0,,1.0
+HOLX,Hologic Inc,,,1.0,1.0,1.0,
+HOMB,Home Bancshares Inc,,,1.0,,,1.0
+HON,Honeywell International Inc,,1.0,,1.0,1.0,
+HONE,Harborone Bancorp Inc,,,1.0,,,
+HOPE,Hope Bancorp Inc,,,1.0,,,
+HP,Helmerich & Payne,,,,1.0,,
+HPE,Hewlett Packard Enterprise Comp,,,,1.0,1.0,
+HPP,Hudson Pacific Properties,,,,1.0,,1.0
+HPQ,Hp Inc,,,,1.0,1.0,
+HQY,Healthequity,,,1.0,,,1.0
+HR,Healthcare Realty Trust Inc,,,,,,1.0
+HRB,H&R Block,,,,1.0,,1.0
+HRC,Hill-Rom Holdings Inc,,,,1.0,,1.0
+HRL,Hormel Foods Corp,,,,1.0,1.0,
+HRMY,Harmony Biosciences Holdings Inc,,,1.0,,,
+HRTX,Heron Therapeutics,,,1.0,,,
+HSIC,Henry Schein Inc,,,1.0,1.0,1.0,
+HSKA,Heska Corp,,,1.0,,,
+HST,Host Marriott Financial Trust,,,1.0,1.0,1.0,
+HSY,Hershey Foods Corp,,,,1.0,1.0,
+HTA,Healthcare Trust of America,,,,1.0,,
+HTHT,Huazhu Group Ltd,,,1.0,,,
+HTLD,Heartland Express,,,1.0,,,
+HTLF,Heartland Finl USA,,,1.0,,,
+HUBB,Hubbell Inc B,,,,1.0,,1.0
+HUBG,Hub Group Inc A,,,1.0,,,
+HUBS,Hubspot Inc,,,,1.0,,
+HUM,Humana Inc,,,,1.0,1.0,
+HUN,Huntsman Corp,,,,1.0,,
+HURN,Huron Consulting,,,1.0,,,
+HWC,Hancock Whitney Corp,,,1.0,,,1.0
+HWM,Howmet Aerospace Inc,,,,1.0,1.0,
+HXL,Hexcel Corp,,,,1.0,,1.0
+HZNP,Horizon Therapeutics,,,1.0,1.0,,
+IAA,Iaa Inc,,,,1.0,,1.0
+IAC,Iac Holdings Inc,,,1.0,1.0,,
+IART,Integra Lifesciences,,,1.0,1.0,,1.0
+IBKR,Interactive Brokers,,,1.0,1.0,,1.0
+IBM,International Business Machines,,1.0,,1.0,1.0,
+IBOC,Intl Bancshares,,,1.0,,,1.0
+IBTX,Independent Bank Group,,,1.0,,,
+ICE,Intercontinental Exchange,,,,1.0,1.0,
+ICFI,Icf International,,,1.0,,,
+ICLR,Icon Plc,,,1.0,,,
+ICPT,Intercept Pharmaceuticals,,,1.0,,,
+ICUI,I C U Medical Inc,,,1.0,1.0,,1.0
+IDA,Idacorp Inc,,,,1.0,,1.0
+IDCC,Interdigital Inc,,,1.0,,,1.0
+IDXX,Idexx Laboratories,,,1.0,1.0,1.0,
+IEP,Icahn Enterprises,,,1.0,,,
+IEX,Idex Corp,,,,1.0,1.0,
+IFF,International Flavors & Fragrances,,,,1.0,1.0,
+IGMS,Igm Biosciences Inc,,,1.0,,,
+IIVI,I I V I Inc,,,1.0,,,1.0
+ILMN,Illumina Inc,,,1.0,1.0,1.0,
+ILPT,Industrial Logistics Properties Trust,,,1.0,,,
+IMVT,Immunovant Inc,,,1.0,,,
+INBK,First Internet Bcp,,,1.0,,,
+INCY,Incyte Corp,,,1.0,1.0,1.0,
+INDB,Independent Bk Corp,,,1.0,,,
+INFN,Infinera Corp,,,1.0,,,
+INFO,IHS Markit Ltd,,,,1.0,1.0,
+INGR,Ingredion Inc,,,,1.0,,1.0
+INMD,Inmode Ltd,,,1.0,,,
+INO,Inovio Pharma,,,1.0,,,
+INOV,Inovalon Hlds Cm A,,,1.0,,,
+INSM,Insmed Inc,,,1.0,,,
+INT,World Fuel Services Corp,,,,,,1.0
+INTC,Intel Corp,,1.0,1.0,1.0,1.0,
+INTU,Intuit Inc,,,1.0,1.0,1.0,
+INVA,Innoviva Inc,,,1.0,,,
+INVH,Invitation Homes Inc,,,,1.0,,
+IONS,Ionis Pharmaceuticals,,,1.0,1.0,,
+IOSP,Innospec Inc,,,1.0,,,
+IOVA,Iovance Biotherapeutics Inc,,,1.0,1.0,,
+IP,International Paper Company,,,,1.0,1.0,
+IPAR,Inter Parfums Inc,,,1.0,,,
+IPG,Interpublic Group of Companies,,,,1.0,1.0,
+IPGP,Ipg Photonics Corp,,,1.0,1.0,1.0,
+IPHI,Inphi Corp,,,1.0,1.0,,
+IQ,Iqiyi Inc ADR,,,1.0,,,
+IQV,Iqvia Holdings Inc,,,,1.0,1.0,
+IR,Ingersoll Rand Inc,,,,1.0,1.0,
+IRBT,Irobot Corp,,,1.0,,,
+IRDM,Iridium Comm Inc,,,1.0,,,
+IRM,Iron Mountain Inc,,,,1.0,1.0,
+IRTC,Irhythm Technologies Inc,,,1.0,,,
+IRWD,Ironwood Pharmaceuti,,,1.0,,,
+ISBC,Investors Bancorp,,,1.0,,,
+ISRG,Intuitive Surg Inc,,,1.0,1.0,1.0,
+ISTR,Investar Holding,,,1.0,,,
+IT,Gartner Inc,,,,1.0,1.0,
+ITCI,Intra-Cellular Ther,,,1.0,,,
+ITOS,Iteos Therapeutics Inc,,,1.0,,,
+ITRI,Itron Inc,,,1.0,,,
+ITRN,Ituran Location,,,1.0,,,
+ITT,ITT Inc,,,,1.0,,1.0
+ITW,Illinois Tool Works Inc,,,,1.0,1.0,
+IVZ,Invesco Plc,,,,1.0,1.0,
+J,Jacobs Engineering Group Inc,,,,1.0,1.0,
+JACK,Jack IN The Box Inc,,,1.0,,,1.0
+JAMF,Jamf Holding Corp,,,,1.0,,
+JAZZ,Jazz Pharma Plc,,,1.0,1.0,,1.0
+JBGS,Jbg Smith Properties,,,,1.0,,1.0
+JBHT,J B Hunt Transport,,1.0,1.0,1.0,1.0,
+JBL,Jabil Circuit,,,,1.0,,1.0
+JBLU,Jetblue Airways Cp,,1.0,1.0,1.0,,1.0
+JCI,Johnson Controls Intl,,,,1.0,1.0,
+JCOM,J2 Global Inc,,,1.0,,,1.0
+JD,Jd.com Inc Ads,,,1.0,,,
+JEF,Jefferies Financial Group Inc,,,,1.0,,1.0
+JHG,Janus Henderson Group Plc,,,,,,1.0
+JJSF,J J Snack Foods,,,1.0,,,
+JKHY,Jack Henry & Assoc,,,1.0,1.0,1.0,
+JLL,Jones Lang Lasalle Inc,,,,1.0,,1.0
+JNJ,Johnson & Johnson,,1.0,,1.0,1.0,
+JNPR,Juniper Networks,,,,1.0,1.0,
+JOBS,51Job Inc,,,1.0,,,
+JPM,JP Morgan Chase & Company,,1.0,,1.0,1.0,
+JRVR,James River Gp HD,,,1.0,,,
+JW.A,John Wiley Sons Cl A,,,,1.0,,1.0
+JWN,Nordstrom,,,,1.0,,1.0
+K,Kellogg Company,,,,1.0,1.0,
+KALU,Kaiser Aluminum,,,1.0,,,
+KALV,Kalvista Pharmaceuticals Inc,,,1.0,,,
+KAR,Kar Auction Services Inc,,,,,,1.0
+KBAL,Kimball Intl Cl B,,,1.0,,,
+KBH,KB Home,,,,,,1.0
+KBR,KBR Inc,,,,,,1.0
+KC,Kingsoft Cloud Holdings Limited ADR,,,1.0,,,
+KDP,Keurig Dr Pepper Inc,,,1.0,1.0,,
+KELYA,Kelly Svcs Cl A,,,1.0,,,
+KEX,Kirby Corp,,1.0,,1.0,,1.0
+KEY,Keycorp,,,,1.0,1.0,
+KEYS,Keysight Technologies Inc Comm,,,,1.0,1.0,
+KHC,Kraft Heinz Company,,,1.0,1.0,1.0,
+KIDS,Orthopediatrics Corp,,,1.0,,,
+KIM,Kimco Realty Corp,,,,1.0,1.0,
+KKR,KKR & CO LP,,,,1.0,,
+KLAC,K L A-Tencor Corp,,,1.0,1.0,1.0,
+KLIC,Kulicke and Soffa,,,1.0,,,
+KMB,Kimberly-Clark Corp,,,,1.0,1.0,
+KMI,Kinder Morgan,,,,1.0,1.0,
+KMPR,Kemper Corp,,,,1.0,,1.0
+KMT,Kennametal Inc,,,,,,1.0
+KMX,Carmax Inc,,,,1.0,1.0,
+KNSL,Kinsale Capital Group Inc,,,1.0,,,
+KNX,Knight-Swift Transporation Inc,,,,1.0,,1.0
+KO,Coca-Cola Company,,1.0,,1.0,1.0,
+KOD,Kodiak Sciences Inc,,,1.0,,,
+KOPN,Kopin Cp,,,1.0,,,
+KPTI,Karyopharm Therapeut,,,1.0,,,
+KR,Kroger Company,,,,1.0,1.0,
+KRC,Kilroy Realty Corp,,,,1.0,,1.0
+KRNT,Kornit Digital Ord,,,1.0,,,
+KRNY,Kearny Financial,,,1.0,,,
+KRON,Kronos Bio Inc,,,1.0,,,
+KROS,Keros Therapeutics Inc,,,1.0,,,
+KRTX,Karuna Therapeutics Inc,,,1.0,,,
+KRYS,Krystal Biotech Inc,,,1.0,,,
+KSS,Kohl's Corp,,,,1.0,,1.0
+KSU,Kansas City Southern,,1.0,,1.0,1.0,
+KTOS,Kratos Defns,,,1.0,,,
+KURA,Kura Oncology,,,1.0,,,
+KYMR,Kymera Therapeutics Inc,,,1.0,,,
+L,Loews Corp,,,,1.0,1.0,
+LAD,Lithia Motors,,,,,,1.0
+LAMR,Lamar Advertis A,,,1.0,1.0,,1.0
+LANC,Lancaster Colony Cor,,,1.0,,,1.0
+LAUR,Laureate Education Inc,,,1.0,,,
+LAZ,Lazard Ltd,,,,1.0,,
+LB,L Brands Inc,,,,1.0,1.0,
+LBAI,Lakeland Bancorp Inc,,,1.0,,,
+LBRDA,Liberty Broadbd A,,,1.0,1.0,,
+LBRDK,Liberty Broadbd C,,,1.0,1.0,,
+LBTYA,Liberty Global Ord A,,,1.0,,,
+LBTYK,Liberty Global Ord C,,,1.0,,,
+LDOS,Leidos Holdings Inc,,,,1.0,1.0,
+LEA,Lear Corp,,,,1.0,,1.0
+LECO,Lincoln Elec Hld,,,1.0,1.0,,1.0
+LEG,Leggett & Platt Inc,,,,1.0,1.0,
+LEN,Lennar Corp,,,,1.0,1.0,
+LEN.B,Lennar Corp Cl B,,,,1.0,,
+LESL,Leslie's Inc,,,1.0,,,
+LFUS,Littelfuse Inc,,,1.0,1.0,,1.0
+LGF.A,Lions Gate Entertainment Corp Cl A,,,,1.0,,
+LGF.B,Lions Gate Entertainment Corp Cl B,,,,1.0,,
+LGIH,LGI Homes Inc,,,1.0,,,
+LGND,Ligand Pharm,,,1.0,,,1.0
+LH,Laboratory Corp of America Holdings,,,,1.0,1.0,
+LHCG,LHC Group Inc,,,1.0,,,1.0
+LHX,L3Harris Technologies Inc,,,,1.0,1.0,
+LI,Li Auto Inc ADR,,,1.0,,,
+LII,Lennox International,,,,1.0,,1.0
+LILAK,Liberty Latin America Cl C,,,1.0,,,
+LIN,Linde Plc,,,,1.0,1.0,
+LITE,Lumentum Hld,,,1.0,1.0,,1.0
+LIVN,Livanova Plc OR Sh,,,1.0,,,1.0
+LKCO,Luokung Technology Corp,,,1.0,,,
+LKFN,Lakeland Finl Corp,,,1.0,,,
+LKQ,LKQ Corp,,,1.0,1.0,1.0,
+LLY,Eli Lilly and Company,,,,1.0,1.0,
+LMND,Lemonade Inc,,,,1.0,,
+LMNX,Luminex Corp,,,1.0,,,
+LMT,Lockheed Martin Corp,,,,1.0,1.0,
+LNC,Lincoln National Corp,,,,1.0,1.0,
+LNG,Cheniere Energy,,,,1.0,,
+LNT,Alliant Energy Corp,,,1.0,1.0,1.0,
+LOB,Live Oak Bancsh,,,1.0,,,
+LOGI,Logitech Int S.A.,,,1.0,,,
+LOOP,Loop Industries Inc,,,1.0,,,
+LOPE,Grand Canyon Educati,,,1.0,1.0,,1.0
+LOW,Lowe's Companies,,,,1.0,1.0,
+LPLA,Lpl Financial Hld,,,1.0,1.0,,
+LPRO,Open Lending Corp Cl A,,,1.0,,,
+LPSN,Liveperson Inc,,,1.0,,,
+LPX,Louisiana-Pacific Corp,,,,,,1.0
+LRCX,Lam Research Corp,,,1.0,1.0,1.0,
+LSCC,Lattice Semicond,,,1.0,,,
+LSI,Life Storage,,,,1.0,,1.0
+LSTR,Landstar System,,1.0,1.0,1.0,,1.0
+LSXMA,Liberty Srs XM CS A,,,1.0,1.0,,
+LSXMK,Liberty Srs XM CS C,,,1.0,1.0,,
+LULU,Lululemon Athletica,,,1.0,1.0,,
+LUMN,Centurylink,,,,1.0,1.0,
+LUNG,Pulmonx Corp,,,1.0,,,
+LUV,Southwest Airlines Company,,1.0,,1.0,1.0,
+LVS,Las Vegas Sands,,,,1.0,1.0,
+LW,Lamb Weston Holdings Inc,,,,1.0,1.0,
+LYB,Lyondellbasell Industries NV,,,,1.0,1.0,
+LYFT,Lyft Inc Cl A,,,1.0,1.0,,
+LYV,Live Nation Entertainment,,,,1.0,1.0,
+MA,Mastercard Inc,,,,1.0,1.0,
+MAA,Mid-America Apartment Communities,,,,1.0,1.0,
+MAC,Macerich Company,,,,,,1.0
+MAN,Manpower Inc,,,,1.0,,1.0
+MANH,Manhattan Assoc,,,1.0,1.0,,1.0
+MANT,Mantech Intl Cp A,,,1.0,,,
+MAR,Marriot Int Cl A,,,1.0,1.0,1.0,
+MAS,Masco Corp,,,,1.0,1.0,
+MASI,Masimo Corp,,,1.0,1.0,,1.0
+MAT,Mattel Inc,,,1.0,1.0,,1.0
+MATX,Matson Inc,,1.0,,,,
+MBUU,Malibu Boats Inc,,,1.0,,,
+MCD,McDonald's Corp,,1.0,,1.0,1.0,
+MCHP,Microchip Technology,,,1.0,1.0,1.0,
+MCK,Mckesson Corp,,,,1.0,1.0,
+MCO,Moody's Corp,,,,1.0,1.0,
+MCRB,Seres Theraptc,,,1.0,,,
+MCRI,Monarch Casino,,,1.0,,,
+MCY,Mercury General Corp,,,,1.0,,1.0
+MDB,Mongodb Inc Cl A,,,1.0,1.0,,
+MDGL,Madrigal Pharmaceuticals Inc,,,1.0,,,
+MDLA,Medallia Inc,,,,1.0,,
+MDLZ,Mondelez Intl Inc,,,1.0,1.0,1.0,
+MDRX,Allscripts Hlthcare,,,1.0,,,
+MDT,Medtronic Inc,,,,1.0,1.0,
+MDU,Mdu Res Group Inc,,,,1.0,,1.0
+MEDP,Medpace Holdings Inc,,,1.0,,,1.0
+MELI,Mercadolibre Inc,,,1.0,,,
+MEOH,Methanex Cp,,,1.0,,,
+MERC,Mercer Intl Inc,,,1.0,,,
+MET,Metlife Inc,,,,1.0,1.0,
+MGEE,Mge Energy Inc,,,1.0,,,
+MGIC,Magic Software Entpr,,,1.0,,,
+MGLN,Magellan Health,,,1.0,,,
+MGM,MGM Resorts International,,,,1.0,1.0,
+MGNX,Macrogenics,,,1.0,,,
+MGPI,MGP Ingredients Inc,,,1.0,,,
+MGRC,Mcgrath Rentcorp,,,1.0,,,
+MHK,Mohawk Industries,,,,1.0,1.0,
+MIC,Macquarie Infrastructure Company Trust,,,,1.0,,
+MIDD,Middleby Corp,,,1.0,1.0,,1.0
+MIME,Mimecast Ltd Ord,,,1.0,,,
+MKC,Mccormick & Company Inc,,,,1.0,1.0,
+MKL,Markel Corp,,,,1.0,,
+MKSI,Mks Instruments Inc,,,1.0,1.0,,1.0
+MKTX,Marketaxess Holdings,,,1.0,1.0,1.0,
+MLAB,Mesa Labs Inc,,,1.0,,,
+MLCO,Melco Resorts & Entertainment,,,1.0,,,
+MLHR,Miller Herman Inc,,,1.0,,,1.0
+MLM,Martin Marietta Materials,,,,1.0,1.0,
+MMC,Marsh & Mclennan Companies,,,,1.0,1.0,
+MMM,3M Company,,1.0,,1.0,1.0,
+MMS,Maximus Inc,,,,,,1.0
+MMSI,Merit Medical Sys,,,1.0,,,
+MMYT,Makemytrip Ltd,,,1.0,,,
+MNRO,Monro Muffler Brak,,,1.0,,,
+MNST,Monster Beverage Cp,,,1.0,1.0,1.0,
+MO,Altria Group,,,,1.0,1.0,
+MOH,Molina Healthcare Inc,,,,1.0,,1.0
+MOMO,Momo Inc Ads,,,1.0,,,
+MORN,Morningstar Inc,,,1.0,1.0,,
+MOS,Mosaic Company,,,,1.0,1.0,
+MPB,Mid Penn Bancorp Inc,,,1.0,,,
+MPC,Marathon Petroleum Corp,,,,1.0,1.0,
+MPW,Medical Properties Trust,,,,1.0,,1.0
+MPWR,Monolithic Power Sys,,,1.0,1.0,,1.0
+MRCY,Mercury Sys Inc,,,1.0,1.0,,1.0
+MRK,Merck & Company,,1.0,,1.0,1.0,
+MRKR,Marker Therapeutics Inc,,,1.0,,,
+MRNA,Moderna Inc,,,1.0,1.0,,
+MRO,Marathon Oil Corp,,,,1.0,1.0,
+MRSN,Mersana Therapeutics Inc,,,1.0,,,
+MRTN,Marten Transport L,,,1.0,,,
+MRTX,Mirati Therapeutics,,,1.0,,,
+MRVI,Maravai Lifesciences Holdings Inc Cl A,,,1.0,,,
+MRVL,Marvell Tech Group,,,1.0,1.0,,
+MS,Morgan Stanley,,,,1.0,1.0,
+MSA,Msa Safety Inc,,,,1.0,,1.0
+MSCI,MSCI Inc,,,,1.0,1.0,
+MSEX,Middlesex Water Company,,,1.0,,,
+MSFT,Microsoft Corp,1.0,1.0,1.0,1.0,1.0,
+MSGE,Madison Square Garden Entertainment Corp,,,,1.0,,
+MSGS,Madison Square Garden Sports Corp,,,,1.0,,
+MSI,Motorola Solutions,,,,1.0,1.0,
+MSM,Msc Industrial Direct Company,,,,1.0,,1.0
+MSTR,Microstrategy Cl A,,,1.0,,,
+MTB,M&T Bank Corp,,,,1.0,1.0,
+MTCH,Match Group Inc,,,1.0,1.0,,
+MTD,Mettler-Toledo International,,,,1.0,1.0,
+MTG,Mgic Investment Corp,,,,1.0,,1.0
+MTN,Vail Resorts,,,,1.0,,
+MTSI,Macom Technology S,,,1.0,,,
+MTX,Minerals Technologies Inc,,,,,,1.0
+MTZ,Mastec Inc,,,,,,1.0
+MU,Micron Technology,,,1.0,1.0,1.0,
+MUR,Murphy Oil Corp,,,,1.0,,1.0
+MUSA,Murphy USA Inc,,,,,,1.0
+MXIM,Maxim Integrated,,,1.0,1.0,1.0,
+MYGN,Myriad Genetics Inc,,,1.0,,,
+NARI,Inari Medical Inc,,,1.0,,,
+NATI,Natl Instruments Cor,,,1.0,1.0,,1.0
+NAVI,Navient Cp,,,1.0,,,1.0
+NBIX,Neurocrine Bioscienc,,,1.0,1.0,,
+NBTB,NBT Bancorp Inc,,,1.0,,,
+NCLH,Norwegian Cruise Ord,,,,1.0,1.0,
+NCNA,Nucana Plc ADR,,,1.0,,,
+NCNO,Ncino Inc,,,1.0,1.0,,
+NCR,NCR Corp,,,,1.0,,1.0
+NDAQ,Nasdaq Inc,,,1.0,1.0,1.0,
+NDSN,Nordson Corp,,,1.0,1.0,,1.0
+NEE,Nextera Energy,,1.0,,1.0,1.0,
+NEM,Newmont Mining Corp,,,,1.0,1.0,
+NEO,Neogenomics Inc,,,1.0,,,
+NEOG,Neogen Cp,,,1.0,,,1.0
+NESR,National Energy Services Reunited Corp,,,1.0,,,
+NET,Cloudflare Inc Cl A,,,,1.0,,
+NEU,Newmarket Corp,,,,1.0,,1.0
+NEWR,New Relic Inc,,,,1.0,,
+NFBK,Northfield Bncrp Del,,,1.0,,,
+NFE,New Fortress Energy Llc,,,1.0,,,
+NFG,National Fuel Gas Company,,,,1.0,,1.0
+NFLX,Netflix Inc,,,1.0,1.0,1.0,
+NGHC,National General Hld,,,1.0,,,
+NGVT,Ingevity Corp,,,,,,1.0
+NI,NiSource Inc,,1.0,,1.0,1.0,
+NICE,Nice Ltd,,,1.0,,,
+NJR,Newjersey Resources Corp,,,,,,1.0
+NKE,Nike Inc,,1.0,,1.0,1.0,
+NKLA,Nikola Corp,,,1.0,,,
+NKTR,Nektar Therapeutics,,,1.0,1.0,,1.0
+NKTX,Nkarta Inc,,,1.0,,,
+NLOK,Nortonlifelock Inc,,,1.0,1.0,1.0,
+NLSN,Nielsen Holdings Plc,,,,1.0,1.0,
+NLY,Annaly Capital Management Inc,,,,1.0,,
+NMIH,Nmi Holdings Inc,,,1.0,,,
+NNN,National Retail Properties,,,,1.0,,1.0
+NNOX,Nano-X Imaging Ltd,,,1.0,,,
+NOC,Northrop Grumman Corp,,,,1.0,1.0,
+NOV,National-Oilwell,,,,1.0,1.0,
+NOVT,Novanta Inc,,,1.0,,,
+NOW,Servicenow Inc,,,,1.0,1.0,
+NRC,National Research Corp,,,1.0,,,
+NRG,NRG Energy,,,,1.0,1.0,
+NRIX,Nurix Therapeutics Inc,,,1.0,,,
+NRZ,New Residential Investment Corp,,,,1.0,,
+NSC,Norfolk Southern Corp,,1.0,,1.0,1.0,
+NSIT,Insight Enterpr,,,1.0,,,
+NSP,Insperity Inc,,,,,,1.0
+NSTG,Nanostring Tech,,,1.0,,,
+NTAP,Netapp Inc,,,1.0,1.0,1.0,
+NTCT,Netscout Systems,,,1.0,,,1.0
+NTES,Netease Inc Ads,,,1.0,,,
+NTGR,Netgear Inc,,,1.0,,,
+NTLA,Intellia Thera CS,,,1.0,,,
+NTNX,Nutanix Inc,,,1.0,1.0,,
+NTRA,Natera Inc,,,1.0,,,
+NTRS,Northern Trust Corp,,,1.0,1.0,1.0,
+NUAN,Nuance Communicatns,,,1.0,1.0,,
+NUE,Nucor Corp,,,,1.0,1.0,
+NUS,Nu Skin Enterprises,,,,1.0,,1.0
+NUVA,Nuvasive Inc,,,1.0,,,1.0
+NVAX,Novavax Inc,,,1.0,,,
+NVCR,Novocure Ltd Ord Sh,,,1.0,1.0,,
+NVDA,Nvidia Corp,,,1.0,1.0,1.0,
+NVMI,Nova Measuring Instr,,,1.0,,,
+NVR,NVR Inc,,,,1.0,1.0,
+NVST,Envista Holdings Corp,,,,1.0,,
+NVT,Nvent Electric Plc,,,,1.0,,1.0
+NWBI,Northwest Bancshares,,,1.0,,,
+NWE,Northwestern Corp,,,1.0,,,1.0
+NWL,Newell Rubbermaid Inc,,,1.0,1.0,1.0,
+NWLI,Natl Wstrn Life Gp A,,,1.0,,,
+NWS,News Cp Cl B,,,1.0,1.0,1.0,
+NWSA,News Cp Cl A,,,1.0,1.0,1.0,
+NXGN,Nextgen Healthcare Inc,,,1.0,,,
+NXPI,Nxp Semiconductors,,,1.0,,,
+NXST,Nexstar Media Group Inc.,,,1.0,1.0,,
+NYCB,New York Community Bancorp,,,,1.0,,1.0
+NYMT,New York Mtge Trust,,,1.0,,,
+NYT,New York Times Company,,,,1.0,,1.0
+O,Realty Income Corp,,,,1.0,1.0,
+OAS,Oasis Petroleum Inc,,,1.0,,,
+OC,Owens Corning Inc,,,,1.0,,1.0
+OCFC,Oceanfirst Financial Corp,,,1.0,,,
+ODFL,Old Dominion Freight Line Inc,,,1.0,1.0,1.0,
+ODP,Office Depot,,,1.0,,,
+OFC,Corporate Office Properties,,,,1.0,,1.0
+OFLX,Omega Flex Inc,,,1.0,,,
+OGE,Oge Energy Corp,,,,1.0,,1.0
+OGS,One Gas Inc,,,,,,1.0
+OHI,Omega Healthcare Investors,,,,1.0,,1.0
+OI,Owens-Illinois,,,,,,1.0
+OKE,Oneok Inc,,,,1.0,1.0,
+OKTA,Okta Inc Cl A,,,1.0,1.0,,
+OLED,Universal Display,,,1.0,1.0,,1.0
+OLLI,Ollies Bargain CS,,,1.0,1.0,,1.0
+OLMA,Olema Pharmaceuticals Inc,,,1.0,,,
+OLN,Olin Corp,,,,1.0,,1.0
+OM,Outset Medical Inc,,,1.0,,,
+OMC,Omnicom Group Inc,,,,1.0,1.0,
+OMCL,Omnicell Inc,,,1.0,,,
+OMF,Onemain Holdings Inc,,,,1.0,,
+ON,On Semiconductor,,,1.0,1.0,,
+ONB,Old National Bncp,,,1.0,,,
+ONEM,1Life Healthcare Inc,,,1.0,,,
+OPCH,Option Care Health Inc,,,1.0,,,
+OPK,Opko Health Inc,,,1.0,,,
+ORCL,Oracle Corp,,,,1.0,1.0,
+ORGO,Organogenesis Holdings Inc,,,1.0,,,
+ORI,Old Republic International Corp,,,,1.0,,1.0
+ORLY,O'Reilly Automotive,,,1.0,1.0,1.0,
+OSH,Oak Street Health Inc,,,,1.0,,
+OSIS,O S I Systems Inc,,,1.0,,,
+OSK,Oshkosh Truck Corp,,,,1.0,,1.0
+OSTK,Overstock.com Inc,,,1.0,,,
+OTEX,Open Text Cp,,,1.0,,,
+OTIS,Otis Worldwide Corp [Otis/I],,,,1.0,1.0,
+OTTR,Otter Tail Corp,,,1.0,,,
+OUT,Outfront Media Inc,,,,1.0,,
+OXY,Occidental Petroleum Corp,,,,1.0,1.0,
+OZK,Bank Ozk,,,1.0,1.0,,1.0
+PAAS,Pan Amer Silver Corp,,,1.0,,,
+PACB,Pacific Biosciences,,,1.0,,,
+PACW,Pacwest Bancorp,,,1.0,1.0,,1.0
+PAG,Penske Automotive Group,,,,1.0,,
+PANW,Palo Alto Networks Inc,,,,1.0,,
+PATK,Patrick Inds Inc,,,1.0,,,
+PAYC,Paycom Software Inc,,,,1.0,1.0,
+PAYX,Paychex Inc,,,1.0,1.0,1.0,
+PB,Prosperity Bancshares,,,,1.0,,1.0
+PBCT,People's United Finl,,,1.0,1.0,1.0,
+PBH,Prestige Brand Holdings,,,,,,1.0
+PCAR,Paccar Inc,,,1.0,1.0,1.0,
+PCG,Pacific Gas & Electric Company,,,,1.0,,
+PCH,Potlatch Cp,,,1.0,,,1.0
+PCRX,Pacira Pharm Inc,,,1.0,,,
+PCTY,Paylocity Hld Corp,,,1.0,1.0,,1.0
+PCVX,Vaxcyte Inc,,,1.0,,,
+PD,Pagerduty Inc,,,,1.0,,
+PDCE,Pdc Energy Inc,,,1.0,,,
+PDCO,Patterson Companies,,,1.0,,,1.0
+PDD,Pinduoduo Inc ADR,,,1.0,,,
+PE,Parsley Energy,,,,1.0,,
+PEAK,Healthpeak Properties Inc,,,,1.0,1.0,
+PEB,Pebblebrook Hotel Trust,,,,,,1.0
+PEG,Public Service Enterprise Group Inc,,1.0,,1.0,1.0,
+PEGA,Pegasystems Inc,,,1.0,1.0,,
+PEN,Penumbra Inc,,,,1.0,,1.0
+PENN,Penn Natl Gaming Inc,,,1.0,,,1.0
+PEP,Pepsico Inc,,,1.0,1.0,1.0,
+PFBC,Preferred Bank LA,,,1.0,,,
+PFE,Pfizer Inc,,,,1.0,1.0,
+PFG,Principal Financial Group Inc,,,1.0,1.0,1.0,
+PFIS,Peoples Finl Svcs Company,,,1.0,,,
+PFPT,Proofpoint Inc,,,1.0,1.0,,
+PG,Procter & Gamble Company,,1.0,,1.0,1.0,
+PGNY,Progyny Inc,,,1.0,,,
+PGR,Progressive Corp,,,,1.0,1.0,
+PGRE,Paramount Group Inc,,,,1.0,,
+PH,Parker-Hannifin Corp,,,,1.0,1.0,
+PHM,Pultegroup,,,,1.0,1.0,
+PII,Polaris Industries Inc,,,,1.0,,1.0
+PINC,Premier Inc Cl A,,,1.0,1.0,,
+PINS,Pinterest Inc,,,,1.0,,
+PK,Park Hotels & Resorts Inc,,,,1.0,,1.0
+PKG,Packaging Corp of America,,,,1.0,1.0,
+PKI,Perkinelmer,,,,1.0,1.0,
+PLAN,Anaplan Inc,,,,1.0,,
+PLD,Prologis Inc,,,,1.0,1.0,
+PLMR,Palomar Holdings Inc,,,1.0,,,
+PLNT,Planet Fitness,,,,1.0,,
+PLUG,Plug Power Inc,,,1.0,,,
+PLUS,Eplus Inc,,,1.0,,,
+PLXS,Plexus Cp,,,1.0,,,
+PLYA,Playa Hotels & Resorts N.V.,,,1.0,,,
+PM,Philip Morris International Inc,,,,1.0,1.0,
+PMVP,Pmv Pharmaceuticals Inc,,,1.0,,,
+PNC,PNC Bank,,,,1.0,1.0,
+PNFP,Pinnacle Finl Ptnrs,,,1.0,1.0,,1.0
+PNM,PNM Resources Inc,,,,,,1.0
+PNR,Pentair Ltd,,,,1.0,1.0,
+PNTG,The Pennant Group Inc,,,1.0,,,
+PNW,Pinnacle West Capital Corp,,,,1.0,1.0,
+PODD,Insulet Corp,,,1.0,1.0,,
+POOL,Pool Corp,,,1.0,1.0,1.0,
+POST,Post Holdings Inc,,,,1.0,,1.0
+POWI,Power Integratn,,,1.0,,,
+PPBI,Pacific Premier Bncp,,,1.0,,,
+PPC,Pilgrim's Pride,,,1.0,1.0,,1.0
+PPD,Ppd Inc,,,1.0,1.0,,
+PPG,PPG Industries,,,,1.0,1.0,
+PPL,PPL Corp,,,,1.0,1.0,
+PRAA,Pra Group Inc,,,1.0,,,
+PRAH,Pra Health,,,1.0,1.0,,1.0
+PRDO,Perdoceo Education Corp,,,1.0,,,
+PRFT,Perficient Inc,,,1.0,,,
+PRG,Prog Hldgs Inc,,,,,,1.0
+PRGO,Perrigo Company,,,,1.0,1.0,
+PRGS,Progress Software,,,1.0,,,
+PRI,Primerica Inc,,,,1.0,,1.0
+PRIM,Primoris Services Cp,,,1.0,,,
+PRLD,Prelude Therapeutics Incorporated,,,1.0,,,
+PRPL,Purple Innovation Inc,,,1.0,,,
+PRQR,Proqr Therapeutics,,,1.0,,,
+PRSC,Providence Svc Cp,,,1.0,,,
+PRSP,Perspecta Inc,,,,,,1.0
+PRU,Prudential Financial Inc,,,,1.0,1.0,
+PS,Pluralsight Inc Cl A,,,1.0,1.0,,
+PSA,Public Storage,,,,1.0,1.0,
+PSB,Business Parks,,,,,,1.0
+PSMT,Pricesmart Inc,,,1.0,,,
+PSTG,Pure Storage Inc,,,,1.0,,
+PSX,Phillips 66,,,,1.0,1.0,
+PTC,Ptc Inc,,,1.0,1.0,,1.0
+PTCT,Ptc Therapeutics,,,1.0,,,
+PTON,Peloton Interactive Inc,,,1.0,1.0,,
+PTVE,Pactiv Evergreen Inc,,,1.0,,,
+PVH,Phillips-Van Heusen Corp,,,,1.0,1.0,
+PWR,Quanta Services,,,,1.0,1.0,
+PXD,Pioneer Natural Resources Company,,,,1.0,1.0,
+PYPL,Paypal Holdings,,,1.0,1.0,1.0,
+PZZA,Papa John's Intl,,,1.0,,,1.0
+QCOM,Qualcomm Inc,,,1.0,1.0,1.0,
+QDEL,Quidel Cp,,,1.0,1.0,,1.0
+QFIN,360 Finance Inc ADR,,,1.0,,,
+QGEN,Qiagen N.V.,,,,1.0,,
+QLYS,Qualys Inc,,,1.0,,,1.0
+QNST,Quinstreet Inc,,,1.0,,,
+QRTEA,Qurate Retail Inc Series A,,,1.0,1.0,,
+QRVO,Qorvo Inc,,,1.0,1.0,1.0,
+QTRX,Quanterix Corp,,,1.0,,,
+QURE,Uniqure N.V.,,,1.0,,,
+R,Ryder System,,1.0,,1.0,,1.0
+RAMP,Liveramp Holdings Inc,,,,,,1.0
+RARE,Ultragenyx Pharmaceu,,,1.0,,,
+RAVN,Raven Industries Inc,,,1.0,,,
+RBC,Regal-Beloit Corp,,,,1.0,,1.0
+RBCAA,Republic Bancorp Inc,,,1.0,,,
+RCII,Rent-A-Center Inc,,,1.0,,,
+RCKT,Rocket Pharmaceuticals Inc,,,1.0,,,
+RCL,Royal Caribbean Cruises Ltd,,,,1.0,1.0,
+RCM,R1 Rcm Inc,,,1.0,,,
+RDFN,Redfin Corp,,,1.0,,,
+RDWR,Radware Ltd,,,1.0,,,
+RE,Everest Re Group,,,,1.0,1.0,
+REAL,The Realreal Inc,,,1.0,,,
+REG,Regency Centers Corp,,,1.0,1.0,1.0,
+REGI,Renewable Energy,,,1.0,,,
+REGN,Regeneron Pharmaceuticals,,,1.0,1.0,1.0,
+REPL,Replimune Group Inc,,,1.0,,,
+RETA,Reata Pharma,,,1.0,1.0,,
+REXR,Rexford Industrial Realty Inc,,,,1.0,,1.0
+REYN,Reynolds Consumer Products Inc,,,1.0,1.0,,
+RF,Regions Financial Corp,,,,1.0,1.0,
+RGA,Reinsurance Group of America Inc,,,,1.0,,1.0
+RGEN,Repligen Cp,,,1.0,1.0,,1.0
+RGLD,Royal Gold Inc,,,1.0,1.0,,1.0
+RGNX,Regenxbio Inc,,,1.0,,,
+RH,Restoration Hardware Holdings,,,,,,1.0
+RHI,Robert Half International Inc,,,,1.0,1.0,
+RJF,Raymond James Financial,,,,1.0,1.0,
+RKT,Rocket Companies Inc Cl A,,,,1.0,,
+RL,Ralph Lauren Corp,,,,1.0,1.0,
+RLAY,Relay Therapeutics Inc,,,1.0,,,
+RLI,Rli Corp,,,,,,1.0
+RMBS,Rambus Inc,,,1.0,,,
+RMD,Resmed Inc,,,,1.0,1.0,
+RMR,The Rmr Grp A,,,1.0,,,
+RNA,Avidity Biosciences Inc,,,1.0,,,
+RNG,Ringcentral Inc,,,,1.0,,
+RNR,Renaissancere Holdings Ltd,,,,1.0,,1.0
+RNST,Renasant Corp,,,1.0,,,
+ROCK,Gibraltar Ind Inc,,,1.0,,,
+ROIC,Retail Opp Invts Cp,,,1.0,,,
+ROK,Rockwell Automation Inc,,,,1.0,1.0,
+ROKU,Roku Inc,,,1.0,1.0,,
+ROL,Rollins Inc,,,,1.0,1.0,
+ROLL,RBC Bearings Incorp,,,1.0,,,
+ROP,Roper Industries,,,,1.0,1.0,
+ROST,Ross Stores Inc,,,1.0,1.0,1.0,
+RP,Realpage Inc,,,1.0,1.0,,
+RPD,Rapid7 Inc,,,1.0,,,
+RPM,RPM International Inc,,,,1.0,,1.0
+RPRX,Royalty Pharma Plc Cl A,,,1.0,1.0,,
+RRR,Red Rock Resorts Inc,,,1.0,,,
+RS,Reliance Steel & Aluminum Company,,,,1.0,,1.0
+RSG,Republic Services,,,,1.0,1.0,
+RTX,Raytheon Technologies Corp,,,,1.0,1.0,
+RUBY,Rubius Therapeutics Inc,,,1.0,,,
+RUN,Sunrun Inc,,,1.0,,,1.0
+RUSHA,Rush Entpr Cl A,,,1.0,,,
+RVMD,Revolution Medicines Inc,,,1.0,,,
+RXT,Rackspace Technology Inc,,,1.0,,,
+RYAAY,Ryanair Hlds Plc,,,1.0,,,
+RYN,Rayonier Inc REIT,,,,1.0,,1.0
+RYTM,Rhythm Pharmaceuticals Inc,,,1.0,,,
+SABR,Sabre Corp,,,1.0,1.0,,1.0
+SAFM,Sanderson Farms IN,,,1.0,,,1.0
+SAFT,Safety Ins Group Inc,,,1.0,,,
+SAGE,Sage Therapeutic Com,,,1.0,1.0,,
+SAIA,Saia Inc,,,1.0,,,
+SAIC,Science Applications International,,,,1.0,,1.0
+SAIL,Sailpoint Technologies Holdings Inc,,,,,,1.0
+SAM,Boston Beer Company,,,,1.0,,1.0
+SANM,Sanmina Corp,,,1.0,,,
+SASR,Sandy Spring Bancorp,,,1.0,,,
+SATS,Echostar Corp,,,1.0,1.0,,
+SBAC,SBA Communications,,,1.0,1.0,1.0,
+SBCF,Seacoast Banking Cp,,,1.0,,,
+SBGI,Sinclair Brdcst A,,,1.0,,,
+SBLK,Star Bulk Carriers,,,1.0,,,
+SBNY,Signature Bank,,,1.0,1.0,,1.0
+SBRA,Sabra REIT,,,1.0,,,1.0
+SBSI,Southside Bancshares,,,1.0,,,
+SBUX,Starbucks Corp,,,1.0,1.0,1.0,
+SC,Santander Consumer USA Holdings,,,,1.0,,
+SCCO,Southern Peru Copper Corp,,,,1.0,,
+SCHL,Scholastic Cp,,,1.0,,,
+SCHW,The Charles Schwab Corp,,,,1.0,1.0,
+SCI,Service Corp International,,,,1.0,,1.0
+SCOR,Comscore Inc,,,1.0,,,
+SCSC,Scansource Inc,,,1.0,,,
+SDC,Smiledirectclub Inc,,,1.0,,,
+SDGR,Schrodinger Inc,,,1.0,,,
+SEB,Seaboard Corp,,,,1.0,,
+SEDG,Solaredge Tech,,,1.0,1.0,,1.0
+SEE,Sealed Air Corp,,,,1.0,1.0,
+SEIC,Sei Investments Company,,,1.0,1.0,,1.0
+SF,Stifel Financial Corp,,,,,,1.0
+SFBS,Servisfirst Bancs,,,1.0,,,
+SFIX,Stitch Fix Inc,,,1.0,,,
+SFM,Sprouts Farmers Mark,,,1.0,1.0,,1.0
+SFNC,Simmons First Natl,,,1.0,,,
+SGEN,Seattle Genetics Inc,,,1.0,1.0,,
+SGMO,Sangamo Therapeutics,,,1.0,,,
+SGMS,Scientific Games,,,1.0,,,1.0
+SGRY,Surgery Partners CS,,,1.0,,,
+SHC,Sotera Health Company,,,1.0,,,
+SHEN,Shenandoah Telecom,,,1.0,,,
+SHOO,Steven Maddens Ltd,,,1.0,,,
+SHW,Sherwin-Williams Company,,,,1.0,1.0,
+SIGI,Selective Ins Group,,,1.0,,,1.0
+SILK,Silk Road Medical Inc,,,1.0,,,
+SIMO,Silicon Motion Techn,,,1.0,,,
+SINA,Sina Corp,,,1.0,,,
+SIRI,Sirius XM Holdings,,,1.0,1.0,,
+SITM,Sitime Corp,,,1.0,,,
+SIVB,Svb Financial Group,,,1.0,1.0,1.0,
+SIX,Six Flags Entertainment Corp,,,,1.0,,1.0
+SJM,J.M. Smucker Company,,,,1.0,1.0,
+SKX,Skechers U.S.A.,,,,1.0,,1.0
+SKYW,Skywest Inc,,,1.0,,,
+SLAB,Silicon Labs Inc,,,1.0,,,1.0
+SLB,Schlumberger N.V.,,,,1.0,1.0,
+SLDB,Solid Biosciences Inc,,,1.0,,,
+SLG,SL Green Realty Corp,,,,1.0,1.0,
+SLGN,Silgan Holdings,,,1.0,1.0,,1.0
+SLM,SLM Corp,,,1.0,1.0,,1.0
+SLS,Sellas Life Sciences Group Inc,,,1.0,,,
+SMAR,Smartsheet Inc Cl A,,,,1.0,,
+SMCI,Super Micro Computer,,,1.0,,,
+SMG,Scotts Miracle-Gro Company,,,,1.0,,1.0
+SMPL,The Simply Good Foods Company,,,1.0,,,
+SMTC,Semtech Corp,,,1.0,,,1.0
+SNA,Snap-On Inc,,,,1.0,1.0,
+SNBR,Sleep Number Corp,,,1.0,,,
+SND,Smart Sand Inc,,,1.0,,,
+SNDR,Schneider National Inc,,,,1.0,,
+SNPS,Synopsys Inc,,,1.0,1.0,1.0,
+SNV,Synovus Financial Corp,,,,1.0,,1.0
+SNX,Synnex Corp,,,,1.0,,1.0
+SNY,Sanofi-Aventis S.A.,,,1.0,,,
+SO,Southern Company,,1.0,,1.0,1.0,
+SON,Sonoco Products Company,,,,1.0,,1.0
+SONO,Sonos Inc,,,1.0,,,
+SPB,Spectrum Brands Holdings Inc,,,,1.0,,
+SPCE,Virgin Galactic Holdings Inc,,,,1.0,,
+SPG,Simon Property Group,,,,1.0,1.0,
+SPGI,S&P Global Inc,,,,1.0,1.0,
+SPLK,Splunk Inc,,,1.0,1.0,,
+SPNS,Sapiens Intl Cp NV,,,1.0,,,
+SPOT,Spotify Technology S.A.,,,,1.0,,
+SPR,Spirit Aerosystems Holdings,,,,1.0,,
+SPSC,Sps Commerce Inc,,,1.0,,,
+SPT,Sprout Social Inc Cl A,,,1.0,,,
+SPWR,Sunpower Corp,,,1.0,,,
+SQ,Square,,,,1.0,,
+SQBG,Sequential Brands,,,1.0,,,
+SR,Spire Inc,,,,,,1.0
+SRC,Spirit Realty Capital Inc,,,,1.0,,1.0
+SRCE,1st Source Corp,,,1.0,,,
+SRCL,Stericycle Inc,,,1.0,1.0,,1.0
+SRE,Sempra Energy,,1.0,,1.0,1.0,
+SRNE,Sorrento Therpt,,,1.0,,,
+SRPT,Sarepta Therapeutics,,,1.0,1.0,,
+SSB,South State Cp,,,1.0,,,
+SSD,Simpson Manufacturing Company,,,,,,1.0
+SSNC,SS&C Technologies,,,1.0,1.0,,
+SSRM,Ssr Mining Inc,,,1.0,,,
+ST,Sensata Technologies Holding N.V.,,,,1.0,,
+STAA,Staar Surgical Company,,,1.0,,,
+STAY,Extended Stay America Inc,,,1.0,1.0,,
+STBA,S&T Bancorp Inc,,,1.0,,,
+STE,Steris Corp,,,,1.0,1.0,
+STFC,State Auto Finl Corp,,,1.0,,,
+STL,Sterling Bancorp,,,,1.0,,1.0
+STLD,Steel Dynamics Inc,,,1.0,1.0,,1.0
+STMP,Stamps.com Inc,,,1.0,,,
+STNE,Stoneco Ltd Cl A,,,1.0,1.0,,
+STOR,Store Capital Corpstore Capital,,,,1.0,,1.0
+STRA,Strayer Education,,,1.0,,,1.0
+STT,State Street Corp,,,,1.0,1.0,
+STWD,Starwood Property Trust,,,,1.0,,
+STX,Seagate Tech Ord Shs,,,1.0,,1.0,
+STZ,Constellation Brands Inc,,,,1.0,1.0,
+SUI,Sun Communities,,,,1.0,,
+SUMO,Sumo Logic Inc,,,1.0,,,
+SUPN,Supernus Pharm,,,1.0,,,
+SVC,Service Properties Trust,,,1.0,,,1.0
+SVMK,Svmk Inc,,,1.0,,,
+SVRA,Savara Inc,,,1.0,,,
+SWAV,Shockwave Medical Inc,,,1.0,,,
+SWCH,Switch Inc,,,,1.0,,
+SWI,Solarwinds Corp,,,,1.0,,
+SWK,Stanley Black & Decker Inc,,,,1.0,1.0,
+SWKS,Skyworks Solutions,,,1.0,1.0,1.0,
+SWTX,Springworks Therapeutics Inc,,,1.0,,,
+SWX,Southwest Gas Corp,,,,,,1.0
+SXT,Sensient Technologies Corp,,,,,,1.0
+SYBT,Stock Yards Bancorp,,,1.0,,,
+SYBX,Synlogic Inc,,,1.0,,,
+SYF,Synchrony Financial,,,,1.0,1.0,
+SYK,Stryker Corp,,,,1.0,1.0,
+SYKE,Sykes Enterprises,,,1.0,,,
+SYNA,Synaptics Inc,,,1.0,,,1.0
+SYNH,Syneos Health Inc,,,1.0,1.0,,1.0
+SYY,Sysco Corp,,,,1.0,1.0,
+T,AT&T Inc,,,,1.0,1.0,
+TAP,Molson Coors Brewing Company,,,,1.0,1.0,
+TBIO,Translate Bio Inc,,,1.0,,,
+TBPH,Theravance Bio Ord,,,1.0,,,
+TCBI,Texas Capital Bncsh,,,1.0,,,1.0
+TCBK,Trico Bancshares,,,1.0,,,
+TCF,TCF Financial Corp,,,1.0,1.0,,1.0
+TCO,Taubman Centers,,,,1.0,,1.0
+TCOM,Trip.com Group Ltd,,,1.0,,,
+TCX,Tucows Inc Cl A,,,1.0,,,
+TDC,Teradata Corp,,,,1.0,,1.0
+TDG,Transdigm Group Inc,,,,1.0,1.0,
+TDOC,Teladoc Health Inc,,,,1.0,,
+TDS,Telephone and Data Systems,,,,1.0,,1.0
+TDY,Teledyne Technologies Inc,,,,1.0,1.0,
+TEAM,Atlassian Cls A Ord,,,1.0,1.0,,
+TECH,Bio-Techne Cp,,,1.0,1.0,,1.0
+TEL,Te Connectivity Ltd,,,,,1.0,
+TENB,Tenable Holdings Inc,,,1.0,,,
+TER,Teradyne Inc,,,1.0,1.0,1.0,
+TEX,Terex Corp,,,,,,1.0
+TFC,Truist Financial Corp,,,,1.0,1.0,
+TFSL,Tfs Financial Corp,,,1.0,1.0,,
+TFX,Teleflex Inc,,,,1.0,1.0,
+TGNA,Tegna Inc,,,,,,1.0
+TGT,Target Corp,,,,1.0,1.0,
+TGTX,Tg Therapeuticscmn,,,1.0,,,
+THC,Tenet Healthcare Corp,,,,,,1.0
+THFF,First Finl Corp [In],,,1.0,,,
+THG,The Hanover Insurance Group,,,,1.0,,1.0
+THO,Thor Industries,,,,1.0,,1.0
+THRM,Gentherm Inc,,,1.0,,,
+THS,Treehouse Foods,,,,1.0,,1.0
+TIF,Tiffany & Company,,,,1.0,1.0,
+TIGO,Millicom International Cellular S.A.,,,1.0,,,
+TJX,TJX Companies,,,,1.0,1.0,
+TKR,Timken Company,,,,1.0,,1.0
+TLND,Talend S.A.,,,1.0,,,
+TLS,Telos Corp,,,1.0,,,
+TMHC,Taylor Morrison Home Corp,,,,,,1.0
+TMO,Thermo Fisher Scientific Inc,,,,1.0,1.0,
+TMUS,T-Mobile US,,,1.0,1.0,1.0,
+TMX,Terminix Global Hldgs Inc,,,,1.0,,
+TNDM,Tandem Diabetes Care,,,1.0,1.0,,
+TOL,Toll Brothers Inc,,,,1.0,,1.0
+TOWN,Towne Bank,,,1.0,,,
+TPH,Tri Pointe Homes Inc,,,,,,1.0
+TPIC,Tpi Composites Inc,,,1.0,,,
+TPR,Tapestry Inc,,,,1.0,1.0,
+TPTX,Turning Point Therapeutics Inc,,,1.0,,,
+TPX,Tempur-Pedic International Inc,,,,1.0,,1.0
+TR,Tootsie Roll Industries,,,,,,1.0
+TREE,Lendingtree Inc,,,1.0,1.0,,1.0
+TREX,Trex Company,,,,1.0,,1.0
+TRGP,Targa Resources,,,,1.0,,
+TRHC,Tabula Rasa Healthcare Inc,,,1.0,,,
+TRIP,Tripadvisor Inc,,,1.0,1.0,,1.0
+TRMB,Trimble Navigation,,,1.0,1.0,,1.0
+TRMK,Trustmark Corp,,,1.0,,,1.0
+TRN,Trinity Industries,,,,1.0,,1.0
+TROW,T Rowe Price Group,,,1.0,1.0,1.0,
+TRS,Trimas Corp,,,1.0,,,
+TRST,Trustco Bank Corp NY,,,1.0,,,
+TRU,Transunion,,,,1.0,,
+TRUP,Trupanion Inc,,,1.0,,,
+TRV,The Travelers Companies Inc,,1.0,,1.0,1.0,
+TSCO,Tractor Supply Company,,,1.0,1.0,1.0,
+TSEM,Tower Semiconductor,,,1.0,,,
+TSLA,Tesla Inc,,,1.0,1.0,1.0,
+TSN,Tyson Foods,,,,1.0,1.0,
+TT,Trane Technologies Plc,,,,1.0,1.0,
+TTC,Toro Company,,,,1.0,,1.0
+TTD,Trade Desk Inc,,,1.0,1.0,,
+TTEC,Teletech Hlds,,,1.0,,,
+TTEK,Tetra Tech Inc,,,1.0,,,1.0
+TTGT,Techtarget Inc,,,1.0,,,
+TTMI,TTM Technologies,,,1.0,,,
+TTWO,Take-Two Interacti,,,1.0,1.0,1.0,
+TVTX,Travere Therapeutics Inc,,,1.0,,,
+TW,Tradeweb Markets Inc,,,1.0,1.0,,
+TWLO,Twilio,,,,1.0,,
+TWNK,Hostess Brands Inc,,,1.0,,,
+TWOU,2U Inc,,,1.0,1.0,,
+TWST,Twist Bioscience Corp,,,1.0,,,
+TWTR,Twitter Inc,,,,1.0,1.0,
+TXG,10X Genomics Inc,,,1.0,1.0,,
+TXN,Texas Instruments,,,1.0,1.0,1.0,
+TXRH,Texas Roadhouse Inc,,,1.0,,,1.0
+TXT,Textron Inc,,,,1.0,1.0,
+TYL,Tyler Technologies,,,,1.0,1.0,
+UA,Under Armour Inc Cl C,,,,1.0,1.0,
+UAA,Under Armour,,,,1.0,1.0,
+UAL,United Airlines Holdings Inc,,1.0,1.0,1.0,1.0,
+UBER,Uber Technologies Inc,,,,1.0,,
+UBSI,United Bkshs Inc,,,1.0,,,1.0
+UCBI,United Comm Banks,,,1.0,,,
+UDR,United Dominion Realty Trust,,,,1.0,1.0,
+UE,Urban Edge Properties,,,,,,1.0
+UEIC,Universal Elect IN,,,1.0,,,
+UFCS,United Fire Group,,,1.0,,,
+UFPI,Universal Forest Prd,,,1.0,,,
+UFS,Domtar Corp,,,,,,1.0
+UGI,Ugi Corp,,,,1.0,,1.0
+UHAL,A M E R C O,,,1.0,1.0,,
+UHS,Universal Health Services,,,,1.0,1.0,
+UI,Ubiquiti Networks,,,,1.0,,
+UIHC,United Insurance Hld,,,1.0,,,
+ULH,Universal Logis Hld,,,1.0,,,
+ULTA,Ulta Beauty Inc,,,1.0,1.0,1.0,
+UMBF,Ump Financial Corp,,,1.0,,,1.0
+UMPQ,Umpqua Holdings Corp,,,1.0,1.0,,1.0
+UNH,Unitedhealth Group Inc,,1.0,,1.0,1.0,
+UNIT,Uniti Group Inc,,,1.0,,,
+UNM,Unumprovident Corp,,,,1.0,1.0,
+UNP,Union Pacific Corp,,1.0,,1.0,1.0,
+UNVR,Univar Inc,,,,1.0,,1.0
+UPLD,Upland Software Inc,,,1.0,,,
+UPS,United Parcel Service,,1.0,,1.0,1.0,
+UPWK,Upwork Inc,,,1.0,,,
+URBN,Urban Outfitters Inc,,,1.0,,,1.0
+URI,United Rentals,,,,1.0,1.0,
+USB,U.S. Bancorp,,,,1.0,1.0,
+USFD,US Foods Holding,,,,1.0,,
+USM,United States Cellular Corp,,,,1.0,,
+UTHR,United Therapeutic,,,1.0,1.0,,1.0
+UVSP,Univest Corp of Penn,,,1.0,,,
+V,Visa Inc,,1.0,,1.0,1.0,
+VAC,Marriot Vacations Worldwide Cor,,,,,,1.0
+VAR,Varian Medical Systems,,,,1.0,1.0,
+VBTX,Veritex Holdings,,,1.0,,,
+VC,Visteon Corp,,,1.0,,,1.0
+VCYT,Veracyte Inc,,,1.0,,,
+VEEV,Veeva Systems Inc,,,,1.0,,
+VEON,Veon Ltd,,,1.0,,,
+VER,Vereit Inc,,,,1.0,,
+VFC,V.F. Corp,,,,1.0,1.0,
+VG,Vonage Holdings,,,1.0,,,
+VIAC,Viacomcbs Inc Cl B,,,1.0,1.0,1.0,
+VIACA,Viacomcbs Inc Cl A,,,1.0,1.0,,
+VIAV,Viavi Solutions,,,1.0,,,
+VICI,Vici Properties Inc,,,,1.0,,
+VICR,Vicor Cp,,,1.0,,,
+VIE,Viela Bio Inc,,,1.0,,,
+VIR,Vir Biotechnology Inc,,,1.0,,,
+VIRT,Virtu Financial Cm A,,,1.0,1.0,,
+VITL,Vital Farms Inc,,,1.0,,,
+VLDR,Velodyne Lidar Inc.,,,1.0,,,
+VLO,Valero Energy Corp,,,,1.0,1.0,
+VLY,Valley National Bancorp,,,1.0,,,1.0
+VMC,Vulcan Materials Company,,,,1.0,1.0,
+VMI,Valmont Industries,,,,1.0,,1.0
+VMW,Vmware Inc,,,,1.0,,
+VNET,21Vianet Group Inc,,,1.0,,,
+VNO,Vornado Realty Trust,,,,1.0,1.0,
+VNT,Vontier Corp [Vnt/I],,,,1.0,1.0,
+VOD,Vodafone Grp Plc Ads,,,1.0,,,
+VOYA,VOYA Financial Inc,,,,1.0,,
+VRM,Vroom Inc,,,1.0,1.0,,
+VRNS,Varonis Systems Inc,,,1.0,,,
+VRNT,Verint Systems Inc,,,1.0,,,
+VRRM,Verra Mobility Corp,,,1.0,,,
+VRSK,Verisk Analytics Inc,,,1.0,1.0,1.0,
+VRSN,Verisign Inc,,,1.0,1.0,1.0,
+VRT,Vertiv Holdings Llc.,,,,1.0,,
+VRTU,Virtusa Corp,,,1.0,,,
+VRTX,Vertex Pharmaceutic,,,1.0,1.0,1.0,
+VSAT,Viasat Inc,,,1.0,1.0,,1.0
+VSH,Vishay Intertechnology,,,,,,1.0
+VST,Vistra Energy Corp,,,,1.0,,
+VTR,Ventas Inc,,,,1.0,1.0,
+VTRS,Viatris Inc,,,1.0,1.0,1.0,
+VVV,Valvoline Inc,,,,1.0,,1.0
+VZ,Verizon Communications Inc,,1.0,,1.0,1.0,
+W,Wayfair Inc,,,,1.0,,
+WAB,Wabtec Corp,,,,1.0,1.0,
+WABC,Westamerica Bancorp,,,1.0,,,
+WAFD,Washington Federal,,,1.0,,,1.0
+WAL,Western Alliance Bancorp,,,,1.0,,
+WASH,Washington TR Bncorp,,,1.0,,,
+WAT,Waters Corp,,,,1.0,1.0,
+WB,Weibo Corp Ads,,,1.0,,,
+WBA,Walgreens Boots Alliance,,1.0,1.0,1.0,1.0,
+WBS,Webster Financial Corp,,,,1.0,,1.0
+WDAY,Workday Inc,,,1.0,1.0,,
+WDC,Western Digital Cp,,,1.0,1.0,1.0,
+WDFC,W D 40 Company,,,1.0,,,
+WEC,Wisconsin Energy Corp,,,,1.0,1.0,
+WELL,Welltower Inc,,,,1.0,1.0,
+WEN,Wendys Company,,,1.0,1.0,,1.0
+WERN,Werner Enterprise,,,1.0,,,1.0
+WEX,Wex Inc,,,,1.0,,1.0
+WFC,Wells Fargo & Company,,,,1.0,1.0,
+WH,Wyndham Hotels & Resorts Inc,,,,1.0,,1.0
+WHR,Whirlpool Corp,,,,1.0,1.0,
+WING,Wingstop Inc,,,1.0,,,1.0
+WIRE,Encore Wire Cp,,,1.0,,,
+WIX,Wix.com Ltd,,,1.0,,,
+WKHS,Workhorse Grp,,,1.0,,,
+WLK,Westlake Chemical Corp,,,,1.0,,
+WLTW,Willis Towers WT,,,1.0,1.0,1.0,
+WM,Waste Management,,,,1.0,1.0,
+WMB,Williams Companies,,,,1.0,1.0,
+WMG,Warner Music Group Corp Cl A,,,1.0,,,
+WMT,Wal-Mart Stores,,1.0,,1.0,1.0,
+WOR,Worthington Industries,,,,,,1.0
+WORK,Slack Technologies Inc,,,,1.0,,
+WPC,W.P. Carey & CO Llc,,,,1.0,,
+WPX,Wpx Energy Inc,,,,1.0,,1.0
+WRB,W.R. Berkley Corp,,,,1.0,1.0,
+WRI,Weingarten Realty Investors,,,,1.0,,1.0
+WRK,Westrock Company,,,,1.0,1.0,
+WSBC,Wesbanco Inc,,,1.0,,,
+WSC,Willscot Corp,,,1.0,,,
+WSFS,WSFS Financial Corp,,,1.0,,,
+WSM,Williams-Sonoma,,,,1.0,,1.0
+WSO,Watsco Inc,,,,1.0,,1.0
+WST,West Pharmaceutical Services,,,,1.0,1.0,
+WTFC,Wintrust Finl Corp,,,1.0,1.0,,1.0
+WTM,White Mountains Insurance Group,,,,1.0,,
+WTRG,Essential Utilities Inc,,,,1.0,,1.0
+WU,Western Union Company,,,,1.0,1.0,
+WW,Weight Watchers International Inc,,,1.0,,,1.0
+WWD,Woodward Inc,,,1.0,1.0,,1.0
+WWE,World Wrestling Entertainment,,,,1.0,,1.0
+WY,Weyerhaeuser Company,,,,1.0,1.0,
+WYND,Wyndham Destinations Inc,,,,1.0,,1.0
+WYNN,Wynn Resorts Ltd,,,1.0,1.0,1.0,
+X,United States Steel Corp,,,,,,1.0
+XCUR,Exicure Inc,,,1.0,,,
+XEC,Cimarex Energy Company,,,,1.0,,1.0
+XEL,XCEL Energy Inc,,,1.0,1.0,1.0,
+XLNX,Xilinx Inc,,,1.0,1.0,1.0,
+XLRN,Acceleron Pharma,,,1.0,1.0,,
+XNCR,Xencor Inc,,,1.0,,,
+XOM,Exxon Mobil Corp,,,,1.0,1.0,
+XP,XP Inc Cl A,,,1.0,,,
+XPER,Xperi Holding Corp,,,1.0,,,
+XPO,Xpo Logistics Inc,,,,1.0,,1.0
+XRAY,Dentsply Sirona Inc,,,1.0,1.0,1.0,
+XRX,Xerox Corp,,,,1.0,1.0,
+XYL,Xylem Inc,,,,1.0,1.0,
+Y,Alleghany Corp,,,,1.0,,1.0
+YELP,Yelp Inc,,,,,,1.0
+YMAB,Y-Mabs Therapeutics Inc,,,1.0,,,
+YNDX,Yandex N.V.,,,1.0,,,
+YUM,Yum! Brands,,,,1.0,1.0,
+YUMC,Yum China Holdings Inc,,,,1.0,,
+YY,YY Inc,,,1.0,,,
+Z,Zillow Group Cl C,,,1.0,1.0,,
+ZBH,Zimmer Biomet Holdings,,,,1.0,1.0,
+ZBRA,Zebra Technologies,,,1.0,1.0,1.0,
+ZEN,Zendesk Inc,,,,1.0,,
+ZG,Zillow Grp Inc Cl A,,,1.0,1.0,,
+ZGNX,Zogenix Inc,,,1.0,,,
+ZI,Zoominfo Technologies Inc Cl A,,,1.0,,,
+ZION,Zions Bancorp,,,1.0,1.0,1.0,
+ZLAB,Zai Lab Ltd,,,1.0,,,
+ZM,Zoom Video Communications Cl A,,,1.0,1.0,,
+ZNGA,Zynga Inc Cl A,,,1.0,1.0,,
+ZS,Zscaler Inc,,,1.0,1.0,,
+ZTS,Zoetis Inc Cl A,,,,1.0,1.0,
