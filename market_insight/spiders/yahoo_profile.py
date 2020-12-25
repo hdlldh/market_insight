@@ -30,7 +30,6 @@ class YahooProfileSpider(scrapy.Spider):
                         item[key] = val
                     else:
                         item[key] = ""
-        if symbol == 'ABCO': print(item)
         if item:
             item['Symbol'] = symbol
             item['Timestamp'] = dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
