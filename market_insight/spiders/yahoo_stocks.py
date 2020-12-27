@@ -21,14 +21,14 @@ class YahooStatisticsSpider(scrapy.Spider):
         symbol = response.url.split('/')[-1]
         query = json.loads(response.text)
         quote = dict()
-        # try:
-        quote['dataGranularity'] = query['chart']['result'][0]['meta']['dataGranularity']
-        quote['tradingPeriods'] = query['chart']['result'][0]['meta']['tradingPeriods']
-        quote['range'] = query['chart']['result'][0]['meta']['range']
-        quote['timestamp'] = query['chart']['result'][0]['timestamp']
-        quote['quote'] = query['chart']['result'][0]['indicators']['quote'][0]
-        # except KeyError or IndexError:
-        #     pass
+        try:
+            quote['dataGranularity'] = query['chart']['result'][0]['meta']['dataGranularity']
+            quote['tradingPeriods'] = query['chart']['result'][0]['meta']['tradingPeriods']
+            quote['range'] = query['chart']['result'][0]['meta']['range']
+            quote['timestamp'] = query['chart']['result'][0]['timestamp']
+            quote['quote'] = query['chart']['result'][0]['indicators']['quote'][0]
+        except KeyError or IndexError:
+            pass
 
         item = MarketInsightItem()
         item['Symbol'] = symbol
