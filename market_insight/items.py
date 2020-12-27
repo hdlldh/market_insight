@@ -21,5 +21,6 @@ class MarketInsightItem(scrapy.Item):
     Recommendation = scrapy.Field(serializer=lambda x: json.dumps(x))
     RateHistory = scrapy.Field(serializer=lambda x: json.dumps(x))
     PageViews = scrapy.Field(serializer=lambda x: json.dumps(x))
+    Quotes = scrapy.Field(serializer=lambda x: json.dumps(x))
 
 
