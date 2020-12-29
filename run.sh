@@ -1,11 +1,11 @@
-WORK_DIR=/home/donglin/Workspace/market_insight
+WORK_DIR=$HOME/Workspace/market_insight
 cd $WORK_DIR
 mkdir -p $WORK_DIR"/data"
 mkdir -p $WORK_DIR"/logs"
 DATA_FILE=$WORK_DIR"/data/data_$(date +"%Y-%m-%d").csv"
-rm $DATA_FILE
+rm -f $DATA_FILE
 LOG_FILE=$WORK_DIR"/logs/info_$(date +"%Y-%m-%d").log"
-rm $LOG_FILE
+rm -f $LOG_FILE
 scrapy crawl yahoo_stocks \
 	--output=$DATA_FILE \
 	--loglevel=INFO \
